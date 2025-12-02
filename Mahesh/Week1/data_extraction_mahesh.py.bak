@@ -1,0 +1,191 @@
+"""
+Mahesh/Week1/data_extraction_mahesh.py
+Week-1: Data ingestion & parameter interpretation
+Run: python Mahesh/Week1/data_extraction_mahesh.py
+"""
+
+import pandas as pd
+from pathlib import Path
+import re
+import pdfplumber
+import pytesseract   # only used if you enable OCR fallback (requires Tesseract installed)
+import json
+
+# If you installed Tesseract on Windows, set the path (uncomment and update if needed)
+# pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+
+# ---------- PATHS (Adjusted to your repo layout)
+REPO_ROOT = Path('.')                       # run from repo root
+INPUT_CSV = REPO_ROOT / 'Week1' / 'data' / 'healthcare_dataset.csv'
+SAMPLE_PDFS_DIR = REPO_ROOT / 'Week1' / 'data' / 'pdfs'
+
+OUTPUT_DIR = REPO_ROOT / 'Mahesh' / 'Week1' / 'output'
+OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+CLEANED_CSV = OUTPUT_DIR / 'cleaned_data.csv'
+ROW_REPORTS_DIR = OUTPUT_DIR / 'row_reports'
+ROW_REPORTS_DIR.mkdir(parents=True, exist_ok=True)
+
+
+# ---------- Helpers
+def normalize_col_name(col: str) -> str:
+    col = str(col).strip().lower()
+    col = re.sub(r'[\s/()\-]+', '_', col)
+    col = re.sub(r'[^a-z0-9_]', '', col)
+    return col
+
+def try_float(x):
+    try:
+        if pd.isna(x):
+            return None
+        s = str(x).strip().replace(',', '')
+        # take leading numeric portion
+        m = re.match(r'[-+]?\d+(\.\d+)?', s)
+        return float(m.group(0)) if m else None
+    except Exception:
+        return None
+
+
+# ---------- Load & clean CSV
+def load_and_clean_csv(path: Path) -> pd.DataFrame:
+    print("Loading CSV:", path.resolve())
+    df = pd.read_csv(path)
+    df.columns = [normalize_col_name(c) for c in df.columns]
+    print("Columns found:", df.columns.tolist())
+    df = df.dropna(how='all')
+    # strip strings
+    str_cols = df.select_dtypes(include='object').columns
+    for c in str_cols:
+        df[c] = df[c].astype(str).str.strip()
+    # try convert numeric-like object columns
+    for c in df.columns:
+        if df[c].dtype == object:
+            sample = df[c].dropna().astype(str).head(10)
+            if not sample.empty and sample.str.match(r'^[-+]?\d+(\.\d+)?$').all():
+                df[c] = pd.to_numeric(df[c], errors='coerce')
+    df.to_csv(CLEANED_CSV, index=False)
+    print("Saved cleaned CSV to:", CLEANED_CSV.resolve())
+    return df
+
+
+# ---------- Simple rule thresholds (update later from protocol/guidelines)
+REFERENCE_RANGES = {
+    'hemoglobin': {'male': (13.0, 17.0), 'female': (12.0, 15.5)},
+    'glucose': {'any': (70, 99)},
+    'cholesterol': {'any': (0, 200)},
+    'rbc_count': {'male': (4.5, 5.5), 'female': (4.2, 5.4)},
+    'platelet_count': {'any': (150000, 410000)},
+}
+
+def interpret_param(name: str, value, sex='any'):
+    if value is None:
+        return None
+    key = str(name).lower()
+    if 'hb' in key or 'hemoglobin' in key:
+        param = 'hemoglobin'
+    elif 'glucose' in key:
+        param = 'glucose'
+    elif 'chol' in key:
+        param = 'cholesterol'
+    elif 'rbc' in key and 'count' in key:
+        param = 'rbc_count'
+    elif 'platelet' in key:
+        param = 'platelet_count'
+    else:
+        return None
+
+    ranges = REFERENCE_RANGES.get(param)
+    if not ranges:
+        return None
+
+    if sex and sex.lower() in ranges:
+        low, high = ranges[sex.lower()]
+    elif 'any' in ranges:
+        low, high = ranges['any']
+    else:
+        low, high = list(ranges.values())[0]
+
+    try:
+        val = float(value)
+    except Exception:
+        return None
+
+    if val < low:
+        return 'low'
+    if val > high:
+        return 'high'
+    return 'normal'
+
+
+# ---------- PDF text extraction & very simple parser
+def extract_text_from_pdf(pdf_path: Path) -> str:
+    text = ""
+    try:
+        with pdfplumber.open(str(pdf_path)) as pdf:
+            for page in pdf.pages:
+                page_text = page.extract_text() or ""
+                text += page_text + "\n"
+    except Exception as e:
+        print("pdfplumber error:", e)
+        # fallback to OCR (if Tesseract is installed) could be added here
+    return text
+
+def parse_parameters_from_text(text: str):
+    params = {}
+    for line in text.splitlines():
+        line = line.strip()
+        # hemoglobin
+        m = re.search(r'(hemoglobin|hb)[^\d\-]*(\d+(\.\d+)?)', line, re.I)
+        if m:
+            params['hemoglobin'] = m.group(2); continue
+        # cholesterol
+        m = re.search(r'(cholesterol)[^\d]*(\d+(\.\d+)?)', line, re.I)
+        if m:
+            params['cholesterol'] = m.group(2); continue
+        # glucose
+        m = re.search(r'(glucose)[^\d]*(\d+(\.\d+)?)', line, re.I)
+        if m:
+            params['glucose'] = m.group(2); continue
+        # platelets
+        m = re.search(r'(platelet)[^\d]*(\d{5,7})', line, re.I)
+        if m:
+            params['platelet_count'] = m.group(2); continue
+    return params
+
+def demo_pdf_parse(pdf_path: Path):
+    text = extract_text_from_pdf(pdf_path)
+    parsed = parse_parameters_from_text(text)
+    print("Parsed from", pdf_path.name, ":", parsed)
+    interpreted = {}
+    for k, v in parsed.items():
+        interp = interpret_param(k, v)
+        interpreted[k] = {'value': v, 'flag': interp}
+    print("Interpreted:", interpreted)
+    # save small JSON report
+    out = ROW_REPORTS_DIR / f"{pdf_path.stem}_parsed.json"
+    with open(out, 'w') as f:
+        json.dump({'file': pdf_path.name, 'parsed': parsed, 'interpreted': interpreted}, f, indent=2)
+    print("Saved parsed JSON to:", out.resolve())
+    return parsed, interpreted
+
+
+# ---------- MAIN
+if __name__ == '__main__':
+    # 1) CSV
+    if INPUT_CSV.exists():
+        df = load_and_clean_csv(INPUT_CSV)
+        print("Preview rows:\n", df.head().to_string(index=False))
+    else:
+        print("Input CSV not found at", INPUT_CSV.resolve())
+        print("Please move healthcare_dataset.csv to Week1/data/ or update INPUT_CSV in the script.")
+
+    # 2) PDF parsing demo: look at Week1/data/pdfs
+    if SAMPLE_PDFS_DIR.exists():
+        pdfs = list(SAMPLE_PDFS_DIR.glob('*.pdf'))
+        if not pdfs:
+            print("No PDF files found in", SAMPLE_PDFS_DIR.resolve())
+        else:
+            for p in pdfs:
+                demo_pdf_parse(p)
+    else:
+        print("No sample PDF folder found at", SAMPLE_PDFS_DIR.resolve(),
+              "- create it and add sample PDFs to test parsing.")

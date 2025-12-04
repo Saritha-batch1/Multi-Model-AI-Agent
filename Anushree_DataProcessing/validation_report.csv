@@ -1,0 +1,147 @@
+row,issues
+0,"{'hemoglobin': 'Out of normal range: 10.4', 'rbc_count': 'Out of normal range: 3.7', 'mcv': 'Out of normal range: 77.0', 'mch': 'Out of normal range: 25.0'}"
+4,{'rbc_count': 'Out of normal range: 5.7'}
+6,{'rbc_count': 'Out of normal range: 5.7'}
+7,{'hemoglobin': 'Out of normal range: 11.8'}
+8,{'hemoglobin': 'Out of normal range: 11.5'}
+9,{'rbc_count': 'Out of normal range: 5.6'}
+11,{'hemoglobin': 'Out of normal range: 11.8'}
+12,{'rbc_count': 'Out of normal range: 5.8'}
+13,{'rbc_count': 'Out of normal range: 5.7'}
+14,{'hemoglobin': 'Out of normal range: 11.8'}
+16,"{'hemoglobin': 'Out of normal range: 10.7', 'rbc_count': 'Out of normal range: 3.9', 'mcv': 'Out of normal range: 79.0', 'mch': 'Out of normal range: 26.0'}"
+17,{'hemoglobin': 'Out of normal range: 11.8'}
+19,{'rbc_count': 'Out of normal range: 5.8'}
+21,"{'hemoglobin': 'Out of normal range: 10.2', 'rbc_count': 'Out of normal range: 3.6', 'mcv': 'Out of normal range: 76.0', 'mch': 'Out of normal range: 24.0'}"
+23,"{'hemoglobin': 'Out of normal range: 10.8', 'rbc_count': 'Out of normal range: 3.9', 'mcv': 'Out of normal range: 79.0', 'mch': 'Out of normal range: 26.0'}"
+25,"{'hemoglobin': 'Out of normal range: 11.0', 'mch': 'Out of normal range: 26.0'}"
+29,{'rbc_count': 'Out of normal range: 5.7'}
+31,{'hemoglobin': 'Out of normal range: 11.7'}
+33,{'hemoglobin': 'Out of normal range: 11.5'}
+36,{'hemoglobin': 'Out of normal range: 11.8'}
+37,{'hemoglobin': 'Out of normal range: 11.5'}
+40,{'rbc_count': 'Out of normal range: 5.6'}
+41,"{'hemoglobin': 'Out of normal range: 10.4', 'rbc_count': 'Out of normal range: 3.7', 'mcv': 'Out of normal range: 77.0', 'mch': 'Out of normal range: 25.0'}"
+50,{'rbc_count': 'Out of normal range: 5.6'}
+52,{'rbc_count': 'Out of normal range: 5.7'}
+53,{'hemoglobin': 'Out of normal range: 11.6'}
+57,{'hemoglobin': 'Out of normal range: 11.6'}
+58,{'rbc_count': 'Out of normal range: 5.8'}
+60,"{'hemoglobin': 'Out of normal range: 10.3', 'rbc_count': 'Out of normal range: 3.7', 'mcv': 'Out of normal range: 77.0', 'mch': 'Out of normal range: 25.0'}"
+61,"{'hemoglobin': 'Out of normal range: 11.0', 'mch': 'Out of normal range: 26.0'}"
+62,{'hemoglobin': 'Out of normal range: 11.6'}
+67,{'rbc_count': 'Out of normal range: 5.6'}
+68,{'hemoglobin': 'Out of normal range: 11.9'}
+69,{'rbc_count': 'Out of normal range: 5.8'}
+71,"{'hemoglobin': 'Out of normal range: 10.5', 'rbc_count': 'Out of normal range: 3.8', 'mcv': 'Out of normal range: 78.0', 'mch': 'Out of normal range: 25.0'}"
+72,{'hemoglobin': 'Out of normal range: 11.6'}
+74,{'rbc_count': 'Out of normal range: 5.7'}
+76,{'rbc_count': 'Out of normal range: 5.8'}
+80,"{'hemoglobin': 'Out of normal range: 10.2', 'rbc_count': 'Out of normal range: 3.6', 'mcv': 'Out of normal range: 76.0', 'mch': 'Out of normal range: 24.0'}"
+82,"{'hemoglobin': 'Out of normal range: 10.4', 'rbc_count': 'Out of normal range: 3.7', 'mcv': 'Out of normal range: 77.0', 'mch': 'Out of normal range: 25.0'}"
+83,{'rbc_count': 'Out of normal range: 5.6'}
+88,{'rbc_count': 'Out of normal range: 5.8'}
+90,"{'hemoglobin': 'Out of normal range: 10.8', 'rbc_count': 'Out of normal range: 3.9', 'mcv': 'Out of normal range: 79.0', 'mch': 'Out of normal range: 26.0'}"
+92,{'rbc_count': 'Out of normal range: 5.8'}
+95,{'rbc_count': 'Out of normal range: 5.7'}
+96,{'hemoglobin': 'Out of normal range: 11.5'}
+98,"{'hemoglobin': 'Out of normal range: 10.9', 'rbc_count': 'Out of normal range: 3.8', 'mch': 'Out of normal range: 26.0'}"
+101,{'rbc_count': 'Out of normal range: 5.8'}
+105,"{'hemoglobin': 'Out of normal range: 10.7', 'rbc_count': 'Out of normal range: 3.9', 'mcv': 'Out of normal range: 79.0', 'mch': 'Out of normal range: 26.0'}"
+106,"{'hemoglobin': 'Out of normal range: 10.9', 'rbc_count': 'Out of normal range: 3.8', 'mch': 'Out of normal range: 26.0'}"
+107,{'hemoglobin': 'Out of normal range: 11.9'}
+116,{'rbc_count': 'Out of normal range: 5.8'}
+118,{'hemoglobin': 'Out of normal range: 11.6'}
+119,{'hemoglobin': 'Out of normal range: 11.9'}
+127,{'hemoglobin': 'Out of normal range: 11.5'}
+129,{'rbc_count': 'Out of normal range: 5.6'}
+142,"{'hemoglobin': 'Out of normal range: 10.2', 'rbc_count': 'Out of normal range: 3.6', 'mcv': 'Out of normal range: 76.0', 'mch': 'Out of normal range: 24.0'}"
+144,{'rbc_count': 'Out of normal range: 5.6'}
+145,{'rbc_count': 'Out of normal range: 5.7'}
+146,{'rbc_count': 'Out of normal range: 5.8'}
+148,{'hemoglobin': 'Out of normal range: 11.7'}
+149,{'rbc_count': 'Out of normal range: 5.8'}
+152,"{'hemoglobin': 'Out of normal range: 10.9', 'rbc_count': 'Out of normal range: 3.8', 'mch': 'Out of normal range: 26.0'}"
+154,{'hemoglobin': 'Out of normal range: 11.5'}
+169,{'hemoglobin': 'Out of normal range: 11.8'}
+170,{'rbc_count': 'Out of normal range: 5.8'}
+173,{'rbc_count': 'Out of normal range: 5.7'}
+175,{'rbc_count': 'Out of normal range: 5.6'}
+179,{'rbc_count': 'Out of normal range: 5.8'}
+181,{'rbc_count': 'Out of normal range: 5.6'}
+185,"{'hemoglobin': 'Out of normal range: 10.7', 'rbc_count': 'Out of normal range: 3.9', 'mcv': 'Out of normal range: 79.0', 'mch': 'Out of normal range: 26.0'}"
+187,"{'hemoglobin': 'Out of normal range: 10.5', 'rbc_count': 'Out of normal range: 3.8', 'mcv': 'Out of normal range: 78.0', 'mch': 'Out of normal range: 25.0'}"
+194,{'rbc_count': 'Out of normal range: 5.7'}
+195,{'hemoglobin': 'Out of normal range: 11.6'}
+203,{'rbc_count': 'Out of normal range: 5.7'}
+205,{'rbc_count': 'Out of normal range: 5.7'}
+206,{'hemoglobin': 'Out of normal range: 11.8'}
+207,"{'hemoglobin': 'Out of normal range: 10.9', 'rbc_count': 'Out of normal range: 3.8', 'mch': 'Out of normal range: 26.0'}"
+211,{'rbc_count': 'Out of normal range: 5.7'}
+213,"{'hemoglobin': 'Out of normal range: 10.8', 'rbc_count': 'Out of normal range: 3.9', 'mcv': 'Out of normal range: 79.0', 'mch': 'Out of normal range: 26.0'}"
+215,{'rbc_count': 'Out of normal range: 5.7'}
+216,{'rbc_count': 'Out of normal range: 5.6'}
+219,{'rbc_count': 'Out of normal range: 5.7'}
+220,{'hemoglobin': 'Out of normal range: 11.9'}
+221,{'hemoglobin': 'Out of normal range: 11.6'}
+225,"{'hemoglobin': 'Out of normal range: 10.8', 'rbc_count': 'Out of normal range: 3.9', 'mcv': 'Out of normal range: 79.0', 'mch': 'Out of normal range: 26.0'}"
+232,{'rbc_count': 'Out of normal range: 5.7'}
+233,{'rbc_count': 'Out of normal range: 5.6'}
+243,"{'hemoglobin': 'Out of normal range: 10.5', 'rbc_count': 'Out of normal range: 3.8', 'mcv': 'Out of normal range: 78.0', 'mch': 'Out of normal range: 25.0'}"
+244,"{'hemoglobin': 'Out of normal range: 10.8', 'rbc_count': 'Out of normal range: 3.9', 'mcv': 'Out of normal range: 79.0', 'mch': 'Out of normal range: 26.0'}"
+245,{'hemoglobin': 'Out of normal range: 11.5'}
+249,{'hemoglobin': 'Out of normal range: 11.8'}
+250,{'rbc_count': 'Out of normal range: 5.6'}
+256,"{'hemoglobin': 'Out of normal range: 10.6', 'rbc_count': 'Out of normal range: 3.8', 'mch': 'Out of normal range: 26.0'}"
+260,{'hemoglobin': 'Out of normal range: 11.8'}
+263,"{'hemoglobin': 'Out of normal range: 10.2', 'rbc_count': 'Out of normal range: 3.6', 'mcv': 'Out of normal range: 76.0', 'mch': 'Out of normal range: 24.0'}"
+266,{'hemoglobin': 'Out of normal range: 11.5'}
+267,"{'hemoglobin': 'Out of normal range: 10.4', 'rbc_count': 'Out of normal range: 3.7', 'mcv': 'Out of normal range: 77.0', 'mch': 'Out of normal range: 25.0'}"
+271,"{'hemoglobin': 'Out of normal range: 10.3', 'rbc_count': 'Out of normal range: 3.7', 'mcv': 'Out of normal range: 77.0', 'mch': 'Out of normal range: 25.0'}"
+273,{'hemoglobin': 'Out of normal range: 11.5'}
+274,"{'hemoglobin': 'Out of normal range: 11.0', 'mch': 'Out of normal range: 26.0'}"
+277,"{'hemoglobin': 'Out of normal range: 10.7', 'rbc_count': 'Out of normal range: 3.9', 'mcv': 'Out of normal range: 79.0', 'mch': 'Out of normal range: 26.0'}"
+288,{'hemoglobin': 'Out of normal range: 11.8'}
+289,{'hemoglobin': 'Out of normal range: 11.8'}
+292,{'hemoglobin': 'Out of normal range: 11.9'}
+298,"{'hemoglobin': 'Out of normal range: 10.6', 'rbc_count': 'Out of normal range: 3.8', 'mch': 'Out of normal range: 26.0'}"
+304,"{'hemoglobin': 'Out of normal range: 10.8', 'rbc_count': 'Out of normal range: 3.9', 'mcv': 'Out of normal range: 79.0', 'mch': 'Out of normal range: 26.0'}"
+305,{'rbc_count': 'Out of normal range: 5.6'}
+306,{'rbc_count': 'Out of normal range: 5.6'}
+308,{'hemoglobin': 'Out of normal range: 11.7'}
+309,{'rbc_count': 'Out of normal range: 5.7'}
+314,{'rbc_count': 'Out of normal range: 5.6'}
+317,{'rbc_count': 'Out of normal range: 5.7'}
+318,"{'hemoglobin': 'Out of normal range: 11.0', 'mch': 'Out of normal range: 26.0'}"
+322,"{'hemoglobin': 'Out of normal range: 10.8', 'rbc_count': 'Out of normal range: 3.9', 'mcv': 'Out of normal range: 79.0', 'mch': 'Out of normal range: 26.0'}"
+323,{'rbc_count': 'Out of normal range: 5.7'}
+326,{'rbc_count': 'Out of normal range: 5.7'}
+330,"{'hemoglobin': 'Out of normal range: 10.3', 'rbc_count': 'Out of normal range: 3.7', 'mcv': 'Out of normal range: 77.0', 'mch': 'Out of normal range: 25.0'}"
+332,{'hemoglobin': 'Out of normal range: 11.9'}
+337,{'rbc_count': 'Out of normal range: 5.7'}
+344,{'hemoglobin': 'Out of normal range: 11.5'}
+345,{'hemoglobin': 'Out of normal range: 11.9'}
+346,"{'hemoglobin': 'Out of normal range: 10.6', 'rbc_count': 'Out of normal range: 3.8', 'mch': 'Out of normal range: 26.0'}"
+350,{'rbc_count': 'Out of normal range: 5.8'}
+351,{'hemoglobin': 'Out of normal range: 11.5'}
+358,{'hemoglobin': 'Out of normal range: 11.7'}
+359,"{'hemoglobin': 'Out of normal range: 10.3', 'rbc_count': 'Out of normal range: 3.7', 'mcv': 'Out of normal range: 77.0', 'mch': 'Out of normal range: 25.0'}"
+360,"{'hemoglobin': 'Out of normal range: 10.8', 'rbc_count': 'Out of normal range: 3.9', 'mcv': 'Out of normal range: 79.0', 'mch': 'Out of normal range: 26.0'}"
+361,{'hemoglobin': 'Out of normal range: 11.9'}
+364,"{'hemoglobin': 'Out of normal range: 10.5', 'rbc_count': 'Out of normal range: 3.8', 'mcv': 'Out of normal range: 78.0', 'mch': 'Out of normal range: 25.0'}"
+373,{'rbc_count': 'Out of normal range: 5.6'}
+375,{'hemoglobin': 'Out of normal range: 11.8'}
+382,{'hemoglobin': 'Out of normal range: 11.6'}
+387,{'rbc_count': 'Out of normal range: 5.8'}
+389,"{'hemoglobin': 'Out of normal range: 10.5', 'rbc_count': 'Out of normal range: 3.8', 'mcv': 'Out of normal range: 78.0', 'mch': 'Out of normal range: 25.0'}"
+393,{'hemoglobin': 'Out of normal range: 11.5'}
+395,{'rbc_count': 'Out of normal range: 5.7'}
+399,"{'hemoglobin': 'Out of normal range: 10.6', 'rbc_count': 'Out of normal range: 3.8', 'mch': 'Out of normal range: 26.0'}"
+401,{'rbc_count': 'Out of normal range: 5.8'}
+404,{'rbc_count': 'Out of normal range: 5.8'}
+405,{'rbc_count': 'Out of normal range: 5.7'}
+406,{'rbc_count': 'Out of normal range: 5.7'}
+410,{'rbc_count': 'Out of normal range: 5.6'}
+412,{'rbc_count': 'Out of normal range: 5.8'}
+414,{'hemoglobin': 'Out of normal range: 11.8'}
+415,"{'hemoglobin': 'Out of normal range: 11.0', 'mch': 'Out of normal range: 26.0'}"

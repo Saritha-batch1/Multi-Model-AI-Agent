@@ -1,0 +1,455 @@
+age,gender,hemoglobin,platelet_count,wbc_count,rbc_count,mcv,mch,mchc,diagnosis,ai_explanation
+68,Female,10.4,180000,5700,3.7,77,25,32,Low Hemoglobin — Possible Anemia; Low RBC — Possible Iron Deficiency; Low MCV — Microcytosis (possible iron deficiency),"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods.
+Your RBC level is low, suggesting possible iron deficiency. Eating iron-rich food may help."
+25,Male,13.8,320000,7500,5.4,92,30,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+57,Male,13.5,370000,8500,5.1,90,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+28,Female,12.7,290000,7800,4.8,86,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+38,Male,14.9,380000,8700,5.7,95,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+47,Female,12.0,260000,7000,4.4,87,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+37,Male,14.5,380000,8700,5.7,95,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+30,Female,11.8,250000,7000,4.2,84,27,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+35,Female,11.5,240000,7100,4.2,84,27,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+22,Male,13.6,330000,7400,5.6,93,31,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+41,Female,12.2,310000,7700,4.6,88,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+34,Female,11.8,280000,7300,4.3,85,28,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+40,Male,15.2,400000,9200,5.8,96,32,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+58,Male,13.4,390000,8900,5.7,94,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+34,Female,11.8,280000,7300,4.3,85,28,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+50,Male,13.0,330000,7600,5.0,90,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+64,Female,10.7,200000,5900,3.9,79,26,32,Low Hemoglobin — Possible Anemia; Low RBC — Possible Iron Deficiency; Low MCV — Microcytosis (possible iron deficiency),"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods.
+Your RBC level is low, suggesting possible iron deficiency. Eating iron-rich food may help."
+30,Female,11.8,250000,7000,4.2,84,27,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+35,Male,14.5,380000,8500,5.2,94,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+40,Male,15.2,400000,9200,5.8,96,32,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+52,Male,14.2,370000,8300,5.4,92,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+70,Female,10.2,190000,5600,3.6,76,24,32,Low Hemoglobin — Possible Anemia; Low RBC — Possible Iron Deficiency; Low MCV — Microcytosis (possible iron deficiency),"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods.
+Your RBC level is low, suggesting possible iron deficiency. Eating iron-rich food may help."
+45,Female,12.2,270000,7200,4.6,88,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+63,Female,10.8,200000,5900,3.9,79,26,32,Low Hemoglobin — Possible Anemia; Low RBC — Possible Iron Deficiency; Low MCV — Microcytosis (possible iron deficiency),"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods.
+Your RBC level is low, suggesting possible iron deficiency. Eating iron-rich food may help."
+33,Male,14.8,360000,8200,5.3,91,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+60,Female,11.0,200000,6000,4.0,80,26,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+41,Female,12.2,310000,7700,4.6,88,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+36,Male,14.7,360000,8100,5.5,93,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+33,Male,14.8,360000,8200,5.3,91,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+39,Male,15.1,380000,9000,5.7,96,32,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+27,Female,12.0,230000,6900,4.3,85,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+35,Female,11.7,250000,6800,4.1,83,27,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+54,Male,13.5,350000,8000,5.1,90,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+35,Female,11.5,240000,7100,4.2,84,27,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+25,Male,13.9,330000,7200,5.3,91,30,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+40,Male,14.4,370000,8600,5.3,91,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+33,Female,11.8,250000,6800,4.2,84,27,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+36,Female,11.5,240000,7100,4.2,84,27,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+50,Male,13.2,350000,8000,5.0,90,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+35,Male,14.5,380000,8500,5.2,94,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+22,Male,13.6,330000,7400,5.6,93,31,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+68,Female,10.4,180000,5700,3.7,77,25,32,Low Hemoglobin — Possible Anemia; Low RBC — Possible Iron Deficiency; Low MCV — Microcytosis (possible iron deficiency),"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods.
+Your RBC level is low, suggesting possible iron deficiency. Eating iron-rich food may help."
+28,Female,12.7,290000,7800,4.8,86,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+55,Male,13.8,350000,8000,5.3,92,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+48,Female,12.6,260000,7000,4.5,87,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+25,Male,13.8,320000,7500,5.4,92,30,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+44,Female,12.1,280000,7000,4.5,89,27,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+44,Male,14.2,360000,8300,5.2,91,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+57,Male,13.5,370000,8500,5.1,90,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+29,Female,12.0,260000,7200,4.4,87,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+38,Male,14.0,360000,8200,5.6,93,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+39,Female,12.1,310000,7700,4.6,88,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+56,Male,14.9,380000,8700,5.7,95,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+31,Female,11.6,260000,7200,4.4,86,28,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+40,Male,14.4,370000,8600,5.3,91,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+38,Female,12.4,310000,7600,4.7,88,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+57,Male,13.5,370000,8500,5.1,90,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+36,Female,11.6,240000,7100,4.2,84,27,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+38,Male,14.9,380000,8700,5.8,95,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+27,Female,12.0,230000,6900,4.3,85,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+67,Female,10.3,180000,5600,3.7,77,25,32,Low Hemoglobin — Possible Anemia; Low RBC — Possible Iron Deficiency; Low MCV — Microcytosis (possible iron deficiency),"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods.
+Your RBC level is low, suggesting possible iron deficiency. Eating iron-rich food may help."
+60,Female,11.0,200000,6000,4.0,80,26,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+31,Female,11.6,260000,7200,4.4,86,28,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+50,Male,13.0,330000,7600,5.0,90,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+59,Male,14.8,370000,8500,5.5,93,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+26,Female,12.5,270000,7300,4.7,87,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+48,Male,13.3,340000,7900,5.1,90,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+26,Male,13.7,310000,7800,5.6,93,31,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+50,Female,11.9,260000,7100,4.4,87,28,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+45,Male,15.0,400000,9000,5.8,96,32,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+50,Male,13.0,330000,7600,5.0,90,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+65,Female,10.5,180000,5800,3.8,78,25,32,Low Hemoglobin — Possible Anemia; Low RBC — Possible Iron Deficiency; Low MCV — Microcytosis (possible iron deficiency),"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods.
+Your RBC level is low, suggesting possible iron deficiency. Eating iron-rich food may help."
+36,Female,11.6,240000,7100,4.2,84,27,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+30,Female,12.6,280000,7400,4.8,86,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+39,Male,15.1,380000,9000,5.7,96,32,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+28,Female,12.6,280000,7400,4.8,86,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+38,Male,14.9,380000,8700,5.8,95,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+31,Female,12.3,290000,7400,4.6,88,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+50,Male,13.2,350000,8000,5.0,90,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+29,Male,13.2,340000,7800,5.3,91,30,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+70,Female,10.2,190000,5600,3.6,76,24,32,Low Hemoglobin — Possible Anemia; Low RBC — Possible Iron Deficiency; Low MCV — Microcytosis (possible iron deficiency),"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods.
+Your RBC level is low, suggesting possible iron deficiency. Eating iron-rich food may help."
+32,Male,14.7,350000,8200,5.4,92,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+68,Female,10.4,180000,5700,3.7,77,25,32,Low Hemoglobin — Possible Anemia; Low RBC — Possible Iron Deficiency; Low MCV — Microcytosis (possible iron deficiency),"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods.
+Your RBC level is low, suggesting possible iron deficiency. Eating iron-rich food may help."
+22,Male,13.6,330000,7400,5.6,93,31,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+29,Male,13.2,340000,7800,5.3,91,30,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+24,Male,13.8,320000,7400,5.5,93,31,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+29,Female,12.7,280000,7400,4.8,86,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+43,Male,14.2,360000,8300,5.2,91,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+45,Male,15.0,400000,9000,5.8,96,32,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+43,Male,14.2,360000,8300,5.2,91,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+63,Female,10.8,200000,5900,3.9,79,26,32,Low Hemoglobin — Possible Anemia; Low RBC — Possible Iron Deficiency; Low MCV — Microcytosis (possible iron deficiency),"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods.
+Your RBC level is low, suggesting possible iron deficiency. Eating iron-rich food may help."
+49,Male,13.0,330000,7600,5.0,90,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+40,Male,15.2,400000,9200,5.8,96,32,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+30,Female,12.0,260000,7200,4.4,87,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+55,Male,13.8,350000,8000,5.3,92,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+56,Male,14.9,380000,8700,5.7,95,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+36,Female,11.5,240000,7100,4.2,84,27,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+54,Male,13.5,350000,8000,5.1,90,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+58,Female,10.9,190000,5800,3.8,80,26,32,Low Hemoglobin — Possible Anemia; Low RBC — Possible Iron Deficiency,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods.
+Your RBC level is low, suggesting possible iron deficiency. Eating iron-rich food may help."
+44,Female,12.1,280000,7000,4.5,89,27,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+48,Male,13.2,340000,7800,5.1,90,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+38,Male,14.9,380000,8700,5.8,95,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+55,Male,14.0,370000,8700,5.5,95,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+24,Male,13.8,320000,7400,5.5,93,31,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+47,Female,12.0,260000,7000,4.4,87,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+64,Female,10.7,200000,5900,3.9,79,26,32,Low Hemoglobin — Possible Anemia; Low RBC — Possible Iron Deficiency; Low MCV — Microcytosis (possible iron deficiency),"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods.
+Your RBC level is low, suggesting possible iron deficiency. Eating iron-rich food may help."
+58,Female,10.9,190000,5800,3.8,80,26,32,Low Hemoglobin — Possible Anemia; Low RBC — Possible Iron Deficiency,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods.
+Your RBC level is low, suggesting possible iron deficiency. Eating iron-rich food may help."
+50,Female,11.9,260000,7100,4.4,87,28,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+30,Female,12.0,260000,7200,4.4,87,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+55,Male,13.8,350000,8000,5.3,92,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+40,Female,12.5,300000,7700,4.7,88,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+28,Female,12.6,280000,7400,4.8,86,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+43,Male,14.2,360000,8300,5.2,91,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+51,Female,12.5,290000,7500,4.7,88,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+33,Male,14.6,350000,8200,5.4,92,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+43,Male,14.2,360000,8300,5.2,91,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+45,Male,15.0,400000,9000,5.8,96,32,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+42,Male,14.2,360000,8300,5.2,91,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+31,Female,11.6,260000,7200,4.4,86,28,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+34,Female,11.9,250000,6800,4.1,83,27,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+37,Female,12.4,300000,7700,4.7,88,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+48,Male,13.3,340000,7900,5.1,90,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+43,Male,14.3,360000,8300,5.2,91,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+25,Male,13.9,330000,7200,5.3,91,30,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+32,Male,14.7,350000,8200,5.4,92,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+48,Male,13.2,340000,7800,5.1,90,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+60,Male,14.6,370000,8600,5.4,92,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+35,Female,11.5,240000,7100,4.2,84,27,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+52,Male,14.2,370000,8300,5.4,92,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+38,Male,14.0,360000,8200,5.6,93,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+43,Male,14.3,360000,8300,5.2,91,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+33,Male,14.6,350000,8200,5.4,92,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+44,Male,14.2,360000,8300,5.2,91,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+57,Male,13.5,370000,8500,5.1,90,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+32,Female,12.3,290000,7500,4.5,89,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+32,Male,14.7,350000,8200,5.4,92,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+23,Male,13.5,330000,7200,5.5,93,31,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+48,Male,13.2,340000,7800,5.1,90,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+22,Male,13.2,340000,7800,5.3,91,30,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+49,Male,13.0,330000,7600,5.0,90,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+28,Female,12.7,290000,7800,4.8,86,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+27,Female,12.0,230000,6900,4.3,85,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+70,Female,10.2,190000,5600,3.6,76,24,32,Low Hemoglobin — Possible Anemia; Low RBC — Possible Iron Deficiency; Low MCV — Microcytosis (possible iron deficiency),"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods.
+Your RBC level is low, suggesting possible iron deficiency. Eating iron-rich food may help."
+32,Female,12.3,290000,7500,4.5,89,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+22,Male,13.6,330000,7400,5.6,93,31,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+42,Male,15.1,380000,9000,5.7,96,32,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+42,Male,15.1,380000,9000,5.8,96,32,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+55,Male,14.0,360000,8200,5.2,91,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+35,Female,11.7,250000,6800,4.1,83,27,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+45,Male,15.0,400000,9000,5.8,96,32,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+55,Male,14.0,370000,8700,5.5,95,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+36,Male,14.7,360000,8100,5.5,93,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+58,Female,10.9,190000,5800,3.8,80,26,32,Low Hemoglobin — Possible Anemia; Low RBC — Possible Iron Deficiency,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods.
+Your RBC level is low, suggesting possible iron deficiency. Eating iron-rich food may help."
+45,Female,12.2,270000,7200,4.6,88,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+36,Female,11.5,240000,7100,4.2,84,27,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+54,Male,13.5,350000,8000,5.1,90,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+47,Female,12.0,260000,7000,4.4,87,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+29,Male,13.2,340000,7800,5.3,91,30,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+26,Female,12.5,270000,7300,4.7,87,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+42,Male,14.3,340000,7800,5.1,89,30,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+28,Female,12.6,280000,7400,4.8,86,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+29,Female,12.0,260000,7200,4.4,87,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+43,Male,14.2,360000,8300,5.2,91,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+33,Male,14.8,360000,8200,5.3,91,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+53,Female,12.8,280000,7000,4.3,87,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+52,Male,13.5,350000,8000,5.3,92,30,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+52,Female,12.8,280000,7000,4.3,87,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+31,Female,12.3,290000,7400,4.6,88,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+45,Female,12.2,270000,7200,4.6,88,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+33,Female,11.8,250000,6800,4.2,84,27,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+45,Male,15.0,400000,9000,5.8,96,32,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+37,Female,12.8,300000,7600,4.9,88,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+31,Female,12.2,290000,7500,4.5,89,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+56,Male,14.9,380000,8700,5.7,95,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+31,Female,12.3,290000,7400,4.6,88,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+28,Male,13.6,310000,7800,5.6,93,31,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+49,Male,13.0,330000,7600,5.0,90,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+52,Female,12.8,280000,7000,4.3,87,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+29,Female,12.0,260000,7200,4.4,87,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+38,Male,14.9,380000,8700,5.8,95,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+24,Male,13.8,320000,7400,5.5,93,31,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+26,Male,13.7,310000,7800,5.6,93,31,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+43,Female,12.3,290000,7400,4.6,88,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+51,Female,12.5,290000,7500,4.7,88,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+29,Male,13.0,320000,7400,5.2,91,30,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+64,Female,10.7,200000,5900,3.9,79,26,32,Low Hemoglobin — Possible Anemia; Low RBC — Possible Iron Deficiency; Low MCV — Microcytosis (possible iron deficiency),"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods.
+Your RBC level is low, suggesting possible iron deficiency. Eating iron-rich food may help."
+22,Male,13.2,340000,7800,5.3,91,30,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+65,Female,10.5,180000,5800,3.8,78,25,32,Low Hemoglobin — Possible Anemia; Low RBC — Possible Iron Deficiency; Low MCV — Microcytosis (possible iron deficiency),"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods.
+Your RBC level is low, suggesting possible iron deficiency. Eating iron-rich food may help."
+55,Male,14.0,370000,8700,5.5,95,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+48,Male,13.3,340000,7900,5.1,90,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+43,Female,12.3,290000,7400,4.6,88,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+29,Male,13.0,320000,7400,5.2,91,30,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+48,Male,13.3,340000,7900,5.1,90,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+28,Female,12.6,280000,7400,4.8,86,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+37,Male,14.5,380000,8700,5.7,95,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+31,Female,11.6,260000,7200,4.4,86,28,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+47,Female,12.0,260000,7000,4.4,87,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+22,Male,13.2,340000,7800,5.3,91,30,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+48,Female,12.6,260000,7000,4.5,87,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+29,Male,13.0,320000,7400,5.2,91,30,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+50,Male,13.0,330000,7600,5.0,90,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+29,Female,12.7,280000,7400,4.8,86,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+28,Female,12.7,290000,7800,4.8,86,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+42,Male,15.1,380000,9000,5.7,96,32,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+31,Female,12.3,290000,7400,4.6,88,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+39,Male,15.1,380000,9000,5.7,96,32,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+30,Female,11.8,250000,7000,4.2,84,27,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+58,Female,10.9,190000,5800,3.8,80,26,32,Low Hemoglobin — Possible Anemia; Low RBC — Possible Iron Deficiency,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods.
+Your RBC level is low, suggesting possible iron deficiency. Eating iron-rich food may help."
+30,Female,12.6,280000,7400,4.8,86,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+60,Male,14.6,370000,8600,5.4,92,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+47,Male,13.4,340000,7900,5.1,90,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+58,Male,13.4,390000,8900,5.7,94,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+25,Male,13.8,320000,7500,5.4,92,30,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+63,Female,10.8,200000,5900,3.9,79,26,32,Low Hemoglobin — Possible Anemia; Low RBC — Possible Iron Deficiency; Low MCV — Microcytosis (possible iron deficiency),"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods.
+Your RBC level is low, suggesting possible iron deficiency. Eating iron-rich food may help."
+26,Female,12.5,270000,7300,4.7,87,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+58,Male,13.4,390000,8900,5.7,94,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+26,Male,13.7,310000,7800,5.6,93,31,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+30,Female,12.0,260000,7200,4.4,87,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+60,Male,14.6,370000,8600,5.4,92,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+37,Male,14.5,380000,8700,5.7,95,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+50,Female,11.9,260000,7100,4.4,87,28,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+36,Female,11.6,240000,7100,4.2,84,27,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+28,Female,12.6,280000,7400,4.8,86,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+32,Male,14.7,350000,8200,5.4,92,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+40,Female,12.5,300000,7700,4.7,88,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+63,Female,10.8,200000,5900,3.9,79,26,32,Low Hemoglobin — Possible Anemia; Low RBC — Possible Iron Deficiency; Low MCV — Microcytosis (possible iron deficiency),"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods.
+Your RBC level is low, suggesting possible iron deficiency. Eating iron-rich food may help."
+36,Male,14.7,360000,8100,5.5,93,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+51,Female,12.5,290000,7500,4.7,88,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+31,Female,12.2,290000,7500,4.5,89,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+55,Male,14.0,370000,8700,5.5,95,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+23,Male,13.5,330000,7200,5.5,93,31,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+37,Female,12.4,300000,7700,4.7,88,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+42,Male,15.1,380000,9000,5.7,96,32,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+28,Male,13.6,310000,7800,5.6,93,31,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+38,Female,12.4,310000,7600,4.7,88,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+55,Male,14.0,360000,8200,5.2,91,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+41,Female,12.2,310000,7700,4.6,88,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+48,Female,12.6,260000,7000,4.5,87,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+46,Male,14.2,360000,8300,5.4,92,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+43,Female,12.3,290000,7400,4.6,88,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+27,Female,12.4,270000,7300,4.9,88,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+36,Male,14.7,360000,8100,5.5,93,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+45,Female,12.2,270000,7200,4.6,88,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+65,Female,10.5,180000,5800,3.8,78,25,32,Low Hemoglobin — Possible Anemia; Low RBC — Possible Iron Deficiency; Low MCV — Microcytosis (possible iron deficiency),"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods.
+Your RBC level is low, suggesting possible iron deficiency. Eating iron-rich food may help."
+63,Female,10.8,200000,5900,3.9,79,26,32,Low Hemoglobin — Possible Anemia; Low RBC — Possible Iron Deficiency; Low MCV — Microcytosis (possible iron deficiency),"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods.
+Your RBC level is low, suggesting possible iron deficiency. Eating iron-rich food may help."
+35,Female,11.5,240000,7100,4.2,84,27,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+29,Male,13.2,340000,7800,5.3,91,30,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+50,Male,13.0,330000,7600,5.0,90,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+27,Female,12.4,270000,7300,4.9,88,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+34,Female,11.8,280000,7300,4.3,85,28,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+38,Male,14.0,360000,8200,5.6,93,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+50,Male,13.2,350000,8000,5.0,90,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+37,Female,12.4,300000,7700,4.7,88,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+26,Female,12.5,270000,7300,4.7,87,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+46,Male,14.2,360000,8300,5.4,92,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+35,Male,14.5,380000,8500,5.2,94,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+62,Female,10.6,190000,5800,3.8,80,26,32,Low Hemoglobin — Possible Anemia; Low RBC — Possible Iron Deficiency,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods.
+Your RBC level is low, suggesting possible iron deficiency. Eating iron-rich food may help."
+47,Female,12.0,260000,7000,4.4,87,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+28,Female,12.6,280000,7400,4.8,86,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+29,Female,12.0,260000,7200,4.4,87,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+33,Female,11.8,250000,6800,4.2,84,27,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+40,Male,14.4,370000,8600,5.3,91,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+35,Male,14.5,380000,8500,5.2,94,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+70,Female,10.2,190000,5600,3.6,76,24,32,Low Hemoglobin — Possible Anemia; Low RBC — Possible Iron Deficiency; Low MCV — Microcytosis (possible iron deficiency),"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods.
+Your RBC level is low, suggesting possible iron deficiency. Eating iron-rich food may help."
+49,Male,13.3,340000,7900,5.2,91,30,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+53,Female,12.8,280000,7000,4.3,87,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+35,Female,11.5,240000,7100,4.2,84,27,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+68,Female,10.4,180000,5700,3.7,77,25,32,Low Hemoglobin — Possible Anemia; Low RBC — Possible Iron Deficiency; Low MCV — Microcytosis (possible iron deficiency),"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods.
+Your RBC level is low, suggesting possible iron deficiency. Eating iron-rich food may help."
+59,Male,14.8,370000,8500,5.5,93,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+33,Male,14.8,360000,8200,5.3,91,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+33,Male,14.8,360000,8200,5.3,91,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+67,Female,10.3,180000,5600,3.7,77,25,32,Low Hemoglobin — Possible Anemia; Low RBC — Possible Iron Deficiency; Low MCV — Microcytosis (possible iron deficiency),"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods.
+Your RBC level is low, suggesting possible iron deficiency. Eating iron-rich food may help."
+29,Male,13.0,320000,7400,5.2,91,30,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+35,Female,11.5,240000,7100,4.2,84,27,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+60,Female,11.0,200000,6000,4.0,80,26,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+22,Male,13.2,340000,7800,5.3,91,30,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+23,Male,13.5,330000,7200,5.5,93,31,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+64,Female,10.7,200000,5900,3.9,79,26,32,Low Hemoglobin — Possible Anemia; Low RBC — Possible Iron Deficiency; Low MCV — Microcytosis (possible iron deficiency),"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods.
+Your RBC level is low, suggesting possible iron deficiency. Eating iron-rich food may help."
+50,Male,13.0,330000,7600,5.0,90,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+55,Male,14.0,370000,8700,5.5,95,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+49,Male,13.3,340000,7900,5.2,91,30,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+55,Male,14.0,360000,8200,5.2,91,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+47,Male,13.4,340000,7900,5.1,90,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+59,Male,14.8,370000,8500,5.5,93,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+39,Female,12.1,310000,7700,4.6,88,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+42,Male,14.2,360000,8300,5.2,91,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+28,Female,12.7,290000,7800,4.8,86,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+50,Male,13.0,330000,7600,5.0,90,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+33,Female,11.8,250000,6800,4.2,84,27,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+30,Female,11.8,250000,7000,4.2,84,27,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+27,Female,12.4,270000,7300,4.9,88,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+38,Female,12.4,310000,7600,4.7,88,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+34,Female,11.9,250000,6800,4.1,83,27,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+30,Female,12.0,260000,7200,4.4,87,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+39,Female,12.1,310000,7700,4.6,88,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+37,Female,12.8,300000,7600,4.9,88,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+27,Female,12.0,230000,6900,4.3,85,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+47,Male,13.4,340000,7900,5.1,90,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+62,Female,10.6,190000,5800,3.8,80,26,32,Low Hemoglobin — Possible Anemia; Low RBC — Possible Iron Deficiency,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods.
+Your RBC level is low, suggesting possible iron deficiency. Eating iron-rich food may help."
+49,Male,13.0,330000,7600,5.0,90,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+25,Male,13.9,330000,7200,5.3,91,30,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+53,Female,12.8,280000,7000,4.3,87,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+31,Female,12.2,290000,7500,4.5,89,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+25,Male,13.8,320000,7500,5.4,92,30,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+63,Female,10.8,200000,5900,3.9,79,26,32,Low Hemoglobin — Possible Anemia; Low RBC — Possible Iron Deficiency; Low MCV — Microcytosis (possible iron deficiency),"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods.
+Your RBC level is low, suggesting possible iron deficiency. Eating iron-rich food may help."
+28,Male,13.6,310000,7800,5.6,93,31,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+22,Male,13.6,330000,7400,5.6,93,31,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+49,Male,13.3,340000,7900,5.2,91,30,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+35,Female,11.7,250000,6800,4.1,83,27,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+38,Male,14.9,380000,8700,5.7,95,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+47,Female,12.0,260000,7000,4.4,87,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+55,Male,13.8,350000,8000,5.3,92,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+28,Female,12.6,280000,7400,4.8,86,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+26,Female,12.5,270000,7300,4.7,87,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+26,Male,13.7,310000,7800,5.6,93,31,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+52,Male,14.2,370000,8300,5.4,92,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+52,Male,14.2,370000,8300,5.4,92,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+38,Male,14.9,380000,8700,5.7,95,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+60,Female,11.0,200000,6000,4.0,80,26,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+49,Male,13.3,340000,7900,5.2,91,30,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+54,Male,13.5,350000,8000,5.1,90,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+53,Female,12.8,280000,7000,4.3,87,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+63,Female,10.8,200000,5900,3.9,79,26,32,Low Hemoglobin — Possible Anemia; Low RBC — Possible Iron Deficiency; Low MCV — Microcytosis (possible iron deficiency),"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods.
+Your RBC level is low, suggesting possible iron deficiency. Eating iron-rich food may help."
+58,Male,13.4,390000,8900,5.7,94,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+28,Female,12.6,280000,7400,4.8,86,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+40,Male,14.4,370000,8600,5.3,91,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+58,Male,13.4,390000,8900,5.7,94,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+33,Male,14.6,350000,8200,5.4,92,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+46,Male,14.2,360000,8300,5.4,92,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+39,Female,12.1,310000,7700,4.6,88,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+67,Female,10.3,180000,5600,3.7,77,25,32,Low Hemoglobin — Possible Anemia; Low RBC — Possible Iron Deficiency; Low MCV — Microcytosis (possible iron deficiency),"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods.
+Your RBC level is low, suggesting possible iron deficiency. Eating iron-rich food may help."
+47,Female,12.0,260000,7000,4.4,87,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+34,Female,11.9,250000,6800,4.1,83,27,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+27,Female,12.0,230000,6900,4.3,85,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+40,Female,12.5,300000,7700,4.7,88,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+32,Female,12.3,290000,7500,4.5,89,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+32,Female,12.3,290000,7500,4.5,89,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+56,Male,14.9,380000,8700,5.7,95,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+44,Female,12.1,280000,7000,4.5,89,27,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+43,Male,14.3,360000,8300,5.2,91,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+27,Female,12.4,270000,7300,4.9,88,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+43,Male,14.3,360000,8300,5.2,91,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+38,Female,12.4,310000,7600,4.7,88,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+43,Male,14.2,360000,8300,5.2,91,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+36,Female,11.5,240000,7100,4.2,84,27,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+50,Female,11.9,260000,7100,4.4,87,28,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+62,Female,10.6,190000,5800,3.8,80,26,32,Low Hemoglobin — Possible Anemia; Low RBC — Possible Iron Deficiency,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods.
+Your RBC level is low, suggesting possible iron deficiency. Eating iron-rich food may help."
+52,Male,13.5,350000,8000,5.3,92,30,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+47,Male,13.4,340000,7900,5.1,90,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+48,Female,12.6,260000,7000,4.5,87,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+40,Male,15.2,400000,9200,5.8,96,32,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+35,Female,11.5,240000,7100,4.2,84,27,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+52,Female,12.8,280000,7000,4.3,87,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+44,Male,14.2,360000,8300,5.2,91,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+52,Female,12.8,280000,7000,4.3,87,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+52,Male,13.5,350000,8000,5.3,92,30,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+45,Female,12.2,270000,7200,4.6,88,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+60,Male,14.6,370000,8600,5.4,92,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+35,Female,11.7,250000,6800,4.1,83,27,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+67,Female,10.3,180000,5600,3.7,77,25,32,Low Hemoglobin — Possible Anemia; Low RBC — Possible Iron Deficiency; Low MCV — Microcytosis (possible iron deficiency),"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods.
+Your RBC level is low, suggesting possible iron deficiency. Eating iron-rich food may help."
+63,Female,10.8,200000,5900,3.9,79,26,32,Low Hemoglobin — Possible Anemia; Low RBC — Possible Iron Deficiency; Low MCV — Microcytosis (possible iron deficiency),"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods.
+Your RBC level is low, suggesting possible iron deficiency. Eating iron-rich food may help."
+34,Female,11.9,250000,6800,4.1,83,27,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+25,Male,13.8,320000,7500,5.4,92,30,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+44,Male,14.2,360000,8300,5.2,91,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+65,Female,10.5,180000,5800,3.8,78,25,32,Low Hemoglobin — Possible Anemia; Low RBC — Possible Iron Deficiency; Low MCV — Microcytosis (possible iron deficiency),"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods.
+Your RBC level is low, suggesting possible iron deficiency. Eating iron-rich food may help."
+50,Male,13.2,350000,8000,5.0,90,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+29,Female,12.7,280000,7400,4.8,86,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+42,Male,14.2,360000,8300,5.2,91,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+37,Female,12.8,300000,7600,4.9,88,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+35,Male,14.5,380000,8500,5.2,94,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+43,Female,12.3,290000,7400,4.6,88,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+24,Male,13.8,320000,7400,5.5,93,31,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+47,Female,12.0,260000,7000,4.4,87,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+38,Male,14.0,360000,8200,5.6,93,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+37,Female,12.8,300000,7600,4.9,88,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+34,Female,11.8,280000,7300,4.3,85,28,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+25,Male,13.9,330000,7200,5.3,91,30,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+48,Female,12.6,260000,7000,4.5,87,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+26,Female,12.5,270000,7300,4.7,87,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+23,Male,13.5,330000,7200,5.5,93,31,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+26,Female,12.5,270000,7300,4.7,87,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+50,Male,13.0,330000,7600,5.0,90,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+36,Female,11.6,240000,7100,4.2,84,27,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+33,Male,14.6,350000,8200,5.4,92,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+42,Male,14.2,360000,8300,5.2,91,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+51,Female,12.5,290000,7500,4.7,88,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+37,Female,12.4,300000,7700,4.7,88,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+45,Male,15.0,400000,9000,5.8,96,32,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+30,Female,12.6,280000,7400,4.8,86,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+65,Female,10.5,180000,5800,3.8,78,25,32,Low Hemoglobin — Possible Anemia; Low RBC — Possible Iron Deficiency; Low MCV — Microcytosis (possible iron deficiency),"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods.
+Your RBC level is low, suggesting possible iron deficiency. Eating iron-rich food may help."
+44,Female,12.1,280000,7000,4.5,89,27,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+30,Female,12.6,280000,7400,4.8,86,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+55,Male,14.0,360000,8200,5.2,91,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+35,Female,11.5,240000,7100,4.2,84,27,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+59,Male,14.8,370000,8500,5.5,93,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+39,Male,15.1,380000,9000,5.7,96,32,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+29,Female,12.7,280000,7400,4.8,86,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+43,Male,14.2,360000,8300,5.2,91,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+31,Female,12.2,290000,7500,4.5,89,28,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+62,Female,10.6,190000,5800,3.8,80,26,32,Low Hemoglobin — Possible Anemia; Low RBC — Possible Iron Deficiency,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods.
+Your RBC level is low, suggesting possible iron deficiency. Eating iron-rich food may help."
+41,Female,12.2,310000,7700,4.6,88,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+45,Male,15.0,400000,9000,5.8,96,32,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+50,Male,13.2,350000,8000,5.0,90,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+43,Male,14.2,360000,8300,5.2,91,30,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+45,Male,15.0,400000,9000,5.8,96,32,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+37,Male,14.5,380000,8700,5.7,95,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+38,Male,14.9,380000,8700,5.7,95,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+26,Female,12.5,270000,7300,4.7,87,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+48,Male,13.2,340000,7800,5.1,90,29,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+38,Female,12.4,310000,7600,4.7,88,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+28,Male,13.6,310000,7800,5.6,93,31,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+40,Female,12.5,300000,7700,4.7,88,29,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+40,Male,15.2,400000,9200,5.8,96,32,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+52,Male,13.5,350000,8000,5.3,92,30,32,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.
+30,Female,11.8,250000,7000,4.2,84,27,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+60,Female,11.0,200000,6000,4.0,80,26,32,Low Hemoglobin — Possible Anemia,"Your hemoglobin level is low, which suggests anemia. You may feel tired or weak. Consider iron-rich foods."
+46,Male,14.2,360000,8300,5.4,92,31,33,Normal — No abnormalities detected,Your blood parameters appear normal. No abnormalities detected.

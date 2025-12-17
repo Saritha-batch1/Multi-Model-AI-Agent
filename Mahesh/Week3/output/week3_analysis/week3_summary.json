@@ -1,0 +1,113 @@
+{
+  "generated_at": "2025-12-17T06:42:20.780128Z",
+  "reports_count": 11,
+  "reports": [
+    {
+      "file": "CBC-test-report-format-example-sample-template-Drlogy-lab-report_week2_parsed.json",
+      "hemoglobin": 12.5,
+      "glucose": null,
+      "cholesterol": null,
+      "platelet_count": 150000.0,
+      "rbc_count": 5.2
+    },
+    {
+      "file": "complete blood count report_week2_parsed.json",
+      "hemoglobin": 6.5,
+      "glucose": null,
+      "cholesterol": null,
+      "platelet_count": 180.0,
+      "rbc_count": null
+    },
+    {
+      "file": "Full body Report_week2_parsed.json",
+      "hemoglobin": 8.3,
+      "glucose": 102.0,
+      "cholesterol": 154.0,
+      "platelet_count": 160.0,
+      "rbc_count": 4.75
+    },
+    {
+      "file": "Guidelines-Made-Simple-Tool-2018-Cholesterol_week2_parsed.json",
+      "hemoglobin": 1.0,
+      "glucose": 100.0,
+      "cholesterol": 2018.0,
+      "platelet_count": null,
+      "rbc_count": null
+    },
+    {
+      "file": "Hospital_Sample_Blood_Report_week2_parsed.json",
+      "hemoglobin": null,
+      "glucose": null,
+      "cholesterol": null,
+      "platelet_count": null,
+      "rbc_count": null
+    },
+    {
+      "file": "Sample_Consolidated_Blood_Report_week2_parsed.json",
+      "hemoglobin": null,
+      "glucose": null,
+      "cholesterol": null,
+      "platelet_count": null,
+      "rbc_count": null
+    },
+    {
+      "file": "Screenshot 2025-12-06 184647_week2_parsed.json",
+      "hemoglobin": null,
+      "glucose": null,
+      "cholesterol": null,
+      "platelet_count": null,
+      "rbc_count": null
+    },
+    {
+      "file": "Screenshot 2025-12-06 184708_week2_parsed.json",
+      "hemoglobin": 15.0,
+      "glucose": null,
+      "cholesterol": null,
+      "platelet_count": null,
+      "rbc_count": 5.0
+    },
+    {
+      "file": "Screenshot 2025-12-06 184738_week2_parsed.json",
+      "hemoglobin": 155.0,
+      "glucose": null,
+      "cholesterol": null,
+      "platelet_count": 155500.0,
+      "rbc_count": 46.0
+    },
+    {
+      "file": "Screenshot 2025-12-06 184809_week2_parsed.json",
+      "hemoglobin": 15.0,
+      "glucose": null,
+      "cholesterol": null,
+      "platelet_count": 350000.0,
+      "rbc_count": 5.0
+    },
+    {
+      "file": "Screenshot 2025-12-06 184832_week2_parsed.json",
+      "hemoglobin": 145.0,
+      "glucose": null,
+      "cholesterol": null,
+      "platelet_count": 150000.0,
+      "rbc_count": 4.79
+    }
+  ],
+  "computed_patterns": [
+    "Anemia (severe) suggested by hemoglobin 6.5 in complete blood count report_week2_parsed.json",
+    "Anemia (moderate) suggested by hemoglobin 8.3 in Full body Report_week2_parsed.json",
+    "Glucose risk prediabetes in Full body Report_week2_parsed.json (value 102.0)",
+    "Anemia (severe) suggested by hemoglobin 1.0 in Guidelines-Made-Simple-Tool-2018-Cholesterol_week2_parsed.json",
+    "Glucose risk prediabetes in Guidelines-Made-Simple-Tool-2018-Cholesterol_week2_parsed.json (value 100.0)"
+  ],
+  "risk_scores": {
+    "glucose_counts": {
+      "diabetes": 0,
+      "prediabetes": 2,
+      "normal": 0
+    }
+  },
+  "overall_health_flag": "low-risk",
+  "notes": "Automated week-3 summary. This is not a medical diagnosis.",
+  "hb_median": 13.75,
+  "glucose_median": 101.0,
+  "cholesterol_median": 1086.0
+}

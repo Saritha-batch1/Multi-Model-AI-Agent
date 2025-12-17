@@ -11,6 +11,7 @@ Combining individual parameters into health indicators
 This is the first step toward building an AI-driven medical interpretation module.
 
 2. Objectives for Week-3
+   
 2.1 Build Pattern Recognition Functions
 You will implement custom logic to detect patterns such as:
 Low Hemoglobin + Low RBC → Anemia Risk
@@ -18,7 +19,7 @@ High Glucose + High Cholesterol → Metabolic Syndrome Risk
 Low Platelets + Weak CBC → Bleeding Risk
 All values normal → Healthy profile
 
-2. 2 Generate a Structured Health Insight Output
+2.2 Generate a Structured Health Insight Output
 Your script will produce a JSON / dict containing:
 Extracted parameters
 Individual parameter classification (Low / Normal / High)
@@ -58,7 +59,7 @@ Example:
             return "high"
     return "normal"
 
-4. Pattern Recognition Rules
+5. Pattern Recognition Rules
 Examples:
 if hb_low and rbc_low:
     anemia_risk = "High risk of anemia pattern"
@@ -71,20 +72,20 @@ if platelet_low:
 
 These rules must follow conservative, safe interpretations.
 
-5. Risk Score Calculation
-5.1 Cholesterol Ratio Formula
+6. Risk Score Calculation
+6.1 Cholesterol Ratio Formula
 
 Risk Ratio = Total Cholesterol / HDL
 - < 3.5 → Good
 - 3.5 to 5.0 → Moderate Risk
 - > 5.0 → High Risk
 
-5. 2 Glucose Risk Category
+6.2 Glucose Risk Category
 < 100 → Normal
 100–125 → Prediabetes
 ≥ 126 → Diabetes Risk
 
-5. 3 Anemia Severity
+6.3 Anemia Severity
 Based on hemoglobin:
 | HB Value | Severity |
 | -------- | -------- |
@@ -93,7 +94,7 @@ Based on hemoglobin:
 | 11–13    | Mild     |
 | > 13     | Normal   |
 
-6. Output Format
+7. Output Format
 
 Example output JSON:
     {
@@ -121,18 +122,18 @@ Example output JSON:
 👁️ REAL-TIME FLOW OF THE SYSTEM
 Here is the flow in very simple steps:
 
-✨ Step 1 — User uploads PDF/image/CSV 
+ Step 1 — User uploads PDF/image/CSV 
 This happens in Week-2.
 
-✨ Step 2 — Week-2 extracts + normalizes
+ Step 2 — Week-2 extracts + normalizes
 Output saved in:
 Week2/output/row_reports/
 
-✨ Step 3 — You copy these Week-2 JSON files into Week-3
+ Step 3 — You copy these Week-2 JSON files into Week-3
 Because Week-3 must analyze them:
 Week3/data/week2_json_reports/
 
-✨ Step 4 — Week-3 script reads each JSON
+ Step 4 — Week-3 script reads each JSON
 Inside pattern_recognition_mahesh.py:
 Loads hemoglobin, RBC, glucose, etc.
 Evaluates ranges
@@ -140,7 +141,7 @@ Applies clinical logic
 Detects patterns
 Calculates risks
 
-✨ Step 5 — Week-3 generates final analysis
+ Step 5 — Week-3 generates final analysis
 Saved to:
 Week3/output/week3_analysis/
 Each JSON is similar to:
@@ -175,5 +176,6 @@ pattern detection
 health risk level
 warnings
 lifestyle suggestions (optional)
+
 
 This is the final interpreted result for that document.

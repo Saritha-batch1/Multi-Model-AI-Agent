@@ -2,35 +2,45 @@ import pandas as pd
 
 def assess_risk(row):
     risks = []
+    severity = "Low"
 
-    # Anemia risk (pattern-based)
+    # Anemia pattern
     if row["hemoglobin"] < 11 and row["rbc_count"] < 4:
-        risks.append("High Anemia Risk")
+        risks.append("Anemia")
+        severity = "High"
     elif row["hemoglobin"] < 12:
-        risks.append("Moderate Anemia Risk")
+        risks.append("Mild Anemia")
+        severity = "Medium"
 
-    # Infection risk
+    # Infection pattern
     if row["wbc_count"] > 11000:
-        risks.append("Infection Risk")
+        risks.append("Possible Infection")
+        severity = max(severity, "Medium")
 
-    # Bleeding risk
+    # Platelet-related risk
     if row["platelet_count"] < 150000:
         risks.append("Bleeding Risk")
+        severity = "High"
 
     if not risks:
-        return "Low Risk"
-    return "; ".join(risks)
+        return pd.Series(["No Significant Risk", "Low"])
+
+    return pd.Series([", ".join(risks), severity])
 
 
-def run_pattern_risk_model(input_csv, output_csv):
+def run_model_2(input_csv, output_csv):
     df = pd.read_csv(input_csv)
-    df["risk_assessment"] = df.apply(assess_risk, axis=1)
+
+    df[["Detected_Patterns", "Risk_Level"]] = df.apply(
+        assess_risk, axis=1
+    )
+
     df.to_csv(output_csv, index=False)
-    print(f"✅ Model-2 risk report generated: {output_csv}")
+    print(f"✅ Model 2 completed. Output saved to {output_csv}")
 
 
 if __name__ == "__main__":
-    run_pattern_risk_model(
+    run_model_2(
         "extracted_parameters.csv",
         "risk_assessment_report.csv"
     )

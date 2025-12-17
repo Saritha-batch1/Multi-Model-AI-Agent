@@ -1,418 +1,418 @@
-age,gender,hemoglobin,platelet_count,wbc_count,rbc_count,mcv,mch,mchc,risk_assessment
-68,Female,10.4,180000,5700,3.7,77,25,32,High Anemia Risk
-25,Male,13.8,320000,7500,5.4,92,30,32,Low Risk
-57,Male,13.5,370000,8500,5.1,90,29,32,Low Risk
-28,Female,12.7,290000,7800,4.8,86,29,33,Low Risk
-38,Male,14.9,380000,8700,5.7,95,31,33,Low Risk
-47,Female,12.0,260000,7000,4.4,87,28,32,Low Risk
-37,Male,14.5,380000,8700,5.7,95,31,33,Low Risk
-30,Female,11.8,250000,7000,4.2,84,27,32,Moderate Anemia Risk
-35,Female,11.5,240000,7100,4.2,84,27,32,Moderate Anemia Risk
-22,Male,13.6,330000,7400,5.6,93,31,32,Low Risk
-41,Female,12.2,310000,7700,4.6,88,29,33,Low Risk
-34,Female,11.8,280000,7300,4.3,85,28,32,Moderate Anemia Risk
-40,Male,15.2,400000,9200,5.8,96,32,33,Low Risk
-58,Male,13.4,390000,8900,5.7,94,31,33,Low Risk
-34,Female,11.8,280000,7300,4.3,85,28,32,Moderate Anemia Risk
-50,Male,13.0,330000,7600,5.0,90,29,32,Low Risk
-64,Female,10.7,200000,5900,3.9,79,26,32,High Anemia Risk
-30,Female,11.8,250000,7000,4.2,84,27,32,Moderate Anemia Risk
-35,Male,14.5,380000,8500,5.2,94,31,33,Low Risk
-40,Male,15.2,400000,9200,5.8,96,32,33,Low Risk
-52,Male,14.2,370000,8300,5.4,92,31,33,Low Risk
-70,Female,10.2,190000,5600,3.6,76,24,32,High Anemia Risk
-45,Female,12.2,270000,7200,4.6,88,28,32,Low Risk
-63,Female,10.8,200000,5900,3.9,79,26,32,High Anemia Risk
-33,Male,14.8,360000,8200,5.3,91,30,33,Low Risk
-60,Female,11.0,200000,6000,4.0,80,26,32,Moderate Anemia Risk
-41,Female,12.2,310000,7700,4.6,88,29,33,Low Risk
-36,Male,14.7,360000,8100,5.5,93,31,33,Low Risk
-33,Male,14.8,360000,8200,5.3,91,30,33,Low Risk
-39,Male,15.1,380000,9000,5.7,96,32,33,Low Risk
-27,Female,12.0,230000,6900,4.3,85,28,32,Low Risk
-35,Female,11.7,250000,6800,4.1,83,27,32,Moderate Anemia Risk
-54,Male,13.5,350000,8000,5.1,90,29,32,Low Risk
-35,Female,11.5,240000,7100,4.2,84,27,32,Moderate Anemia Risk
-25,Male,13.9,330000,7200,5.3,91,30,32,Low Risk
-40,Male,14.4,370000,8600,5.3,91,30,33,Low Risk
-33,Female,11.8,250000,6800,4.2,84,27,32,Moderate Anemia Risk
-36,Female,11.5,240000,7100,4.2,84,27,32,Moderate Anemia Risk
-50,Male,13.2,350000,8000,5.0,90,29,32,Low Risk
-35,Male,14.5,380000,8500,5.2,94,31,33,Low Risk
-22,Male,13.6,330000,7400,5.6,93,31,32,Low Risk
-68,Female,10.4,180000,5700,3.7,77,25,32,High Anemia Risk
-28,Female,12.7,290000,7800,4.8,86,29,33,Low Risk
-55,Male,13.8,350000,8000,5.3,92,30,33,Low Risk
-48,Female,12.6,260000,7000,4.5,87,28,32,Low Risk
-25,Male,13.8,320000,7500,5.4,92,30,32,Low Risk
-44,Female,12.1,280000,7000,4.5,89,27,32,Low Risk
-44,Male,14.2,360000,8300,5.2,91,30,33,Low Risk
-57,Male,13.5,370000,8500,5.1,90,29,32,Low Risk
-29,Female,12.0,260000,7200,4.4,87,28,32,Low Risk
-38,Male,14.0,360000,8200,5.6,93,31,33,Low Risk
-39,Female,12.1,310000,7700,4.6,88,29,33,Low Risk
-56,Male,14.9,380000,8700,5.7,95,31,33,Low Risk
-31,Female,11.6,260000,7200,4.4,86,28,32,Moderate Anemia Risk
-40,Male,14.4,370000,8600,5.3,91,30,33,Low Risk
-38,Female,12.4,310000,7600,4.7,88,29,33,Low Risk
-57,Male,13.5,370000,8500,5.1,90,29,32,Low Risk
-36,Female,11.6,240000,7100,4.2,84,27,32,Moderate Anemia Risk
-38,Male,14.9,380000,8700,5.8,95,31,33,Low Risk
-27,Female,12.0,230000,6900,4.3,85,28,32,Low Risk
-67,Female,10.3,180000,5600,3.7,77,25,32,High Anemia Risk
-60,Female,11.0,200000,6000,4.0,80,26,32,Moderate Anemia Risk
-31,Female,11.6,260000,7200,4.4,86,28,32,Moderate Anemia Risk
-50,Male,13.0,330000,7600,5.0,90,29,32,Low Risk
-59,Male,14.8,370000,8500,5.5,93,31,33,Low Risk
-26,Female,12.5,270000,7300,4.7,87,29,32,Low Risk
-48,Male,13.3,340000,7900,5.1,90,29,32,Low Risk
-26,Male,13.7,310000,7800,5.6,93,31,32,Low Risk
-50,Female,11.9,260000,7100,4.4,87,28,32,Moderate Anemia Risk
-45,Male,15.0,400000,9000,5.8,96,32,33,Low Risk
-50,Male,13.0,330000,7600,5.0,90,29,32,Low Risk
-65,Female,10.5,180000,5800,3.8,78,25,32,High Anemia Risk
-36,Female,11.6,240000,7100,4.2,84,27,32,Moderate Anemia Risk
-30,Female,12.6,280000,7400,4.8,86,29,33,Low Risk
-39,Male,15.1,380000,9000,5.7,96,32,33,Low Risk
-28,Female,12.6,280000,7400,4.8,86,29,33,Low Risk
-38,Male,14.9,380000,8700,5.8,95,31,33,Low Risk
-31,Female,12.3,290000,7400,4.6,88,29,32,Low Risk
-50,Male,13.2,350000,8000,5.0,90,29,32,Low Risk
-29,Male,13.2,340000,7800,5.3,91,30,32,Low Risk
-70,Female,10.2,190000,5600,3.6,76,24,32,High Anemia Risk
-32,Male,14.7,350000,8200,5.4,92,30,33,Low Risk
-68,Female,10.4,180000,5700,3.7,77,25,32,High Anemia Risk
-22,Male,13.6,330000,7400,5.6,93,31,32,Low Risk
-29,Male,13.2,340000,7800,5.3,91,30,32,Low Risk
-24,Male,13.8,320000,7400,5.5,93,31,32,Low Risk
-29,Female,12.7,280000,7400,4.8,86,29,33,Low Risk
-43,Male,14.2,360000,8300,5.2,91,30,33,Low Risk
-45,Male,15.0,400000,9000,5.8,96,32,33,Low Risk
-43,Male,14.2,360000,8300,5.2,91,30,33,Low Risk
-63,Female,10.8,200000,5900,3.9,79,26,32,High Anemia Risk
-49,Male,13.0,330000,7600,5.0,90,29,32,Low Risk
-40,Male,15.2,400000,9200,5.8,96,32,33,Low Risk
-30,Female,12.0,260000,7200,4.4,87,28,32,Low Risk
-55,Male,13.8,350000,8000,5.3,92,30,33,Low Risk
-56,Male,14.9,380000,8700,5.7,95,31,33,Low Risk
-36,Female,11.5,240000,7100,4.2,84,27,32,Moderate Anemia Risk
-54,Male,13.5,350000,8000,5.1,90,29,32,Low Risk
-58,Female,10.9,190000,5800,3.8,80,26,32,High Anemia Risk
-44,Female,12.1,280000,7000,4.5,89,27,32,Low Risk
-48,Male,13.2,340000,7800,5.1,90,29,32,Low Risk
-38,Male,14.9,380000,8700,5.8,95,31,33,Low Risk
-55,Male,14.0,370000,8700,5.5,95,30,33,Low Risk
-24,Male,13.8,320000,7400,5.5,93,31,32,Low Risk
-47,Female,12.0,260000,7000,4.4,87,28,32,Low Risk
-64,Female,10.7,200000,5900,3.9,79,26,32,High Anemia Risk
-58,Female,10.9,190000,5800,3.8,80,26,32,High Anemia Risk
-50,Female,11.9,260000,7100,4.4,87,28,32,Moderate Anemia Risk
-30,Female,12.0,260000,7200,4.4,87,28,32,Low Risk
-55,Male,13.8,350000,8000,5.3,92,30,33,Low Risk
-40,Female,12.5,300000,7700,4.7,88,29,33,Low Risk
-28,Female,12.6,280000,7400,4.8,86,29,33,Low Risk
-43,Male,14.2,360000,8300,5.2,91,30,33,Low Risk
-51,Female,12.5,290000,7500,4.7,88,29,32,Low Risk
-33,Male,14.6,350000,8200,5.4,92,30,33,Low Risk
-43,Male,14.2,360000,8300,5.2,91,30,33,Low Risk
-45,Male,15.0,400000,9000,5.8,96,32,33,Low Risk
-42,Male,14.2,360000,8300,5.2,91,30,33,Low Risk
-31,Female,11.6,260000,7200,4.4,86,28,32,Moderate Anemia Risk
-34,Female,11.9,250000,6800,4.1,83,27,32,Moderate Anemia Risk
-37,Female,12.4,300000,7700,4.7,88,29,33,Low Risk
-48,Male,13.3,340000,7900,5.1,90,29,32,Low Risk
-43,Male,14.3,360000,8300,5.2,91,30,33,Low Risk
-25,Male,13.9,330000,7200,5.3,91,30,32,Low Risk
-32,Male,14.7,350000,8200,5.4,92,30,33,Low Risk
-48,Male,13.2,340000,7800,5.1,90,29,32,Low Risk
-60,Male,14.6,370000,8600,5.4,92,31,33,Low Risk
-35,Female,11.5,240000,7100,4.2,84,27,32,Moderate Anemia Risk
-52,Male,14.2,370000,8300,5.4,92,31,33,Low Risk
-38,Male,14.0,360000,8200,5.6,93,31,33,Low Risk
-43,Male,14.3,360000,8300,5.2,91,30,33,Low Risk
-33,Male,14.6,350000,8200,5.4,92,30,33,Low Risk
-44,Male,14.2,360000,8300,5.2,91,30,33,Low Risk
-57,Male,13.5,370000,8500,5.1,90,29,32,Low Risk
-32,Female,12.3,290000,7500,4.5,89,28,32,Low Risk
-32,Male,14.7,350000,8200,5.4,92,30,33,Low Risk
-23,Male,13.5,330000,7200,5.5,93,31,32,Low Risk
-48,Male,13.2,340000,7800,5.1,90,29,32,Low Risk
-22,Male,13.2,340000,7800,5.3,91,30,32,Low Risk
-49,Male,13.0,330000,7600,5.0,90,29,32,Low Risk
-28,Female,12.7,290000,7800,4.8,86,29,33,Low Risk
-27,Female,12.0,230000,6900,4.3,85,28,32,Low Risk
-70,Female,10.2,190000,5600,3.6,76,24,32,High Anemia Risk
-32,Female,12.3,290000,7500,4.5,89,28,32,Low Risk
-22,Male,13.6,330000,7400,5.6,93,31,32,Low Risk
-42,Male,15.1,380000,9000,5.7,96,32,33,Low Risk
-42,Male,15.1,380000,9000,5.8,96,32,33,Low Risk
-55,Male,14.0,360000,8200,5.2,91,30,33,Low Risk
-35,Female,11.7,250000,6800,4.1,83,27,32,Moderate Anemia Risk
-45,Male,15.0,400000,9000,5.8,96,32,33,Low Risk
-55,Male,14.0,370000,8700,5.5,95,30,33,Low Risk
-36,Male,14.7,360000,8100,5.5,93,31,33,Low Risk
-58,Female,10.9,190000,5800,3.8,80,26,32,High Anemia Risk
-45,Female,12.2,270000,7200,4.6,88,28,32,Low Risk
-36,Female,11.5,240000,7100,4.2,84,27,32,Moderate Anemia Risk
-54,Male,13.5,350000,8000,5.1,90,29,32,Low Risk
-47,Female,12.0,260000,7000,4.4,87,28,32,Low Risk
-29,Male,13.2,340000,7800,5.3,91,30,32,Low Risk
-26,Female,12.5,270000,7300,4.7,87,29,32,Low Risk
-42,Male,14.3,340000,7800,5.1,89,30,32,Low Risk
-28,Female,12.6,280000,7400,4.8,86,29,33,Low Risk
-29,Female,12.0,260000,7200,4.4,87,28,32,Low Risk
-43,Male,14.2,360000,8300,5.2,91,30,33,Low Risk
-33,Male,14.8,360000,8200,5.3,91,30,33,Low Risk
-53,Female,12.8,280000,7000,4.3,87,28,32,Low Risk
-52,Male,13.5,350000,8000,5.3,92,30,32,Low Risk
-52,Female,12.8,280000,7000,4.3,87,28,32,Low Risk
-31,Female,12.3,290000,7400,4.6,88,29,32,Low Risk
-45,Female,12.2,270000,7200,4.6,88,28,32,Low Risk
-33,Female,11.8,250000,6800,4.2,84,27,32,Moderate Anemia Risk
-45,Male,15.0,400000,9000,5.8,96,32,33,Low Risk
-37,Female,12.8,300000,7600,4.9,88,29,33,Low Risk
-31,Female,12.2,290000,7500,4.5,89,28,32,Low Risk
-56,Male,14.9,380000,8700,5.7,95,31,33,Low Risk
-31,Female,12.3,290000,7400,4.6,88,29,32,Low Risk
-28,Male,13.6,310000,7800,5.6,93,31,32,Low Risk
-49,Male,13.0,330000,7600,5.0,90,29,32,Low Risk
-52,Female,12.8,280000,7000,4.3,87,28,32,Low Risk
-29,Female,12.0,260000,7200,4.4,87,28,32,Low Risk
-38,Male,14.9,380000,8700,5.8,95,31,33,Low Risk
-24,Male,13.8,320000,7400,5.5,93,31,32,Low Risk
-26,Male,13.7,310000,7800,5.6,93,31,32,Low Risk
-43,Female,12.3,290000,7400,4.6,88,29,32,Low Risk
-51,Female,12.5,290000,7500,4.7,88,29,32,Low Risk
-29,Male,13.0,320000,7400,5.2,91,30,32,Low Risk
-64,Female,10.7,200000,5900,3.9,79,26,32,High Anemia Risk
-22,Male,13.2,340000,7800,5.3,91,30,32,Low Risk
-65,Female,10.5,180000,5800,3.8,78,25,32,High Anemia Risk
-55,Male,14.0,370000,8700,5.5,95,30,33,Low Risk
-48,Male,13.3,340000,7900,5.1,90,29,32,Low Risk
-43,Female,12.3,290000,7400,4.6,88,29,32,Low Risk
-29,Male,13.0,320000,7400,5.2,91,30,32,Low Risk
-48,Male,13.3,340000,7900,5.1,90,29,32,Low Risk
-28,Female,12.6,280000,7400,4.8,86,29,33,Low Risk
-37,Male,14.5,380000,8700,5.7,95,31,33,Low Risk
-31,Female,11.6,260000,7200,4.4,86,28,32,Moderate Anemia Risk
-47,Female,12.0,260000,7000,4.4,87,28,32,Low Risk
-22,Male,13.2,340000,7800,5.3,91,30,32,Low Risk
-48,Female,12.6,260000,7000,4.5,87,28,32,Low Risk
-29,Male,13.0,320000,7400,5.2,91,30,32,Low Risk
-50,Male,13.0,330000,7600,5.0,90,29,32,Low Risk
-29,Female,12.7,280000,7400,4.8,86,29,33,Low Risk
-28,Female,12.7,290000,7800,4.8,86,29,33,Low Risk
-42,Male,15.1,380000,9000,5.7,96,32,33,Low Risk
-31,Female,12.3,290000,7400,4.6,88,29,32,Low Risk
-39,Male,15.1,380000,9000,5.7,96,32,33,Low Risk
-30,Female,11.8,250000,7000,4.2,84,27,32,Moderate Anemia Risk
-58,Female,10.9,190000,5800,3.8,80,26,32,High Anemia Risk
-30,Female,12.6,280000,7400,4.8,86,29,33,Low Risk
-60,Male,14.6,370000,8600,5.4,92,31,33,Low Risk
-47,Male,13.4,340000,7900,5.1,90,29,32,Low Risk
-58,Male,13.4,390000,8900,5.7,94,31,33,Low Risk
-25,Male,13.8,320000,7500,5.4,92,30,32,Low Risk
-63,Female,10.8,200000,5900,3.9,79,26,32,High Anemia Risk
-26,Female,12.5,270000,7300,4.7,87,29,32,Low Risk
-58,Male,13.4,390000,8900,5.7,94,31,33,Low Risk
-26,Male,13.7,310000,7800,5.6,93,31,32,Low Risk
-30,Female,12.0,260000,7200,4.4,87,28,32,Low Risk
-60,Male,14.6,370000,8600,5.4,92,31,33,Low Risk
-37,Male,14.5,380000,8700,5.7,95,31,33,Low Risk
-50,Female,11.9,260000,7100,4.4,87,28,32,Moderate Anemia Risk
-36,Female,11.6,240000,7100,4.2,84,27,32,Moderate Anemia Risk
-28,Female,12.6,280000,7400,4.8,86,29,33,Low Risk
-32,Male,14.7,350000,8200,5.4,92,30,33,Low Risk
-40,Female,12.5,300000,7700,4.7,88,29,33,Low Risk
-63,Female,10.8,200000,5900,3.9,79,26,32,High Anemia Risk
-36,Male,14.7,360000,8100,5.5,93,31,33,Low Risk
-51,Female,12.5,290000,7500,4.7,88,29,32,Low Risk
-31,Female,12.2,290000,7500,4.5,89,28,32,Low Risk
-55,Male,14.0,370000,8700,5.5,95,30,33,Low Risk
-23,Male,13.5,330000,7200,5.5,93,31,32,Low Risk
-37,Female,12.4,300000,7700,4.7,88,29,33,Low Risk
-42,Male,15.1,380000,9000,5.7,96,32,33,Low Risk
-28,Male,13.6,310000,7800,5.6,93,31,32,Low Risk
-38,Female,12.4,310000,7600,4.7,88,29,33,Low Risk
-55,Male,14.0,360000,8200,5.2,91,30,33,Low Risk
-41,Female,12.2,310000,7700,4.6,88,29,33,Low Risk
-48,Female,12.6,260000,7000,4.5,87,28,32,Low Risk
-46,Male,14.2,360000,8300,5.4,92,31,33,Low Risk
-43,Female,12.3,290000,7400,4.6,88,29,32,Low Risk
-27,Female,12.4,270000,7300,4.9,88,29,33,Low Risk
-36,Male,14.7,360000,8100,5.5,93,31,33,Low Risk
-45,Female,12.2,270000,7200,4.6,88,28,32,Low Risk
-65,Female,10.5,180000,5800,3.8,78,25,32,High Anemia Risk
-63,Female,10.8,200000,5900,3.9,79,26,32,High Anemia Risk
-35,Female,11.5,240000,7100,4.2,84,27,32,Moderate Anemia Risk
-29,Male,13.2,340000,7800,5.3,91,30,32,Low Risk
-50,Male,13.0,330000,7600,5.0,90,29,32,Low Risk
-27,Female,12.4,270000,7300,4.9,88,29,33,Low Risk
-34,Female,11.8,280000,7300,4.3,85,28,32,Moderate Anemia Risk
-38,Male,14.0,360000,8200,5.6,93,31,33,Low Risk
-50,Male,13.2,350000,8000,5.0,90,29,32,Low Risk
-37,Female,12.4,300000,7700,4.7,88,29,33,Low Risk
-26,Female,12.5,270000,7300,4.7,87,29,32,Low Risk
-46,Male,14.2,360000,8300,5.4,92,31,33,Low Risk
-35,Male,14.5,380000,8500,5.2,94,31,33,Low Risk
-62,Female,10.6,190000,5800,3.8,80,26,32,High Anemia Risk
-47,Female,12.0,260000,7000,4.4,87,28,32,Low Risk
-28,Female,12.6,280000,7400,4.8,86,29,33,Low Risk
-29,Female,12.0,260000,7200,4.4,87,28,32,Low Risk
-33,Female,11.8,250000,6800,4.2,84,27,32,Moderate Anemia Risk
-40,Male,14.4,370000,8600,5.3,91,30,33,Low Risk
-35,Male,14.5,380000,8500,5.2,94,31,33,Low Risk
-70,Female,10.2,190000,5600,3.6,76,24,32,High Anemia Risk
-49,Male,13.3,340000,7900,5.2,91,30,32,Low Risk
-53,Female,12.8,280000,7000,4.3,87,28,32,Low Risk
-35,Female,11.5,240000,7100,4.2,84,27,32,Moderate Anemia Risk
-68,Female,10.4,180000,5700,3.7,77,25,32,High Anemia Risk
-59,Male,14.8,370000,8500,5.5,93,31,33,Low Risk
-33,Male,14.8,360000,8200,5.3,91,30,33,Low Risk
-33,Male,14.8,360000,8200,5.3,91,30,33,Low Risk
-67,Female,10.3,180000,5600,3.7,77,25,32,High Anemia Risk
-29,Male,13.0,320000,7400,5.2,91,30,32,Low Risk
-35,Female,11.5,240000,7100,4.2,84,27,32,Moderate Anemia Risk
-60,Female,11.0,200000,6000,4.0,80,26,32,Moderate Anemia Risk
-22,Male,13.2,340000,7800,5.3,91,30,32,Low Risk
-23,Male,13.5,330000,7200,5.5,93,31,32,Low Risk
-64,Female,10.7,200000,5900,3.9,79,26,32,High Anemia Risk
-50,Male,13.0,330000,7600,5.0,90,29,32,Low Risk
-55,Male,14.0,370000,8700,5.5,95,30,33,Low Risk
-49,Male,13.3,340000,7900,5.2,91,30,32,Low Risk
-55,Male,14.0,360000,8200,5.2,91,30,33,Low Risk
-47,Male,13.4,340000,7900,5.1,90,29,32,Low Risk
-59,Male,14.8,370000,8500,5.5,93,31,33,Low Risk
-39,Female,12.1,310000,7700,4.6,88,29,33,Low Risk
-42,Male,14.2,360000,8300,5.2,91,30,33,Low Risk
-28,Female,12.7,290000,7800,4.8,86,29,33,Low Risk
-50,Male,13.0,330000,7600,5.0,90,29,32,Low Risk
-33,Female,11.8,250000,6800,4.2,84,27,32,Moderate Anemia Risk
-30,Female,11.8,250000,7000,4.2,84,27,32,Moderate Anemia Risk
-27,Female,12.4,270000,7300,4.9,88,29,33,Low Risk
-38,Female,12.4,310000,7600,4.7,88,29,33,Low Risk
-34,Female,11.9,250000,6800,4.1,83,27,32,Moderate Anemia Risk
-30,Female,12.0,260000,7200,4.4,87,28,32,Low Risk
-39,Female,12.1,310000,7700,4.6,88,29,33,Low Risk
-37,Female,12.8,300000,7600,4.9,88,29,33,Low Risk
-27,Female,12.0,230000,6900,4.3,85,28,32,Low Risk
-47,Male,13.4,340000,7900,5.1,90,29,32,Low Risk
-62,Female,10.6,190000,5800,3.8,80,26,32,High Anemia Risk
-49,Male,13.0,330000,7600,5.0,90,29,32,Low Risk
-25,Male,13.9,330000,7200,5.3,91,30,32,Low Risk
-53,Female,12.8,280000,7000,4.3,87,28,32,Low Risk
-31,Female,12.2,290000,7500,4.5,89,28,32,Low Risk
-25,Male,13.8,320000,7500,5.4,92,30,32,Low Risk
-63,Female,10.8,200000,5900,3.9,79,26,32,High Anemia Risk
-28,Male,13.6,310000,7800,5.6,93,31,32,Low Risk
-22,Male,13.6,330000,7400,5.6,93,31,32,Low Risk
-49,Male,13.3,340000,7900,5.2,91,30,32,Low Risk
-35,Female,11.7,250000,6800,4.1,83,27,32,Moderate Anemia Risk
-38,Male,14.9,380000,8700,5.7,95,31,33,Low Risk
-47,Female,12.0,260000,7000,4.4,87,28,32,Low Risk
-55,Male,13.8,350000,8000,5.3,92,30,33,Low Risk
-28,Female,12.6,280000,7400,4.8,86,29,33,Low Risk
-26,Female,12.5,270000,7300,4.7,87,29,32,Low Risk
-26,Male,13.7,310000,7800,5.6,93,31,32,Low Risk
-52,Male,14.2,370000,8300,5.4,92,31,33,Low Risk
-52,Male,14.2,370000,8300,5.4,92,31,33,Low Risk
-38,Male,14.9,380000,8700,5.7,95,31,33,Low Risk
-60,Female,11.0,200000,6000,4.0,80,26,32,Moderate Anemia Risk
-49,Male,13.3,340000,7900,5.2,91,30,32,Low Risk
-54,Male,13.5,350000,8000,5.1,90,29,32,Low Risk
-53,Female,12.8,280000,7000,4.3,87,28,32,Low Risk
-63,Female,10.8,200000,5900,3.9,79,26,32,High Anemia Risk
-58,Male,13.4,390000,8900,5.7,94,31,33,Low Risk
-28,Female,12.6,280000,7400,4.8,86,29,33,Low Risk
-40,Male,14.4,370000,8600,5.3,91,30,33,Low Risk
-58,Male,13.4,390000,8900,5.7,94,31,33,Low Risk
-33,Male,14.6,350000,8200,5.4,92,30,33,Low Risk
-46,Male,14.2,360000,8300,5.4,92,31,33,Low Risk
-39,Female,12.1,310000,7700,4.6,88,29,33,Low Risk
-67,Female,10.3,180000,5600,3.7,77,25,32,High Anemia Risk
-47,Female,12.0,260000,7000,4.4,87,28,32,Low Risk
-34,Female,11.9,250000,6800,4.1,83,27,32,Moderate Anemia Risk
-27,Female,12.0,230000,6900,4.3,85,28,32,Low Risk
-40,Female,12.5,300000,7700,4.7,88,29,33,Low Risk
-32,Female,12.3,290000,7500,4.5,89,28,32,Low Risk
-32,Female,12.3,290000,7500,4.5,89,28,32,Low Risk
-56,Male,14.9,380000,8700,5.7,95,31,33,Low Risk
-44,Female,12.1,280000,7000,4.5,89,27,32,Low Risk
-43,Male,14.3,360000,8300,5.2,91,30,33,Low Risk
-27,Female,12.4,270000,7300,4.9,88,29,33,Low Risk
-43,Male,14.3,360000,8300,5.2,91,30,33,Low Risk
-38,Female,12.4,310000,7600,4.7,88,29,33,Low Risk
-43,Male,14.2,360000,8300,5.2,91,30,33,Low Risk
-36,Female,11.5,240000,7100,4.2,84,27,32,Moderate Anemia Risk
-50,Female,11.9,260000,7100,4.4,87,28,32,Moderate Anemia Risk
-62,Female,10.6,190000,5800,3.8,80,26,32,High Anemia Risk
-52,Male,13.5,350000,8000,5.3,92,30,32,Low Risk
-47,Male,13.4,340000,7900,5.1,90,29,32,Low Risk
-48,Female,12.6,260000,7000,4.5,87,28,32,Low Risk
-40,Male,15.2,400000,9200,5.8,96,32,33,Low Risk
-35,Female,11.5,240000,7100,4.2,84,27,32,Moderate Anemia Risk
-52,Female,12.8,280000,7000,4.3,87,28,32,Low Risk
-44,Male,14.2,360000,8300,5.2,91,30,33,Low Risk
-52,Female,12.8,280000,7000,4.3,87,28,32,Low Risk
-52,Male,13.5,350000,8000,5.3,92,30,32,Low Risk
-45,Female,12.2,270000,7200,4.6,88,28,32,Low Risk
-60,Male,14.6,370000,8600,5.4,92,31,33,Low Risk
-35,Female,11.7,250000,6800,4.1,83,27,32,Moderate Anemia Risk
-67,Female,10.3,180000,5600,3.7,77,25,32,High Anemia Risk
-63,Female,10.8,200000,5900,3.9,79,26,32,High Anemia Risk
-34,Female,11.9,250000,6800,4.1,83,27,32,Moderate Anemia Risk
-25,Male,13.8,320000,7500,5.4,92,30,32,Low Risk
-44,Male,14.2,360000,8300,5.2,91,30,33,Low Risk
-65,Female,10.5,180000,5800,3.8,78,25,32,High Anemia Risk
-50,Male,13.2,350000,8000,5.0,90,29,32,Low Risk
-29,Female,12.7,280000,7400,4.8,86,29,33,Low Risk
-42,Male,14.2,360000,8300,5.2,91,30,33,Low Risk
-37,Female,12.8,300000,7600,4.9,88,29,33,Low Risk
-35,Male,14.5,380000,8500,5.2,94,31,33,Low Risk
-43,Female,12.3,290000,7400,4.6,88,29,32,Low Risk
-24,Male,13.8,320000,7400,5.5,93,31,32,Low Risk
-47,Female,12.0,260000,7000,4.4,87,28,32,Low Risk
-38,Male,14.0,360000,8200,5.6,93,31,33,Low Risk
-37,Female,12.8,300000,7600,4.9,88,29,33,Low Risk
-34,Female,11.8,280000,7300,4.3,85,28,32,Moderate Anemia Risk
-25,Male,13.9,330000,7200,5.3,91,30,32,Low Risk
-48,Female,12.6,260000,7000,4.5,87,28,32,Low Risk
-26,Female,12.5,270000,7300,4.7,87,29,32,Low Risk
-23,Male,13.5,330000,7200,5.5,93,31,32,Low Risk
-26,Female,12.5,270000,7300,4.7,87,29,32,Low Risk
-50,Male,13.0,330000,7600,5.0,90,29,32,Low Risk
-36,Female,11.6,240000,7100,4.2,84,27,32,Moderate Anemia Risk
-33,Male,14.6,350000,8200,5.4,92,30,33,Low Risk
-42,Male,14.2,360000,8300,5.2,91,30,33,Low Risk
-51,Female,12.5,290000,7500,4.7,88,29,32,Low Risk
-37,Female,12.4,300000,7700,4.7,88,29,33,Low Risk
-45,Male,15.0,400000,9000,5.8,96,32,33,Low Risk
-30,Female,12.6,280000,7400,4.8,86,29,33,Low Risk
-65,Female,10.5,180000,5800,3.8,78,25,32,High Anemia Risk
-44,Female,12.1,280000,7000,4.5,89,27,32,Low Risk
-30,Female,12.6,280000,7400,4.8,86,29,33,Low Risk
-55,Male,14.0,360000,8200,5.2,91,30,33,Low Risk
-35,Female,11.5,240000,7100,4.2,84,27,32,Moderate Anemia Risk
-59,Male,14.8,370000,8500,5.5,93,31,33,Low Risk
-39,Male,15.1,380000,9000,5.7,96,32,33,Low Risk
-29,Female,12.7,280000,7400,4.8,86,29,33,Low Risk
-43,Male,14.2,360000,8300,5.2,91,30,33,Low Risk
-31,Female,12.2,290000,7500,4.5,89,28,32,Low Risk
-62,Female,10.6,190000,5800,3.8,80,26,32,High Anemia Risk
-41,Female,12.2,310000,7700,4.6,88,29,33,Low Risk
-45,Male,15.0,400000,9000,5.8,96,32,33,Low Risk
-50,Male,13.2,350000,8000,5.0,90,29,32,Low Risk
-43,Male,14.2,360000,8300,5.2,91,30,33,Low Risk
-45,Male,15.0,400000,9000,5.8,96,32,33,Low Risk
-37,Male,14.5,380000,8700,5.7,95,31,33,Low Risk
-38,Male,14.9,380000,8700,5.7,95,31,33,Low Risk
-26,Female,12.5,270000,7300,4.7,87,29,32,Low Risk
-48,Male,13.2,340000,7800,5.1,90,29,32,Low Risk
-38,Female,12.4,310000,7600,4.7,88,29,33,Low Risk
-28,Male,13.6,310000,7800,5.6,93,31,32,Low Risk
-40,Female,12.5,300000,7700,4.7,88,29,33,Low Risk
-40,Male,15.2,400000,9200,5.8,96,32,33,Low Risk
-52,Male,13.5,350000,8000,5.3,92,30,32,Low Risk
-30,Female,11.8,250000,7000,4.2,84,27,32,Moderate Anemia Risk
-60,Female,11.0,200000,6000,4.0,80,26,32,Moderate Anemia Risk
-46,Male,14.2,360000,8300,5.4,92,31,33,Low Risk
+age,gender,hemoglobin,platelet_count,wbc_count,rbc_count,mcv,mch,mchc,Detected_Patterns,Risk_Level
+68,Female,10.4,180000,5700,3.7,77,25,32,Anemia,High
+25,Male,13.8,320000,7500,5.4,92,30,32,No Significant Risk,Low
+57,Male,13.5,370000,8500,5.1,90,29,32,No Significant Risk,Low
+28,Female,12.7,290000,7800,4.8,86,29,33,No Significant Risk,Low
+38,Male,14.9,380000,8700,5.7,95,31,33,No Significant Risk,Low
+47,Female,12.0,260000,7000,4.4,87,28,32,No Significant Risk,Low
+37,Male,14.5,380000,8700,5.7,95,31,33,No Significant Risk,Low
+30,Female,11.8,250000,7000,4.2,84,27,32,Mild Anemia,Medium
+35,Female,11.5,240000,7100,4.2,84,27,32,Mild Anemia,Medium
+22,Male,13.6,330000,7400,5.6,93,31,32,No Significant Risk,Low
+41,Female,12.2,310000,7700,4.6,88,29,33,No Significant Risk,Low
+34,Female,11.8,280000,7300,4.3,85,28,32,Mild Anemia,Medium
+40,Male,15.2,400000,9200,5.8,96,32,33,No Significant Risk,Low
+58,Male,13.4,390000,8900,5.7,94,31,33,No Significant Risk,Low
+34,Female,11.8,280000,7300,4.3,85,28,32,Mild Anemia,Medium
+50,Male,13.0,330000,7600,5.0,90,29,32,No Significant Risk,Low
+64,Female,10.7,200000,5900,3.9,79,26,32,Anemia,High
+30,Female,11.8,250000,7000,4.2,84,27,32,Mild Anemia,Medium
+35,Male,14.5,380000,8500,5.2,94,31,33,No Significant Risk,Low
+40,Male,15.2,400000,9200,5.8,96,32,33,No Significant Risk,Low
+52,Male,14.2,370000,8300,5.4,92,31,33,No Significant Risk,Low
+70,Female,10.2,190000,5600,3.6,76,24,32,Anemia,High
+45,Female,12.2,270000,7200,4.6,88,28,32,No Significant Risk,Low
+63,Female,10.8,200000,5900,3.9,79,26,32,Anemia,High
+33,Male,14.8,360000,8200,5.3,91,30,33,No Significant Risk,Low
+60,Female,11.0,200000,6000,4.0,80,26,32,Mild Anemia,Medium
+41,Female,12.2,310000,7700,4.6,88,29,33,No Significant Risk,Low
+36,Male,14.7,360000,8100,5.5,93,31,33,No Significant Risk,Low
+33,Male,14.8,360000,8200,5.3,91,30,33,No Significant Risk,Low
+39,Male,15.1,380000,9000,5.7,96,32,33,No Significant Risk,Low
+27,Female,12.0,230000,6900,4.3,85,28,32,No Significant Risk,Low
+35,Female,11.7,250000,6800,4.1,83,27,32,Mild Anemia,Medium
+54,Male,13.5,350000,8000,5.1,90,29,32,No Significant Risk,Low
+35,Female,11.5,240000,7100,4.2,84,27,32,Mild Anemia,Medium
+25,Male,13.9,330000,7200,5.3,91,30,32,No Significant Risk,Low
+40,Male,14.4,370000,8600,5.3,91,30,33,No Significant Risk,Low
+33,Female,11.8,250000,6800,4.2,84,27,32,Mild Anemia,Medium
+36,Female,11.5,240000,7100,4.2,84,27,32,Mild Anemia,Medium
+50,Male,13.2,350000,8000,5.0,90,29,32,No Significant Risk,Low
+35,Male,14.5,380000,8500,5.2,94,31,33,No Significant Risk,Low
+22,Male,13.6,330000,7400,5.6,93,31,32,No Significant Risk,Low
+68,Female,10.4,180000,5700,3.7,77,25,32,Anemia,High
+28,Female,12.7,290000,7800,4.8,86,29,33,No Significant Risk,Low
+55,Male,13.8,350000,8000,5.3,92,30,33,No Significant Risk,Low
+48,Female,12.6,260000,7000,4.5,87,28,32,No Significant Risk,Low
+25,Male,13.8,320000,7500,5.4,92,30,32,No Significant Risk,Low
+44,Female,12.1,280000,7000,4.5,89,27,32,No Significant Risk,Low
+44,Male,14.2,360000,8300,5.2,91,30,33,No Significant Risk,Low
+57,Male,13.5,370000,8500,5.1,90,29,32,No Significant Risk,Low
+29,Female,12.0,260000,7200,4.4,87,28,32,No Significant Risk,Low
+38,Male,14.0,360000,8200,5.6,93,31,33,No Significant Risk,Low
+39,Female,12.1,310000,7700,4.6,88,29,33,No Significant Risk,Low
+56,Male,14.9,380000,8700,5.7,95,31,33,No Significant Risk,Low
+31,Female,11.6,260000,7200,4.4,86,28,32,Mild Anemia,Medium
+40,Male,14.4,370000,8600,5.3,91,30,33,No Significant Risk,Low
+38,Female,12.4,310000,7600,4.7,88,29,33,No Significant Risk,Low
+57,Male,13.5,370000,8500,5.1,90,29,32,No Significant Risk,Low
+36,Female,11.6,240000,7100,4.2,84,27,32,Mild Anemia,Medium
+38,Male,14.9,380000,8700,5.8,95,31,33,No Significant Risk,Low
+27,Female,12.0,230000,6900,4.3,85,28,32,No Significant Risk,Low
+67,Female,10.3,180000,5600,3.7,77,25,32,Anemia,High
+60,Female,11.0,200000,6000,4.0,80,26,32,Mild Anemia,Medium
+31,Female,11.6,260000,7200,4.4,86,28,32,Mild Anemia,Medium
+50,Male,13.0,330000,7600,5.0,90,29,32,No Significant Risk,Low
+59,Male,14.8,370000,8500,5.5,93,31,33,No Significant Risk,Low
+26,Female,12.5,270000,7300,4.7,87,29,32,No Significant Risk,Low
+48,Male,13.3,340000,7900,5.1,90,29,32,No Significant Risk,Low
+26,Male,13.7,310000,7800,5.6,93,31,32,No Significant Risk,Low
+50,Female,11.9,260000,7100,4.4,87,28,32,Mild Anemia,Medium
+45,Male,15.0,400000,9000,5.8,96,32,33,No Significant Risk,Low
+50,Male,13.0,330000,7600,5.0,90,29,32,No Significant Risk,Low
+65,Female,10.5,180000,5800,3.8,78,25,32,Anemia,High
+36,Female,11.6,240000,7100,4.2,84,27,32,Mild Anemia,Medium
+30,Female,12.6,280000,7400,4.8,86,29,33,No Significant Risk,Low
+39,Male,15.1,380000,9000,5.7,96,32,33,No Significant Risk,Low
+28,Female,12.6,280000,7400,4.8,86,29,33,No Significant Risk,Low
+38,Male,14.9,380000,8700,5.8,95,31,33,No Significant Risk,Low
+31,Female,12.3,290000,7400,4.6,88,29,32,No Significant Risk,Low
+50,Male,13.2,350000,8000,5.0,90,29,32,No Significant Risk,Low
+29,Male,13.2,340000,7800,5.3,91,30,32,No Significant Risk,Low
+70,Female,10.2,190000,5600,3.6,76,24,32,Anemia,High
+32,Male,14.7,350000,8200,5.4,92,30,33,No Significant Risk,Low
+68,Female,10.4,180000,5700,3.7,77,25,32,Anemia,High
+22,Male,13.6,330000,7400,5.6,93,31,32,No Significant Risk,Low
+29,Male,13.2,340000,7800,5.3,91,30,32,No Significant Risk,Low
+24,Male,13.8,320000,7400,5.5,93,31,32,No Significant Risk,Low
+29,Female,12.7,280000,7400,4.8,86,29,33,No Significant Risk,Low
+43,Male,14.2,360000,8300,5.2,91,30,33,No Significant Risk,Low
+45,Male,15.0,400000,9000,5.8,96,32,33,No Significant Risk,Low
+43,Male,14.2,360000,8300,5.2,91,30,33,No Significant Risk,Low
+63,Female,10.8,200000,5900,3.9,79,26,32,Anemia,High
+49,Male,13.0,330000,7600,5.0,90,29,32,No Significant Risk,Low
+40,Male,15.2,400000,9200,5.8,96,32,33,No Significant Risk,Low
+30,Female,12.0,260000,7200,4.4,87,28,32,No Significant Risk,Low
+55,Male,13.8,350000,8000,5.3,92,30,33,No Significant Risk,Low
+56,Male,14.9,380000,8700,5.7,95,31,33,No Significant Risk,Low
+36,Female,11.5,240000,7100,4.2,84,27,32,Mild Anemia,Medium
+54,Male,13.5,350000,8000,5.1,90,29,32,No Significant Risk,Low
+58,Female,10.9,190000,5800,3.8,80,26,32,Anemia,High
+44,Female,12.1,280000,7000,4.5,89,27,32,No Significant Risk,Low
+48,Male,13.2,340000,7800,5.1,90,29,32,No Significant Risk,Low
+38,Male,14.9,380000,8700,5.8,95,31,33,No Significant Risk,Low
+55,Male,14.0,370000,8700,5.5,95,30,33,No Significant Risk,Low
+24,Male,13.8,320000,7400,5.5,93,31,32,No Significant Risk,Low
+47,Female,12.0,260000,7000,4.4,87,28,32,No Significant Risk,Low
+64,Female,10.7,200000,5900,3.9,79,26,32,Anemia,High
+58,Female,10.9,190000,5800,3.8,80,26,32,Anemia,High
+50,Female,11.9,260000,7100,4.4,87,28,32,Mild Anemia,Medium
+30,Female,12.0,260000,7200,4.4,87,28,32,No Significant Risk,Low
+55,Male,13.8,350000,8000,5.3,92,30,33,No Significant Risk,Low
+40,Female,12.5,300000,7700,4.7,88,29,33,No Significant Risk,Low
+28,Female,12.6,280000,7400,4.8,86,29,33,No Significant Risk,Low
+43,Male,14.2,360000,8300,5.2,91,30,33,No Significant Risk,Low
+51,Female,12.5,290000,7500,4.7,88,29,32,No Significant Risk,Low
+33,Male,14.6,350000,8200,5.4,92,30,33,No Significant Risk,Low
+43,Male,14.2,360000,8300,5.2,91,30,33,No Significant Risk,Low
+45,Male,15.0,400000,9000,5.8,96,32,33,No Significant Risk,Low
+42,Male,14.2,360000,8300,5.2,91,30,33,No Significant Risk,Low
+31,Female,11.6,260000,7200,4.4,86,28,32,Mild Anemia,Medium
+34,Female,11.9,250000,6800,4.1,83,27,32,Mild Anemia,Medium
+37,Female,12.4,300000,7700,4.7,88,29,33,No Significant Risk,Low
+48,Male,13.3,340000,7900,5.1,90,29,32,No Significant Risk,Low
+43,Male,14.3,360000,8300,5.2,91,30,33,No Significant Risk,Low
+25,Male,13.9,330000,7200,5.3,91,30,32,No Significant Risk,Low
+32,Male,14.7,350000,8200,5.4,92,30,33,No Significant Risk,Low
+48,Male,13.2,340000,7800,5.1,90,29,32,No Significant Risk,Low
+60,Male,14.6,370000,8600,5.4,92,31,33,No Significant Risk,Low
+35,Female,11.5,240000,7100,4.2,84,27,32,Mild Anemia,Medium
+52,Male,14.2,370000,8300,5.4,92,31,33,No Significant Risk,Low
+38,Male,14.0,360000,8200,5.6,93,31,33,No Significant Risk,Low
+43,Male,14.3,360000,8300,5.2,91,30,33,No Significant Risk,Low
+33,Male,14.6,350000,8200,5.4,92,30,33,No Significant Risk,Low
+44,Male,14.2,360000,8300,5.2,91,30,33,No Significant Risk,Low
+57,Male,13.5,370000,8500,5.1,90,29,32,No Significant Risk,Low
+32,Female,12.3,290000,7500,4.5,89,28,32,No Significant Risk,Low
+32,Male,14.7,350000,8200,5.4,92,30,33,No Significant Risk,Low
+23,Male,13.5,330000,7200,5.5,93,31,32,No Significant Risk,Low
+48,Male,13.2,340000,7800,5.1,90,29,32,No Significant Risk,Low
+22,Male,13.2,340000,7800,5.3,91,30,32,No Significant Risk,Low
+49,Male,13.0,330000,7600,5.0,90,29,32,No Significant Risk,Low
+28,Female,12.7,290000,7800,4.8,86,29,33,No Significant Risk,Low
+27,Female,12.0,230000,6900,4.3,85,28,32,No Significant Risk,Low
+70,Female,10.2,190000,5600,3.6,76,24,32,Anemia,High
+32,Female,12.3,290000,7500,4.5,89,28,32,No Significant Risk,Low
+22,Male,13.6,330000,7400,5.6,93,31,32,No Significant Risk,Low
+42,Male,15.1,380000,9000,5.7,96,32,33,No Significant Risk,Low
+42,Male,15.1,380000,9000,5.8,96,32,33,No Significant Risk,Low
+55,Male,14.0,360000,8200,5.2,91,30,33,No Significant Risk,Low
+35,Female,11.7,250000,6800,4.1,83,27,32,Mild Anemia,Medium
+45,Male,15.0,400000,9000,5.8,96,32,33,No Significant Risk,Low
+55,Male,14.0,370000,8700,5.5,95,30,33,No Significant Risk,Low
+36,Male,14.7,360000,8100,5.5,93,31,33,No Significant Risk,Low
+58,Female,10.9,190000,5800,3.8,80,26,32,Anemia,High
+45,Female,12.2,270000,7200,4.6,88,28,32,No Significant Risk,Low
+36,Female,11.5,240000,7100,4.2,84,27,32,Mild Anemia,Medium
+54,Male,13.5,350000,8000,5.1,90,29,32,No Significant Risk,Low
+47,Female,12.0,260000,7000,4.4,87,28,32,No Significant Risk,Low
+29,Male,13.2,340000,7800,5.3,91,30,32,No Significant Risk,Low
+26,Female,12.5,270000,7300,4.7,87,29,32,No Significant Risk,Low
+42,Male,14.3,340000,7800,5.1,89,30,32,No Significant Risk,Low
+28,Female,12.6,280000,7400,4.8,86,29,33,No Significant Risk,Low
+29,Female,12.0,260000,7200,4.4,87,28,32,No Significant Risk,Low
+43,Male,14.2,360000,8300,5.2,91,30,33,No Significant Risk,Low
+33,Male,14.8,360000,8200,5.3,91,30,33,No Significant Risk,Low
+53,Female,12.8,280000,7000,4.3,87,28,32,No Significant Risk,Low
+52,Male,13.5,350000,8000,5.3,92,30,32,No Significant Risk,Low
+52,Female,12.8,280000,7000,4.3,87,28,32,No Significant Risk,Low
+31,Female,12.3,290000,7400,4.6,88,29,32,No Significant Risk,Low
+45,Female,12.2,270000,7200,4.6,88,28,32,No Significant Risk,Low
+33,Female,11.8,250000,6800,4.2,84,27,32,Mild Anemia,Medium
+45,Male,15.0,400000,9000,5.8,96,32,33,No Significant Risk,Low
+37,Female,12.8,300000,7600,4.9,88,29,33,No Significant Risk,Low
+31,Female,12.2,290000,7500,4.5,89,28,32,No Significant Risk,Low
+56,Male,14.9,380000,8700,5.7,95,31,33,No Significant Risk,Low
+31,Female,12.3,290000,7400,4.6,88,29,32,No Significant Risk,Low
+28,Male,13.6,310000,7800,5.6,93,31,32,No Significant Risk,Low
+49,Male,13.0,330000,7600,5.0,90,29,32,No Significant Risk,Low
+52,Female,12.8,280000,7000,4.3,87,28,32,No Significant Risk,Low
+29,Female,12.0,260000,7200,4.4,87,28,32,No Significant Risk,Low
+38,Male,14.9,380000,8700,5.8,95,31,33,No Significant Risk,Low
+24,Male,13.8,320000,7400,5.5,93,31,32,No Significant Risk,Low
+26,Male,13.7,310000,7800,5.6,93,31,32,No Significant Risk,Low
+43,Female,12.3,290000,7400,4.6,88,29,32,No Significant Risk,Low
+51,Female,12.5,290000,7500,4.7,88,29,32,No Significant Risk,Low
+29,Male,13.0,320000,7400,5.2,91,30,32,No Significant Risk,Low
+64,Female,10.7,200000,5900,3.9,79,26,32,Anemia,High
+22,Male,13.2,340000,7800,5.3,91,30,32,No Significant Risk,Low
+65,Female,10.5,180000,5800,3.8,78,25,32,Anemia,High
+55,Male,14.0,370000,8700,5.5,95,30,33,No Significant Risk,Low
+48,Male,13.3,340000,7900,5.1,90,29,32,No Significant Risk,Low
+43,Female,12.3,290000,7400,4.6,88,29,32,No Significant Risk,Low
+29,Male,13.0,320000,7400,5.2,91,30,32,No Significant Risk,Low
+48,Male,13.3,340000,7900,5.1,90,29,32,No Significant Risk,Low
+28,Female,12.6,280000,7400,4.8,86,29,33,No Significant Risk,Low
+37,Male,14.5,380000,8700,5.7,95,31,33,No Significant Risk,Low
+31,Female,11.6,260000,7200,4.4,86,28,32,Mild Anemia,Medium
+47,Female,12.0,260000,7000,4.4,87,28,32,No Significant Risk,Low
+22,Male,13.2,340000,7800,5.3,91,30,32,No Significant Risk,Low
+48,Female,12.6,260000,7000,4.5,87,28,32,No Significant Risk,Low
+29,Male,13.0,320000,7400,5.2,91,30,32,No Significant Risk,Low
+50,Male,13.0,330000,7600,5.0,90,29,32,No Significant Risk,Low
+29,Female,12.7,280000,7400,4.8,86,29,33,No Significant Risk,Low
+28,Female,12.7,290000,7800,4.8,86,29,33,No Significant Risk,Low
+42,Male,15.1,380000,9000,5.7,96,32,33,No Significant Risk,Low
+31,Female,12.3,290000,7400,4.6,88,29,32,No Significant Risk,Low
+39,Male,15.1,380000,9000,5.7,96,32,33,No Significant Risk,Low
+30,Female,11.8,250000,7000,4.2,84,27,32,Mild Anemia,Medium
+58,Female,10.9,190000,5800,3.8,80,26,32,Anemia,High
+30,Female,12.6,280000,7400,4.8,86,29,33,No Significant Risk,Low
+60,Male,14.6,370000,8600,5.4,92,31,33,No Significant Risk,Low
+47,Male,13.4,340000,7900,5.1,90,29,32,No Significant Risk,Low
+58,Male,13.4,390000,8900,5.7,94,31,33,No Significant Risk,Low
+25,Male,13.8,320000,7500,5.4,92,30,32,No Significant Risk,Low
+63,Female,10.8,200000,5900,3.9,79,26,32,Anemia,High
+26,Female,12.5,270000,7300,4.7,87,29,32,No Significant Risk,Low
+58,Male,13.4,390000,8900,5.7,94,31,33,No Significant Risk,Low
+26,Male,13.7,310000,7800,5.6,93,31,32,No Significant Risk,Low
+30,Female,12.0,260000,7200,4.4,87,28,32,No Significant Risk,Low
+60,Male,14.6,370000,8600,5.4,92,31,33,No Significant Risk,Low
+37,Male,14.5,380000,8700,5.7,95,31,33,No Significant Risk,Low
+50,Female,11.9,260000,7100,4.4,87,28,32,Mild Anemia,Medium
+36,Female,11.6,240000,7100,4.2,84,27,32,Mild Anemia,Medium
+28,Female,12.6,280000,7400,4.8,86,29,33,No Significant Risk,Low
+32,Male,14.7,350000,8200,5.4,92,30,33,No Significant Risk,Low
+40,Female,12.5,300000,7700,4.7,88,29,33,No Significant Risk,Low
+63,Female,10.8,200000,5900,3.9,79,26,32,Anemia,High
+36,Male,14.7,360000,8100,5.5,93,31,33,No Significant Risk,Low
+51,Female,12.5,290000,7500,4.7,88,29,32,No Significant Risk,Low
+31,Female,12.2,290000,7500,4.5,89,28,32,No Significant Risk,Low
+55,Male,14.0,370000,8700,5.5,95,30,33,No Significant Risk,Low
+23,Male,13.5,330000,7200,5.5,93,31,32,No Significant Risk,Low
+37,Female,12.4,300000,7700,4.7,88,29,33,No Significant Risk,Low
+42,Male,15.1,380000,9000,5.7,96,32,33,No Significant Risk,Low
+28,Male,13.6,310000,7800,5.6,93,31,32,No Significant Risk,Low
+38,Female,12.4,310000,7600,4.7,88,29,33,No Significant Risk,Low
+55,Male,14.0,360000,8200,5.2,91,30,33,No Significant Risk,Low
+41,Female,12.2,310000,7700,4.6,88,29,33,No Significant Risk,Low
+48,Female,12.6,260000,7000,4.5,87,28,32,No Significant Risk,Low
+46,Male,14.2,360000,8300,5.4,92,31,33,No Significant Risk,Low
+43,Female,12.3,290000,7400,4.6,88,29,32,No Significant Risk,Low
+27,Female,12.4,270000,7300,4.9,88,29,33,No Significant Risk,Low
+36,Male,14.7,360000,8100,5.5,93,31,33,No Significant Risk,Low
+45,Female,12.2,270000,7200,4.6,88,28,32,No Significant Risk,Low
+65,Female,10.5,180000,5800,3.8,78,25,32,Anemia,High
+63,Female,10.8,200000,5900,3.9,79,26,32,Anemia,High
+35,Female,11.5,240000,7100,4.2,84,27,32,Mild Anemia,Medium
+29,Male,13.2,340000,7800,5.3,91,30,32,No Significant Risk,Low
+50,Male,13.0,330000,7600,5.0,90,29,32,No Significant Risk,Low
+27,Female,12.4,270000,7300,4.9,88,29,33,No Significant Risk,Low
+34,Female,11.8,280000,7300,4.3,85,28,32,Mild Anemia,Medium
+38,Male,14.0,360000,8200,5.6,93,31,33,No Significant Risk,Low
+50,Male,13.2,350000,8000,5.0,90,29,32,No Significant Risk,Low
+37,Female,12.4,300000,7700,4.7,88,29,33,No Significant Risk,Low
+26,Female,12.5,270000,7300,4.7,87,29,32,No Significant Risk,Low
+46,Male,14.2,360000,8300,5.4,92,31,33,No Significant Risk,Low
+35,Male,14.5,380000,8500,5.2,94,31,33,No Significant Risk,Low
+62,Female,10.6,190000,5800,3.8,80,26,32,Anemia,High
+47,Female,12.0,260000,7000,4.4,87,28,32,No Significant Risk,Low
+28,Female,12.6,280000,7400,4.8,86,29,33,No Significant Risk,Low
+29,Female,12.0,260000,7200,4.4,87,28,32,No Significant Risk,Low
+33,Female,11.8,250000,6800,4.2,84,27,32,Mild Anemia,Medium
+40,Male,14.4,370000,8600,5.3,91,30,33,No Significant Risk,Low
+35,Male,14.5,380000,8500,5.2,94,31,33,No Significant Risk,Low
+70,Female,10.2,190000,5600,3.6,76,24,32,Anemia,High
+49,Male,13.3,340000,7900,5.2,91,30,32,No Significant Risk,Low
+53,Female,12.8,280000,7000,4.3,87,28,32,No Significant Risk,Low
+35,Female,11.5,240000,7100,4.2,84,27,32,Mild Anemia,Medium
+68,Female,10.4,180000,5700,3.7,77,25,32,Anemia,High
+59,Male,14.8,370000,8500,5.5,93,31,33,No Significant Risk,Low
+33,Male,14.8,360000,8200,5.3,91,30,33,No Significant Risk,Low
+33,Male,14.8,360000,8200,5.3,91,30,33,No Significant Risk,Low
+67,Female,10.3,180000,5600,3.7,77,25,32,Anemia,High
+29,Male,13.0,320000,7400,5.2,91,30,32,No Significant Risk,Low
+35,Female,11.5,240000,7100,4.2,84,27,32,Mild Anemia,Medium
+60,Female,11.0,200000,6000,4.0,80,26,32,Mild Anemia,Medium
+22,Male,13.2,340000,7800,5.3,91,30,32,No Significant Risk,Low
+23,Male,13.5,330000,7200,5.5,93,31,32,No Significant Risk,Low
+64,Female,10.7,200000,5900,3.9,79,26,32,Anemia,High
+50,Male,13.0,330000,7600,5.0,90,29,32,No Significant Risk,Low
+55,Male,14.0,370000,8700,5.5,95,30,33,No Significant Risk,Low
+49,Male,13.3,340000,7900,5.2,91,30,32,No Significant Risk,Low
+55,Male,14.0,360000,8200,5.2,91,30,33,No Significant Risk,Low
+47,Male,13.4,340000,7900,5.1,90,29,32,No Significant Risk,Low
+59,Male,14.8,370000,8500,5.5,93,31,33,No Significant Risk,Low
+39,Female,12.1,310000,7700,4.6,88,29,33,No Significant Risk,Low
+42,Male,14.2,360000,8300,5.2,91,30,33,No Significant Risk,Low
+28,Female,12.7,290000,7800,4.8,86,29,33,No Significant Risk,Low
+50,Male,13.0,330000,7600,5.0,90,29,32,No Significant Risk,Low
+33,Female,11.8,250000,6800,4.2,84,27,32,Mild Anemia,Medium
+30,Female,11.8,250000,7000,4.2,84,27,32,Mild Anemia,Medium
+27,Female,12.4,270000,7300,4.9,88,29,33,No Significant Risk,Low
+38,Female,12.4,310000,7600,4.7,88,29,33,No Significant Risk,Low
+34,Female,11.9,250000,6800,4.1,83,27,32,Mild Anemia,Medium
+30,Female,12.0,260000,7200,4.4,87,28,32,No Significant Risk,Low
+39,Female,12.1,310000,7700,4.6,88,29,33,No Significant Risk,Low
+37,Female,12.8,300000,7600,4.9,88,29,33,No Significant Risk,Low
+27,Female,12.0,230000,6900,4.3,85,28,32,No Significant Risk,Low
+47,Male,13.4,340000,7900,5.1,90,29,32,No Significant Risk,Low
+62,Female,10.6,190000,5800,3.8,80,26,32,Anemia,High
+49,Male,13.0,330000,7600,5.0,90,29,32,No Significant Risk,Low
+25,Male,13.9,330000,7200,5.3,91,30,32,No Significant Risk,Low
+53,Female,12.8,280000,7000,4.3,87,28,32,No Significant Risk,Low
+31,Female,12.2,290000,7500,4.5,89,28,32,No Significant Risk,Low
+25,Male,13.8,320000,7500,5.4,92,30,32,No Significant Risk,Low
+63,Female,10.8,200000,5900,3.9,79,26,32,Anemia,High
+28,Male,13.6,310000,7800,5.6,93,31,32,No Significant Risk,Low
+22,Male,13.6,330000,7400,5.6,93,31,32,No Significant Risk,Low
+49,Male,13.3,340000,7900,5.2,91,30,32,No Significant Risk,Low
+35,Female,11.7,250000,6800,4.1,83,27,32,Mild Anemia,Medium
+38,Male,14.9,380000,8700,5.7,95,31,33,No Significant Risk,Low
+47,Female,12.0,260000,7000,4.4,87,28,32,No Significant Risk,Low
+55,Male,13.8,350000,8000,5.3,92,30,33,No Significant Risk,Low
+28,Female,12.6,280000,7400,4.8,86,29,33,No Significant Risk,Low
+26,Female,12.5,270000,7300,4.7,87,29,32,No Significant Risk,Low
+26,Male,13.7,310000,7800,5.6,93,31,32,No Significant Risk,Low
+52,Male,14.2,370000,8300,5.4,92,31,33,No Significant Risk,Low
+52,Male,14.2,370000,8300,5.4,92,31,33,No Significant Risk,Low
+38,Male,14.9,380000,8700,5.7,95,31,33,No Significant Risk,Low
+60,Female,11.0,200000,6000,4.0,80,26,32,Mild Anemia,Medium
+49,Male,13.3,340000,7900,5.2,91,30,32,No Significant Risk,Low
+54,Male,13.5,350000,8000,5.1,90,29,32,No Significant Risk,Low
+53,Female,12.8,280000,7000,4.3,87,28,32,No Significant Risk,Low
+63,Female,10.8,200000,5900,3.9,79,26,32,Anemia,High
+58,Male,13.4,390000,8900,5.7,94,31,33,No Significant Risk,Low
+28,Female,12.6,280000,7400,4.8,86,29,33,No Significant Risk,Low
+40,Male,14.4,370000,8600,5.3,91,30,33,No Significant Risk,Low
+58,Male,13.4,390000,8900,5.7,94,31,33,No Significant Risk,Low
+33,Male,14.6,350000,8200,5.4,92,30,33,No Significant Risk,Low
+46,Male,14.2,360000,8300,5.4,92,31,33,No Significant Risk,Low
+39,Female,12.1,310000,7700,4.6,88,29,33,No Significant Risk,Low
+67,Female,10.3,180000,5600,3.7,77,25,32,Anemia,High
+47,Female,12.0,260000,7000,4.4,87,28,32,No Significant Risk,Low
+34,Female,11.9,250000,6800,4.1,83,27,32,Mild Anemia,Medium
+27,Female,12.0,230000,6900,4.3,85,28,32,No Significant Risk,Low
+40,Female,12.5,300000,7700,4.7,88,29,33,No Significant Risk,Low
+32,Female,12.3,290000,7500,4.5,89,28,32,No Significant Risk,Low
+32,Female,12.3,290000,7500,4.5,89,28,32,No Significant Risk,Low
+56,Male,14.9,380000,8700,5.7,95,31,33,No Significant Risk,Low
+44,Female,12.1,280000,7000,4.5,89,27,32,No Significant Risk,Low
+43,Male,14.3,360000,8300,5.2,91,30,33,No Significant Risk,Low
+27,Female,12.4,270000,7300,4.9,88,29,33,No Significant Risk,Low
+43,Male,14.3,360000,8300,5.2,91,30,33,No Significant Risk,Low
+38,Female,12.4,310000,7600,4.7,88,29,33,No Significant Risk,Low
+43,Male,14.2,360000,8300,5.2,91,30,33,No Significant Risk,Low
+36,Female,11.5,240000,7100,4.2,84,27,32,Mild Anemia,Medium
+50,Female,11.9,260000,7100,4.4,87,28,32,Mild Anemia,Medium
+62,Female,10.6,190000,5800,3.8,80,26,32,Anemia,High
+52,Male,13.5,350000,8000,5.3,92,30,32,No Significant Risk,Low
+47,Male,13.4,340000,7900,5.1,90,29,32,No Significant Risk,Low
+48,Female,12.6,260000,7000,4.5,87,28,32,No Significant Risk,Low
+40,Male,15.2,400000,9200,5.8,96,32,33,No Significant Risk,Low
+35,Female,11.5,240000,7100,4.2,84,27,32,Mild Anemia,Medium
+52,Female,12.8,280000,7000,4.3,87,28,32,No Significant Risk,Low
+44,Male,14.2,360000,8300,5.2,91,30,33,No Significant Risk,Low
+52,Female,12.8,280000,7000,4.3,87,28,32,No Significant Risk,Low
+52,Male,13.5,350000,8000,5.3,92,30,32,No Significant Risk,Low
+45,Female,12.2,270000,7200,4.6,88,28,32,No Significant Risk,Low
+60,Male,14.6,370000,8600,5.4,92,31,33,No Significant Risk,Low
+35,Female,11.7,250000,6800,4.1,83,27,32,Mild Anemia,Medium
+67,Female,10.3,180000,5600,3.7,77,25,32,Anemia,High
+63,Female,10.8,200000,5900,3.9,79,26,32,Anemia,High
+34,Female,11.9,250000,6800,4.1,83,27,32,Mild Anemia,Medium
+25,Male,13.8,320000,7500,5.4,92,30,32,No Significant Risk,Low
+44,Male,14.2,360000,8300,5.2,91,30,33,No Significant Risk,Low
+65,Female,10.5,180000,5800,3.8,78,25,32,Anemia,High
+50,Male,13.2,350000,8000,5.0,90,29,32,No Significant Risk,Low
+29,Female,12.7,280000,7400,4.8,86,29,33,No Significant Risk,Low
+42,Male,14.2,360000,8300,5.2,91,30,33,No Significant Risk,Low
+37,Female,12.8,300000,7600,4.9,88,29,33,No Significant Risk,Low
+35,Male,14.5,380000,8500,5.2,94,31,33,No Significant Risk,Low
+43,Female,12.3,290000,7400,4.6,88,29,32,No Significant Risk,Low
+24,Male,13.8,320000,7400,5.5,93,31,32,No Significant Risk,Low
+47,Female,12.0,260000,7000,4.4,87,28,32,No Significant Risk,Low
+38,Male,14.0,360000,8200,5.6,93,31,33,No Significant Risk,Low
+37,Female,12.8,300000,7600,4.9,88,29,33,No Significant Risk,Low
+34,Female,11.8,280000,7300,4.3,85,28,32,Mild Anemia,Medium
+25,Male,13.9,330000,7200,5.3,91,30,32,No Significant Risk,Low
+48,Female,12.6,260000,7000,4.5,87,28,32,No Significant Risk,Low
+26,Female,12.5,270000,7300,4.7,87,29,32,No Significant Risk,Low
+23,Male,13.5,330000,7200,5.5,93,31,32,No Significant Risk,Low
+26,Female,12.5,270000,7300,4.7,87,29,32,No Significant Risk,Low
+50,Male,13.0,330000,7600,5.0,90,29,32,No Significant Risk,Low
+36,Female,11.6,240000,7100,4.2,84,27,32,Mild Anemia,Medium
+33,Male,14.6,350000,8200,5.4,92,30,33,No Significant Risk,Low
+42,Male,14.2,360000,8300,5.2,91,30,33,No Significant Risk,Low
+51,Female,12.5,290000,7500,4.7,88,29,32,No Significant Risk,Low
+37,Female,12.4,300000,7700,4.7,88,29,33,No Significant Risk,Low
+45,Male,15.0,400000,9000,5.8,96,32,33,No Significant Risk,Low
+30,Female,12.6,280000,7400,4.8,86,29,33,No Significant Risk,Low
+65,Female,10.5,180000,5800,3.8,78,25,32,Anemia,High
+44,Female,12.1,280000,7000,4.5,89,27,32,No Significant Risk,Low
+30,Female,12.6,280000,7400,4.8,86,29,33,No Significant Risk,Low
+55,Male,14.0,360000,8200,5.2,91,30,33,No Significant Risk,Low
+35,Female,11.5,240000,7100,4.2,84,27,32,Mild Anemia,Medium
+59,Male,14.8,370000,8500,5.5,93,31,33,No Significant Risk,Low
+39,Male,15.1,380000,9000,5.7,96,32,33,No Significant Risk,Low
+29,Female,12.7,280000,7400,4.8,86,29,33,No Significant Risk,Low
+43,Male,14.2,360000,8300,5.2,91,30,33,No Significant Risk,Low
+31,Female,12.2,290000,7500,4.5,89,28,32,No Significant Risk,Low
+62,Female,10.6,190000,5800,3.8,80,26,32,Anemia,High
+41,Female,12.2,310000,7700,4.6,88,29,33,No Significant Risk,Low
+45,Male,15.0,400000,9000,5.8,96,32,33,No Significant Risk,Low
+50,Male,13.2,350000,8000,5.0,90,29,32,No Significant Risk,Low
+43,Male,14.2,360000,8300,5.2,91,30,33,No Significant Risk,Low
+45,Male,15.0,400000,9000,5.8,96,32,33,No Significant Risk,Low
+37,Male,14.5,380000,8700,5.7,95,31,33,No Significant Risk,Low
+38,Male,14.9,380000,8700,5.7,95,31,33,No Significant Risk,Low
+26,Female,12.5,270000,7300,4.7,87,29,32,No Significant Risk,Low
+48,Male,13.2,340000,7800,5.1,90,29,32,No Significant Risk,Low
+38,Female,12.4,310000,7600,4.7,88,29,33,No Significant Risk,Low
+28,Male,13.6,310000,7800,5.6,93,31,32,No Significant Risk,Low
+40,Female,12.5,300000,7700,4.7,88,29,33,No Significant Risk,Low
+40,Male,15.2,400000,9200,5.8,96,32,33,No Significant Risk,Low
+52,Male,13.5,350000,8000,5.3,92,30,32,No Significant Risk,Low
+30,Female,11.8,250000,7000,4.2,84,27,32,Mild Anemia,Medium
+60,Female,11.0,200000,6000,4.0,80,26,32,Mild Anemia,Medium
+46,Male,14.2,360000,8300,5.4,92,31,33,No Significant Risk,Low

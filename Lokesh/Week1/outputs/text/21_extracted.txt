@@ -1,0 +1,322 @@
+patient name : bandaru ramesh referral : dr. v.madhava rao
+age / gender : 56 years / male collection time : sep 15, 2023, 06:20 a.m.
+patient id : 687 receiving time : sep 15, 2023, 06:28 a.m.
+source : direct reporting time : sep 15, 2023, 09:06 a.m.
+sample id :
+0232580010
+test description result(s) biological reference intervals unit(s)
+psa
+*prostate specific antigen 0.89 0.0 - 4.0 ng/ml
+method:chemiluminiscence/serum
+instrument clia
+note psa ratio (free psa/total psa) is advisable for patient having borderline psa levels
+note
+c-peptide serum fasting
+*c-peptide (cps) 1.01 0.81-3.85 ng/ml
+method : chemiluminiscence
+note
+in normal individuals, the molar ratio of c-peptide to insulin in the fasting state is 5:1
+clinical utility
+(cid:127) assess pancreatic islet cell function
+(cid:127) distinguish insulin secreting tumors ( insulinoma) from exogenous insulin administration as a cause ofhypoglycemia ( commercial insulin does
+not contain c-peptide). sera from insulinoma patients have high insulin and high c-peptide levels whereas hypoglycemia from injected or
+exogenous insulin shows high insulin and low c-peptide levels
+(cid:127) distinguish type i and type ii diabetes mellitus
+increased levels: insulinoma & type ii diabetes
+decreased levels: type i diabetes & exogenous insulin administration
+vitamin b12
+vitamin b12 108 222-1439 pg/ml
+clia
+method : clia chemiluminescence immunoassay
+method: chemi luminescence immunoassay
+thyroid function test
+*t3 113.44 87 - 178 ng/dl
+*t4 9.18 4.82 - 15.65 g/dl
+*tsh 1.918 0.38 - 5.33 iu/ml
+method: chemi luminescence immunoassay(sample type:serum)
+interpretation
+(cid:127) measurement of tsh in conjunction with t3,t4 or ft3,ft4 is used for assessment of thyroid gland functional status and also for monitoring
+patients on treatment for hyperthyroidism & hypothyroidism. suppressed tsh (<0.01 iu/ml) suggests a diagnosis of hyperthyroidism and
+elevated concentration (>7 iu/ml) suggest hypothyroidism. tsh levels may be affected by acute illness and several medications including
+page 1 of 8
+patient name : bandaru ramesh referral : dr. v.madhava rao
+age / gender : 56 years / male collection time : sep 15, 2023, 06:20 a.m.
+patient id : 687 receiving time : sep 15, 2023, 06:28 a.m.
+source : direct reporting time : sep 15, 2023, 09:06 a.m.
+sample id :
+0232580010
+test description result(s) biological reference intervals unit(s)
+dopamine and glucocorticoids.tsh concentration are decreased (low or undetectable) in graves disease. increased in tsh secreting pituitary
+adenoma (secondary hyperthyroidism); prth. tsh concentration are primary elevated in hypothyroidism (along with decreased t4) except for
+pituitary & hypothalamic disease.
+(cid:127) mild to modest tsh elevations in patient with normal t3 & t4 levels indicates impaired thyroid hormone reserves & incipent hypothyroidism
+(subclinical hypothyroidism).
+(cid:127) mild to modest decrease in tsh with normal t3 & t4 indicates subclinical hyperthyroidism.
+(cid:127) degree of tsh suppression does not reflect the severity of hyperthyroidism, therefore, measurement of free thyroid hormone levels is required
+in patient with a supressed tsh level.
+(cid:127) if free t4 is normal, free t3 should be checked as it is the first hormone to increase in early hyperthyroidism.though tsh levels can also be
+used to effectively monitor patients being treated with thyroid hormones but it may be misleading. therefore total or free t4 generally serve as
+front line assay during this period. the free t3 & t4 (ft3 & ft4) measures concentrations of free hormones, which are not affected by changing
+in concentrations of binding proteins, therefore more reliable indicator of true thyroid status.
+vitamin d
+vitamin d 25.47 deficiency <20 ng/ml
+method:clia(sample type:serum) insufficiency 20-30
+sufficiency 30-100
+toxicity > 100
+interpretation :
+1. vitamin d is a fat soluble vitamin and exists in two main forms as cholecalciferol(vitamin d3) which is synthesized in skin from 7-dehydrocholesterol in response to sunlight exposure &
+ergocalciferol(vitamin d2) present mainly in dietary sources.both cholecalciferol & ergocalciferol are converted to 25(oh)vitamin d in liver.
+2. testing for 25(oh)vitamin d is recommended as it is the best indicator of vitamin d nutritional status as obtained from sunlight exposure & dietary intake. for diagnosis of vitamin d deficiency it
+is recommended to have clinical correlation with serum 25(oh)vitamin d, serum calcium, serum pth & serum alkaline phosphatase.
+3. during monitoring of oral vitamin d therapy- suggested testing of serum 25(oh)vitamin d is after 12 weeks or 3 mths of treatment. however, the required dosage of vitamin d supplements &
+time to achieve sufficient vitamin d levels show significant seasonal(especially winter) & individual variability depending on age, body fat, sun exposure, physical activity ,genetic
+factors(especially variable vitamin d receptor responses), associated liver or renal disease, malabsorption syndromes and calcium or magnesium deficiency influencing the vitamin d
+metabolism vitamin d toxicity is known but very rare.kindly correlate clinically, repeat with fresh sample if indicated.
+associated test profile :
+(cid:127) for diagnosis of vitamin d deficiency it is recommended to have clinical correlation with serum 25(oh)vitamin d and serum pth.an inverse relationship exists between pth and 25(oh)d
+levels, parathyroid hormone levels start to rise at 25(oh)d levels below 31 ng/ml & usually decrease after the correction of vitamin d insufficiency.thus, restoration of pth and 25(oh) d
+levels to normalcy after adequate vitamin d replacement therapy is a useful monitoring strategy.
+(cid:127) as a holistic & scientific approach for diagnosis and optimal treatment for vitamin d deficiency, vitamin d plus profile (25 hydroxy(oh) vit d and pth) is suggested.
+note
+**end of report**
+page 2 of 8
+patient name : bandaru ramesh referral : dr. v.madhava rao
+age / gender : 56 years / male collection time : sep 15, 2023, 06:20 a.m.
+patient id : 687 receiving time : sep 15, 2023, 06:28 a.m.
+source : direct reporting time : sep 15, 2023, 09:54 a.m.
+sample id :
+0232580010
+test description result(s) biological reference intervals unit(s)
+hemogram (cbp)
+*haemoglobin 13.5 12.0 - 18.0 g/dl
+*r.b.c count 4.92 3.80 - 5.30 106 l
+*leucocyte count (wbc count) 7300 4000 - 11000 l
+*platelet count 198000 120000 - 380000 l
+*pcv 41.5 36.0 - 56.0 %
+*mcv 84.3 80.0 - 100.0 fl
+*mch 27.4 27-32 pg
+*mchc 32.5 32.0 - 36.0 g/dl
+*rdw-cv 12.7 10.0 - 16.5 %
+*mean platelet volume (mpv) 7.7 5.0 - 10.0 fl
+*pdw 16.5 12.0 - 18.0 %
+*differential count
+*granulocyte 75.2 42 - 85 %
+*lymphocytes 21.0 11.0 - 49.0 %
+*monocytes 3.8 0.0 - 9.0 %
+instrument:test performed on nihon kohden hematology analyzer
+note
+s.phosphorus
+phosphorus 2.95 2.5 - 4.5 mg/dl
+method: phosphomolybdate/uv (sample type:serum)
+method:test done on biosystems ba 400. a fully automated biochemistry analyser
+e s r
+*esr 12 0 - 15 mm/hour
+method automated westergren
+interpretation:
+(cid:127) it indicates presence and intensity of an inflammatory process. it does not diagnose a specific disease. changes in the esr are more significant
+than the abnormal results of a single test.
+(cid:127) it is a prognostic test and used to monitor the course or response to treatment of diseases like tuberculosis, bacterial endocarditis, acute
+rheumatic fever, rheumatoid arthritis, sle, hodgkins disease, temporal arteritis and polymyalgia rheumatica.
+(cid:127) it is also increased in pregnancy, multiple myeloma, menstruation, and hypothyroidism.
+note
+urine albumin/creatinine ratio
+*urine albumin 22.95 0 - 15 mg/l
+latex method(sample type:urine)
+page 3 of 8
+patient name : bandaru ramesh referral : dr. v.madhava rao
+age / gender : 56 years / male collection time : sep 15, 2023, 06:20 a.m.
+patient id : 687 receiving time : sep 15, 2023, 06:28 a.m.
+source : direct reporting time : sep 15, 2023, 09:54 a.m.
+sample id :
+0232580010
+test description result(s) biological reference intervals unit(s)
+*urine creatinine 106.13 37 - 250 mg/dl
+jaffe's compensated(sample type:urine)
+*urine albumin/creatinine ratio 21.62 0 - 30 mg/gram creatinine
+calculated
+instrument: tests performed on biosystems ba 400, a fully automatic biochemistry analyser
+normal: 0 - 30
+microalbuminuria: 30 - 300 mg/gram creatinine
+macroalbuminuria : > 300 mg/gram creatinine
+note
+complete urine examination
+colour yellow pale yellow
+(sample type:urine)
+ph 5.5 4.5 - 8.5
+specific gravity 1.020 1.015 - 1.025
+glucose trace negative
+protein negative negative
+ketones negative negative
+bilirubins negative negative
+nitrite negative negative
+blood negative negative
+urobilinogen negative negative
+leukocytes negative negative
+microscopic examination
+pus cells (wbcs) 2 - 3 0 - 2/hpf /hpf
+epithelial cells 1 - 2 0 - 4/hpf /hpf
+red blood cells nil 0 - 2/hpf /hpf
+cast nil nil
+crystals nil nil
+other nil nil
+note
+fasting plasma glucose
+page 4 of 8
+patient name : bandaru ramesh referral : dr. v.madhava rao
+age / gender : 56 years / male collection time : sep 15, 2023, 06:20 a.m.
+patient id : 687 receiving time : sep 15, 2023, 06:28 a.m.
+source : direct reporting time : sep 15, 2023, 09:54 a.m.
+sample id :
+0232580010
+test description result(s) biological reference intervals unit(s)
+fasting plasma glucose (f) 166.07 desired fasting plasma glucose: mg/dl
+method : glucose oxidase/peroxidase
+for nondiabetic: 70 - 100 mg/dl
+for diabetic: 80 - 130 mg/dl
+.
+liver function tests
+bilirubin (total) 0.54 <24hrs: 1.0 - 8.0 mg/dl mg/dl
+dichlorophenyl diazonium (sample type:serum) <48hrs: 6.0 - 12.0 mg/dl
+3 - 5 days: 10.0 - 14.0 mg/dl
+adults : <1.0 mg/dl
+*bilirubin (direct) 0.24 < 0.2 mg/dl mg/dl
+dichlorophenyl diazonium (sample type:serum)
+bilirubin (indirect)(sample type:serum) calculated 0.30 0.2 -0.8 mg/dl mg/dl
+method : calculated
+sgot 13.32 0 - 40 u/l
+ifcc without pyridoxal 5-p(sample type:serum)
+sgpt 16.88 0 - 41 u/l
+ifcc without pyridoxal 5-p(sample type:serum)
+total protein 7.72 pre mature : 0.6 -6.0 g/dl g/dl
+biuret (sample type:serum) new born : 4.6 - 7.0 g/dl
+one week : 4.4 - 7.6 g/dl
+7 months - 1 year : 5.1-7.3 g/dl
+1 year - 2 years : 5.6 - 7.5 g/dl
+> 3 years : 6.5 - 8.0 g/dl
+albumin 4.55 3.5 - 5.0 g/dl g/dl
+bromocresol green(sample type:serum)
+*globulin 3.17 2.5 - 4.5 g/dl
+calculated
+*a:g ratio 1.44 1.5 - 3.5
+alp (alkaline phosphatase) 79.52 <115 u/l u/l
+2amino 2methyl - 1propanol buffer ifcc method(sample type:seru
+*ggt 18.68 < 55 u/l
+method : ifcc
+lipid profile
+total cholesterol 130.38 desirable : up to 200 mg/dl mg/dl
+method:cholestrol oxidase/peroxidase(sample type:serum) borderline high: 200-239 mg/dl
+high : > 240 mg/dl
+page 5 of 8
+patient name : bandaru ramesh referral : dr. v.madhava rao
+age / gender : 56 years / male collection time : sep 15, 2023, 06:20 a.m.
+patient id : 687 receiving time : sep 15, 2023, 06:28 a.m.
+source : direct reporting time : sep 15, 2023, 09:54 a.m.
+sample id :
+0232580010
+test description result(s) biological reference intervals unit(s)
+triglycerides 90.10 normal : up to 150 mg/dl mg/dl
+method:glycerol phosphate oxidase/peroxidase(sample type:serum) borderline high : 150-199 mg/dl
+high : 200-499 mg/dl
+very high : > 500 mg/dl
+hdl cholesterol 41.31 > 40 mg/dl mg/dl
+method:direct(sample type:serum) high risk : < 35 mg/dl
+low risk : > 60 mg/dl
+*ldl cholesterol 71.05 optimal : up to 100 mg/dl mg/dl
+calculated near optimal/above optimal : 100-129
+mg/dl
+borderline high : 130-159 mg/dl
+high : 160-189 mg/dl
+very high : > 190 mg/dl
+*vldl cholesterol 18.02 5 - 51 mg/dl mg/dl
+calculated
+*chol / hdl ratio 3.16 low risk : < 3.5
+calculated average risk : 3.5 - 5.0
+high risk : > 5.0
+*ldl/hdl ratio 1.72 desirable : < 0.5-3.0
+calculated borderline : 3.1- 6.0
+elevated : > 6.0
+instrument: done on ba 400 biosystems fully automated biochemistry analyzer
+note
+s.iron
+iron 62.98 men : 65 - 175 mg/dl mg/dl
+method:ferrozine(sample type:serum) women : 50 - 170 mg/dl
+instrument:test done on fully automated biochemistry analyser, biosystems ba 400
+note
+uric acid
+uric acid 4.52 male:3.5-7.2 mg/dl
+method:uricase/peroxidase(sample type:serum) female:2.6 - 6.0
+note
+urea
+page 6 of 8
+patient name : bandaru ramesh referral : dr. v.madhava rao
+age / gender : 56 years / male collection time : sep 15, 2023, 06:20 a.m.
+patient id : 687 receiving time : sep 15, 2023, 06:28 a.m.
+source : direct reporting time : sep 15, 2023, 09:54 a.m.
+sample id :
+0232580010
+test description result(s) biological reference intervals unit(s)
+urea 28.37 cord: 21 - 40 mg/dl mg/dl
+method:urease / glutamate dehydrogenase(sample type:serum) pre - mature : 3 - 20 mg/dl
+new born : 4 - 12 mg/dl
+child : 5 - 18 mg/dl
+adult : 15 - 39 mg/dl
+<60 years : 8 - 23 mg/dl
+note
+s.creatinine
+creatinine 0.76 1 - 4 day's : 0.3 - 1.0 mg/dl
+method:jaffe compensated (sample type:serum) infants : 0.2 - 0.4 mg/dl
+child : 0.3 - 0.7 mg/dl
+adults : (m) : 0.7 - 1.2 mg/dl
+adults : (f) : 0.5 - 0.9 mg/dl
+note
+hba1c
+hba1c 8.6 non diabetic : 4.0 - 5.6 % %
+method:hplc (biorad d 10)(sample type:blood) border line : 5.7 - 6.4 %
+good control in diabetes :
+< 6 years : < 8.5 %
+6 years - 12 years : < 8.0 %
+13 years - 18 years : < 7.5 %
+> 18 years : < 7 %
+estimated average glucose (eag) 200.12 mg/dl
+calculated
+interpretation :
+1. hba1c is used for monitoring diabetic control. it reflects the estimated average glucose (eag).
+2. hba1c has been endorsed by clinical groups & ada (american diabetes association) guidelines 2012, for diagnosis of diabetes using a cut-off
+point of 6.5%. ada defined biological reference range for hba1c is 4% to 5.7%. patients with hba1c value between 5.7% to 6.5% are
+considered pre-diabetic.
+3. trends in hba1c are a better indicator of diabetic control than a solitary test.
+4. low glycated haemoglobin(below 4%) in a non-diabetic individual are often associated with systemic inflammatory diseases,chronic
+anaemia(especially severe iron deficiency &haemolytic), chronic renal failure and liver diseases. clinical correlation suggested.
+5. to estimate the eag from the hba1c value, the following equation is used: eag(mg/dl) = 28.7*a1c-46.7
+6. interference of haemoglobinopathies in hba1c estimation.
+a. for hbf > 25%, an alternate platform (fructosamine) is recommended for testing of hba1c.
+b. homozygous hemoglobinopathy is detected, fructosamine is recommended for monitoring diabetic status
+page 7 of 8
+patient name : bandaru ramesh referral : dr. v.madhava rao
+age / gender : 56 years / male collection time : sep 15, 2023, 06:20 a.m.
+patient id : 687 receiving time : sep 15, 2023, 06:28 a.m.
+source : direct reporting time : sep 15, 2023, 09:54 a.m.
+sample id :
+0232580010
+test description result(s) biological reference intervals unit(s)
+c. heterozygous state detected is corrected for hbs and hbc trait.
+hemoglobin electrophoresis (hplc method) is recommended for detecting hemoglobinopathy.
+note
+post prandial plasma glucose
+post prandial plasma glucose 238.20 < 180 mg/dl
+method : glucose oxidase/peroxidase
+instrument:done on biosystems ba 400, a fully automated biochemical analyser
+note
+electrolytes
+sodium 139.8 136 - 145 mmol/l
+method: ise direct(sample type:serum)
+potassium 4.46 3.3 - 5.1 mmol/l
+method: ise direct(sample type:serum)
+ionised calcium 4.86 4.5 - 5.3 mg/dl
+method: ise direct(sample type:serum)
+chloride 99.2 90 - 110 mmol/l
+method: ise direct(sample type:serum)
+instrument:test done on fully automated biochemistry analyser, sensa core st-200
+note
+**end of report**
+page 8 of 8

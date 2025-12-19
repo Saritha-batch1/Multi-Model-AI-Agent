@@ -1,0 +1,49 @@
+/ / _ atul s. vadhavkar
+a? f f bse. (micro). d.mlt.
+shree (| 3 /
+ale r
+/ computerised
+4,
+/ _ * laboratory
+time : 8:00 am to 8:00 pm * sunday - 8:00 to 12:00 noon a -
+sf =
+| eae es ) ee
+dr. : dr. bhavesh chauhan md ee po
+|| : shree hospital ipd ee tine: 12:47:26
+sample id : 10436879 report release time : memrnnnnn13:42:13
+complete blood count
+test result unit biological ref. range
+ haemoglobin : 940 (u g/dl 13.0-17.0 gm/dl
+total r.b.c. count > 3.19 [l] mill/comm 4.5-5.5 mill/emm
+haematocrit (pcv/hct) : 27.20 [l] % 40.0-50.0 %
+mean corpuscular volume (m.c.v.) : 85.30 fl 83.0-95.0 fl
+mean corpuscular hb (m.c.h.) : 28.50 pg 27.0-32.0 pg
+mean-corpuscular hb conc (m.c.h.c.) : 33.50 g/dl 31.5-34.5 g/dl
+{ #} red cell distribution width (r.d.w.- : 16.5 [h] % 11.6-14.6 %
+cv)
+total w.b.c. count : 10560 [h] /ul 4000-10000 /ul
+differential count:
+neutrophils : 87.7 [h] % 40-70 %
+lymphocytes : 5.9 [l] % 20-40 %
+eosinophils > 07 % 1-6%
+monocytes y 55 % 2-10 %
+basophils : 0.2 % 0-1%
+platelets
+@ platelet count : 370 jul 150-450 /ul
+{#} mpv 5 9.4 fl 6.78-13.46 fl
+{ #} immature platelet fraction: 2.90 % 0-5 %
+absolute counts
+neutrophils (abs) : 9261.12 [h] ful 1575-8800 /ul
+lymphocytes (abs) : 623.04 [l] ful 1125-4950 /ul
+eosinophils (abs) : 73.92 jul 0-400 /ul
+monocytes (abs) : 580.80 ful 0-1000 /ul
+basophils (abs) : 21.12 ful 0-100 /ul
+specimen: edta whole blood
+equipment: mindray bc-700
+method : hb-colorimetric, wbc-flowcytometry by laser,abc & plt-elecrical impedance, hct,mcv,mch,mchc,row,mpv-calculated
+blood peripheral smear-rbc-wbc-plt morphology-manual method staining (romanowsky) field stain and microscopy.
+**cbc done on fully autoamted five part haematology analyser.
+accuracy of platelet count depends on blood collection and anticoagulation.
+note : # this parameter is not under nabl scope.
+atul s. vadhavkar dr. a. j. ranadive
+b. sc. (micro), d.m.l.t. m.d. (pathology)

@@ -1,0 +1,303 @@
+patient name : t geetha sagari referral : dr v. madhava rao
+age / gender : 24 years / female collection time : dec 04, 2025, 06:13 a.m.
+patient id : 21496 receiving time : dec 04, 2025, 06:22 a.m.
+source : direct reporting time : dec 04, 2025, 08:49 a.m.
+sample id :
+1253380004
+test description result(s) biological reference intervals unit(s)
+complete urine examination
+colour pale yellow pale yellow
+(sample type:urine)
+ph 6.0 4.5 - 8.5
+specific gravity 1.025 1.015 - 1.025
+glucose negative negative
+protein negative negative
+ketones negative negative
+bilirubins negative negative
+nitrite negative negative
+blood negative negative
+urobilinogen negative negative
+leukocytes negative negative
+microscopic examination
+pus cells (wbcs) 2 - 3 0 - 2/hpf /hpf
+epithelial cells 5 - 6 0 - 4/hpf /hpf
+red blood cells nil 0 - 2/hpf /hpf
+cast nil nil
+crystals nil nil
+other nil nil
+note
+electrolytes
+sodium 136.1 136 - 145 mmol/l
+method: ise direct(sample type:serum)
+potassium 4.34 3.3 - 5.1 mmol/l
+method: ise direct(sample type:serum)
+ionised calcium 4.96 4.5 - 5.3 mg/dl
+method: ise direct(sample type:serum)
+chloride 100.1 90 - 110 mmol/l
+method: ise direct(sample type:serum)
+instrument:test done on fully automated biochemistry analyser, sensa core st-200
+note
+creatinine
+creatinine 0.58 0.5 - 0.9 mg/dl
+method:jaffe compensated (sample type:serum)
+page 1 of 8
+patient name : t geetha sagari referral : dr v. madhava rao
+age / gender : 24 years / female collection time : dec 04, 2025, 06:13 a.m.
+patient id : 21496 receiving time : dec 04, 2025, 06:22 a.m.
+source : direct reporting time : dec 04, 2025, 08:49 a.m.
+sample id :
+1253380004
+test description result(s) biological reference intervals unit(s)
+instrument:test done on fully automated biochemistry analyser, biosystems ba 400
+note
+urine albumin/creatinine ratio
+*urine albumin 1.63 0 - 15 mg/l
+latex method(sample type:urine)
+*urine creatinine 51.33 37 - 250 mg/dl
+jaffe's compensated(sample type:urine)
+*urine albumin/creatinine ratio 3.18 0 - 30 mg/gram creatinine
+calculated
+instrument: tests performed on biosystems ba 400, a fully automatic biochemistry analyser
+normal: 0 - 30
+microalbuminuria: 30 - 300 mg/gram creatinine
+macroalbuminuria : > 300 mg/gram creatinine
+note
+* marked parameter are not under nabl accreditation.
+post prandial plasma glucose
+post prandial plasma glucose 148.53 < 180 mg/dl
+method : glucose oxidase/peroxidase
+instrument:done on biosystems ba 400, a fully automated biochemical analyser
+note
+e s r
+*esr 40 0 - 20 mm/hour
+method automated westergren
+interpretation:
+(cid:127) it indicates presence and intensity of an inflammatory process. it does not diagnose a specific disease. changes in the esr are more significant
+than the abnormal results of a single test.
+(cid:127) it is a prognostic test and used to monitor the course or response to treatment of diseases like tuberculosis, bacterial endocarditis, acute
+rheumatic fever, rheumatoid arthritis, sle, hodgkins disease, temporal arteritis and polymyalgia rheumatica.
+(cid:127) it is also increased in pregnancy, multiple myeloma, menstruation, and hypothyroidism.
+note
+* marked parameter are not under nabl accreditation.
+page 2 of 8
+patient name : t geetha sagari referral : dr v. madhava rao
+age / gender : 24 years / female collection time : dec 04, 2025, 06:13 a.m.
+patient id : 21496 receiving time : dec 04, 2025, 06:22 a.m.
+source : direct reporting time : dec 04, 2025, 08:49 a.m.
+sample id :
+1253380004
+test description result(s) biological reference intervals unit(s)
+vitamin b12
+*vitamin b12 201 222-1439 pg/ml
+clia
+method : clia chemiluminescence immunoassay
+method: chemiluminescence immunoassay(serum)
+interpretation:
+1. vit b12 levels are decreased in megaloblastic anemia, partial/total gastrectomy, pernicious anemia, peripheral neuropathies, chronic alcoholism,
+senile dementia, and treated epilepsy.
+2. an associated increase in homocysteine levels is an independent risk marker for cardiovascular disease and deep vein thrombosis.
+3. holotranscobalamin ii levels are a more accurate marker of active vitb12 component.
+note: patients on biotin supplement may have interference in some immunoassays. with individuals taking high dose biotin (morethan 5 mg per
+day) supplements, at least 8-hour wait time before blood draw is recommended.
+ref: arch pathol lab med-vol 141, november 2017
+note
+* marked parameter are not under nabl accreditation.
+thyroid function test
+*t3 106.28 87 - 178 ng/dl
+*t4 16.50 4.82 - 15.65 g/dl
+*tsh 0.760 0.38 - 5.33 iu/ml
+method: chemi luminescence immunoassay(sample type:serum)
+interpretation
+(cid:127) measurement of tsh in conjunction with t3,t4 or ft3,ft4 is used for assessment of thyroid gland functional status and also for monitoring
+patients on treatment for hyperthyroidism & hypothyroidism. suppressed tsh (<0.01 iu/ml) suggests a diagnosis of hyperthyroidism and
+elevated concentration (>7 iu/ml) suggest hypothyroidism. tsh levels may be affected by acute illness and several medications including
+dopamine and glucocorticoids.tsh concentration are decreased (low or undetectable) in graves disease. increased in tsh secreting pituitary
+adenoma (secondary hyperthyroidism); prth. tsh concentration are primary elevated in hypothyroidism (along with decreased t4) except for
+pituitary & hypothalamic disease.
+(cid:127) mild to modest tsh elevations in patient with normal t3 & t4 levels indicates impaired thyroid hormone reserves & incipent hypothyroidism
+(subclinical hypothyroidism).
+(cid:127) mild to modest decrease in tsh with normal t3 & t4 indicates subclinical hyperthyroidism.
+(cid:127) degree of tsh suppression does not reflect the severity of hyperthyroidism, therefore, measurement of free thyroid hormone levels is required
+in patient with a supressed tsh level.
+(cid:127) if free t4 is normal, free t3 should be checked as it is the first hormone to increase in early hyperthyroidism.though tsh levels can also be
+used to effectively monitor patients being treated with thyroid hormones but it may be misleading. therefore total or free t4 generally serve as
+front line assay during this period. the free t3 & t4 (ft3 & ft4) measures concentrations of free hormones, which are not affected by changing
+in concentrations of binding proteins, therefore more reliable indicator of true thyroid status.
+page 3 of 8
+patient name : t geetha sagari referral : dr v. madhava rao
+age / gender : 24 years / female collection time : dec 04, 2025, 06:13 a.m.
+patient id : 21496 receiving time : dec 04, 2025, 06:22 a.m.
+source : direct reporting time : dec 04, 2025, 08:49 a.m.
+sample id :
+1253380004
+test description result(s) biological reference intervals unit(s)
+note:* marked parameter are not under nabl accreditation.
+hba1c
+hba1c 6.6 non diabetic : 4.0 - 5.6 % %
+method:hplc (biorad d 10)(sample type:blood) border line : 5.7 - 6.4 %
+good control in diabetes :
+< 6 years : < 8.5 %
+6 years - 12 years : < 8.0 %
+13 years - 18 years : < 7.5 %
+> 18 years : < 7 %
+estimated average glucose (eag) 142.72 mg/dl
+calculated
+interpretation :
+1. hba1c is used for monitoring diabetic control. it reflects the estimated average glucose (eag).
+2. hba1c has been endorsed by clinical groups & ada (american diabetes association) guidelines 2012, for diagnosis of diabetes using a cut-off
+point of 6.5%. ada defined biological reference range for hba1c is 4% to 5.7%. patients with hba1c value between 5.7% to 6.5% are
+considered pre-diabetic.
+3. trends in hba1c are a better indicator of diabetic control than a solitary test.
+4. low glycated haemoglobin(below 4%) in a non-diabetic individual are often associated with systemic inflammatory diseases,chronic
+anaemia(especially severe iron deficiency &haemolytic), chronic renal failure and liver diseases. clinical correlation suggested.
+5. to estimate the eag from the hba1c value, the following equation is used: eag(mg/dl) = 28.7*a1c-46.7
+6. interference of haemoglobinopathies in hba1c estimation.
+a. for hbf > 25%, an alternate platform (fructosamine) is recommended for testing of hba1c.
+b. homozygous hemoglobinopathy is detected, fructosamine is recommended for monitoring diabetic status
+c. heterozygous state detected is corrected for hbs and hbc trait.
+hemoglobin electrophoresis (hplc method) is recommended for detecting hemoglobinopathy.
+note
+lipid profile
+total cholesterol 164.35 desirable : up to 200 mg/dl mg/dl
+method:cholestrol oxidase/peroxidase(sample type:serum) borderline high: 200-239 mg/dl
+high : > 240 mg/dl
+triglycerides 117.54 normal : up to 150 mg/dl mg/dl
+method:glycerol phosphate oxidase/peroxidase(sample type:serum) borderline high : 150-199 mg/dl
+high : 200-499 mg/dl
+very high : > 500 mg/dl
+page 4 of 8
+patient name : t geetha sagari referral : dr v. madhava rao
+age / gender : 24 years / female collection time : dec 04, 2025, 06:13 a.m.
+patient id : 21496 receiving time : dec 04, 2025, 06:22 a.m.
+source : direct reporting time : dec 04, 2025, 08:49 a.m.
+sample id :
+1253380004
+test description result(s) biological reference intervals unit(s)
+hdl cholesterol 39.17 > 45 mg/dl mg/dl
+method:direct(sample type:serum) high risk : < 35 mg/dl
+low risk : > 60 mg/dl
+*ldl cholesterol 101.67 optimal : up to 100 mg/dl mg/dl
+calculated near optimal/above optimal : 100-129
+mg/dl
+borderline high : 130-159 mg/dl
+high : 160-189 mg/dl
+very high : > 190 mg/dl
+*vldl cholesterol 23.51 5 - 51 mg/dl mg/dl
+calculated
+*chol / hdl ratio 4.20 low risk : < 3.5
+calculated average risk : 3.5 - 5.0
+high risk : > 5.0
+*ldl/hdl ratio 2.60 desirable : < 0.5-3.0
+calculated borderline : 3.1- 6.0
+elevated : > 6.0
+instrument: done on ba 400 biosystems fully automated biochemistry analyzer
+note
+* marked parameter are not under nabl accreditation.
+uric acid
+uric acid 3.86 male:3.5-7.2 mg/dl
+method:uricase/peroxidase(sample type:serum) female:2.6 - 6.0
+note
+liver function tests
+bilirubin (total) 0.53 <24hrs: 1.0 - 8.0 mg/dl mg/dl
+dichlorophenyl diazonium (sample type:serum) <48hrs: 6.0 - 12.0 mg/dl
+3 - 5 days: 10.0 - 14.0 mg/dl
+adults : <1.0 mg/dl
+*bilirubin (direct) 0.32 < 0.2 mg/dl mg/dl
+dichlorophenyl diazonium (sample type:serum)
+bilirubin (indirect)(sample type:serum) calculated 0.21 0.2 -0.8 mg/dl mg/dl
+method : calculated
+sgot 35.59 0 - 40 u/l
+ifcc without pyridoxal 5-p(sample type:serum)
+sgpt 61.98 0 - 41 u/l
+ifcc without pyridoxal 5-p(sample type:serum)
+page 5 of 8
+patient name : t geetha sagari referral : dr v. madhava rao
+age / gender : 24 years / female collection time : dec 04, 2025, 06:13 a.m.
+patient id : 21496 receiving time : dec 04, 2025, 06:22 a.m.
+source : direct reporting time : dec 04, 2025, 08:49 a.m.
+sample id :
+1253380004
+test description result(s) biological reference intervals unit(s)
+total protein 7.78 pre mature : 0.6 -6.0 g/dl g/dl
+biuret (sample type:serum) new born : 4.6 - 7.0 g/dl
+one week : 4.4 - 7.6 g/dl
+7 months - 1 year : 5.1-7.3 g/dl
+1 year - 2 years : 5.6 - 7.5 g/dl
+> 3 years : 6.5 - 8.0 g/dl
+albumin 4.45 3.5 - 5.0 g/dl g/dl
+bromocresol green(sample type:serum)
+*globulin 3.33 2.5 - 4.5 g/dl
+calculated
+*a:g ratio 1.34 1.5 - 3.5
+alp (alkaline phosphatase) 93.62 <105 u/l u/l
+2amino 2methyl - 1propanol buffer ifcc method(sample type:seru
+*ggt 34.21 < 38 note: * marked parameter are not u/l
+method : ifcc under nabl accreditation.
+s.phosphorus
+phosphorus 4.31 2.5 - 4.5 mg/dl
+method: phosphomolybdate/uv (sample type:serum)
+method:test done on biosystems ba 400. a fully automated biochemistry analyser
+s.iron
+iron 26.30 men : 65 - 175 mg/dl mg/dl
+method:ferrozine(sample type:serum) women : 50 - 170 mg/dl
+instrument:test done on fully automated biochemistry analyser, biosystems ba 400
+note
+urea
+urea 15.26 cord: 21 - 40 mg/dl mg/dl
+method:urease / glutamate dehydrogenase(sample type:serum) pre - mature : 3 - 20 mg/dl
+new born : 4 - 12 mg/dl
+child : 5 - 18 mg/dl
+adult : 15 - 39 mg/dl
+<60 years : 8 - 23 mg/dl
+note
+hemogram (cbp)
+*haemoglobin 9.4 12.0 - 18.0 g/dl
+page 6 of 8
+patient name : t geetha sagari referral : dr v. madhava rao
+age / gender : 24 years / female collection time : dec 04, 2025, 06:13 a.m.
+patient id : 21496 receiving time : dec 04, 2025, 06:22 a.m.
+source : direct reporting time : dec 04, 2025, 08:49 a.m.
+sample id :
+1253380004
+test description result(s) biological reference intervals unit(s)
+*leucocyte count (wbc count) 8700 4000- 11000 l
+*platelet count 540000 120000 - 380000 l
+*r.b.c count 5.12 3.80 - 5.30 106 l
+*mcv 60.0 80.0 - 100.0 fl
+*pcv 30.7 36.0 - 56.0 %
+*mch 18.4 27-32 pg
+*mchc 30.6 32.0 - 36.0 g/dl
+*rdw-cv 17.7 10.0 - 16.5 %
+rdw-sd 42.5 fl
+rdwi 212
+*mean platelet volume (mpv) 9.2 5.0 - 10.0 fl
+*pdw 17.1 12.0 - 18.0 %
+*p-lcr 33.0 %
+*p-lcc 17.82
+*pct 0.50 %
+mentzerindex 12
+nlr 1.89
+*differential count
+*granulocyte 64.1 42 - 85 %
+*lymphocytes 33.9 11.0 - 49.0 %
+*monocytes 2.0 0.0 - 9.0 %
+comments: anemia hypochromia microcytosis thrombocytosis
+instrument:test performed on nihon kohden hematology analyzer
+note
+* marked parameter are not under nabl accreditation.
+fasting plasma glucose
+fasting plasma glucose (f) 108.80 desired fasting plasma glucose: mg/dl
+method : glucose oxidase/peroxidase
+for nondiabetic: 70 - 100 mg/dl
+for diabetic: 80 - 130 mg/dl
+.
+**end of report**
+page 7 of 8
+patient name : t geetha sagari referral : dr v. madhava rao
+age / gender : 24 years / female collection time : dec 04, 2025, 06:13 a.m.
+patient id : 21496 receiving time : dec 04, 2025, 06:22 a.m.
+source : direct reporting time : dec 04, 2025, 08:49 a.m.
+sample id :
+1253380004
+test description result(s) biological reference intervals unit(s)
+page 8 of 8

@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Health Diagnostics | Multi-Model Blood Analysis</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="icon" type="image/x-icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🩺</text></svg>">
+</head>
+<body>
+    <div class="container fade-in">
+        <!-- Header -->
+        <header class="header">
+            <div class="logo-container">
+                <i class="fas fa-heartbeat logo"></i>
+                <div>
+                    <h1>AI Health Diagnostics</h1>
+                    <p class="subtitle">Multi-Model AI Analysis of Blood Test Reports</p>
+                </div>
+            </div>
+            <div style="margin-top: 20px; display: inline-block; padding: 8px 20px; background: rgba(255,255,255,0.2); border-radius: 20px;">
+                <i class="fas fa-shield-alt"></i> Secure & HIPAA Compliant
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Upload Section -->
+            <section class="upload-section">
+                <div class="upload-icon">
+                    <i class="fas fa-file-medical-alt"></i>
+                </div>
+                <h2 class="upload-title">Upload Your Blood Test Report</h2>
+                <p class="upload-subtitle">Get instant AI-powered insights from your CBC, Lipid Profile, Glucose tests and more</p>
+                
+                <form action="/analyze" method="POST" enctype="multipart/form-data" id="uploadForm">
+                    <!-- File Upload -->
+                    <div class="file-upload">
+                        <label for="fileInput" class="custom-file-upload">
+                            <i class="fas fa-cloud-upload-alt"></i> Choose Blood Report (PDF/Image)
+                        </label>
+                        <input type="file" id="fileInput" name="report" accept=".pdf,.jpg,.jpeg,.png" required>
+                        <div class="file-name">No file chosen</div>
+                    </div>
+                    
+                    <!-- Personal Information -->
+                    <div class="form-group">
+                        <div class="input-group">
+                            <label for="age"><i class="fas fa-user"></i> Age (Optional)</label>
+                            <input type="number" id="age" name="age" placeholder="e.g., 30" min="0" max="120">
+                        </div>
+                        
+                        <div class="input-group">
+                            <label for="gender"><i class="fas fa-venus-mars"></i> Gender (Optional)</label>
+                            <select id="gender" name="gender">
+                                <option value="">Select Gender</option>
+                                <option value="male">Male</option>
+                                <option value="female">Female</option>
+                                <option value="other">Other</option>
+                            </select>
+                        </div>
+                    </div>
+                    
+                    <!-- Submit Button -->
+                    <button type="submit" class="analyze-btn">
+                        <i class="fas fa-brain"></i> Start AI Analysis
+                    </button>
+                </form>
+                
+                <div class="loading" id="loading">
+                    <div class="spinner"></div>
+                    <p>Analyzing your report with multi-model AI...</p>
+                </div>
+                
+                <p style="margin-top: 20px; font-size: 0.9rem; color: #6c757d;">
+                    <i class="fas fa-lightbulb"></i> 
+                    Try our <a href="/demo" style="color: #4361ee; text-decoration: none;">demo analysis</a> without uploading
+                </p>
+            </section>
+
+            <!-- Features -->
+            <div class="features">
+                <div class="feature-card">
+                    <div class="feature-icon">
+                        <i class="fas fa-microscope"></i>
+                    </div>
+                    <h3 class="feature-title">Multi-Model AI Analysis</h3>
+                    <p class="feature-desc">
+                        Three specialized AI models work together: Parameter Interpretation, 
+                        Pattern Recognition, and Contextual Analysis for comprehensive diagnosis.
+                    </p>
+                </div>
+                
+                <div class="feature-card">
+                    <div class="feature-icon">
+                        <i class="fas fa-shield-alt"></i>
+                    </div>
+                    <h3 class="feature-title">Secure & Private</h3>
+                    <p class="feature-desc">
+                        Your medical data is encrypted end-to-end and automatically deleted 
+                        after analysis. We never store personal health information.
+                    </p>
+                </div>
+                
+                <div class="feature-card">
+                    <div class="feature-icon">
+                        <i class="fas fa-bolt"></i>
+                    </div>
+                    <h3 class="feature-title">Instant Results</h3>
+                    <p class="feature-desc">
+                        Get comprehensive analysis within seconds. Our AI processes 
+                        reports 10x faster than manual analysis.
+                    </p>
+                </div>
+            </div>
+
+            <!-- How It Works -->
+            <section style="background: #f8f9ff; padding: 40px; border-radius: 15px; margin-top: 50px;">
+                <h2 style="text-align: center; margin-bottom: 30px; color: #2b2d42;">
+                    <i class="fas fa-play-circle"></i> How It Works
+                </h2>
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 30px;">
+                    <div style="text-align: center;">
+                        <div style="width: 70px; height: 70px; background: linear-gradient(135deg, #4361ee, #3a0ca3); 
+                            color: white; border-radius: 50%; display: flex; align-items: center; 
+                            justify-content: center; font-size: 28px; font-weight: bold; margin: 0 auto 15px;">
+                            1
+                        </div>
+                        <h3 style="margin-bottom: 10px;">Upload Report</h3>
+                        <p style="color: #6c757d;">Upload your blood test PDF or image file</p>
+                    </div>
+                    
+                    <div style="text-align: center;">
+                        <div style="width: 70px; height: 70px; background: linear-gradient(135deg, #f72585, #b5179e); 
+                            color: white; border-radius: 50%; display: flex; align-items: center; 
+                            justify-content: center; font-size: 28px; font-weight: bold; margin: 0 auto 15px;">
+                            2
+                        </div>
+                        <h3 style="margin-bottom: 10px;">AI Processing</h3>
+                        <p style="color: #6c757d;">3 AI models analyze the report simultaneously</p>
+                    </div>
+                    
+                    <div style="text-align: center;">
+                        <div style="width: 70px; height: 70px; background: linear-gradient(135deg, #4cc9f0, #4895ef); 
+                            color: white; border-radius: 50%; display: flex; align-items: center; 
+                            justify-content: center; font-size: 28px; font-weight: bold; margin: 0 auto 15px;">
+                            3
+                        </div>
+                        <h3 style="margin-bottom: 10px;">Get Results</h3>
+                        <p style="color: #6c757d;">Receive detailed health insights & recommendations</p>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <!-- Footer -->
+        <footer>
+            <p>© 2024 AI Health Diagnostics System | Multi-Model AI Agent Project</p>
+            <p style="margin-top: 10px; font-size: 0.9rem;">
+                <i class="fas fa-exclamation-triangle"></i> 
+                This tool provides AI-generated insights for educational purposes only. 
+                It is not a substitute for professional medical advice, diagnosis, or treatment.
+            </p>
+        </footer>
+    </div>
+
+    <!-- JavaScript -->
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>

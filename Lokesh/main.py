@@ -1,7 +1,7 @@
 import os
 from Week1.text_extraction import extract_text
 from Week1.parameters_extraction import extract_parameters, save_to_csv
-from Week1.validation_standardization import (
+from Week2.validation_standardization import (
     validate_and_standardize,
     save_validation_to_csv
 )

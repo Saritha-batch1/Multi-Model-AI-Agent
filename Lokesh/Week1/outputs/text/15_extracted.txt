@@ -1,0 +1,43 @@
+< kims-icon
+hospital
+department of clinical biochemistry
+:dr.chenna vijay md, dm (neurology)
+ay
+bill date =: 22-apr-25 10:07 pm
+sample coll, - : 22-apr-25 10:07pm admn/umr no [-rr esiro9908
+sample rec. :01-jan--13 12:00 am service no 152049181
+report date + 22-apr-25 10:23 pm ward/room/bed : operation theatre/ot/ot-1
+parameter specimen results biological reference
+cglu 137
+oximetry values
+$02 99 calculated
+fo2hbe 2.9 calculated
+fhhbe -3.8 calculated
+cthb 1s: calculated
+hete 37 calculated
+oxyqen status
+cto2e 213 calculated
+calculated values
+cbase(ecf)c 20.4 calculated
+chco3(p,st)c 22.7 calculated
+cca++(7.4)c 1,92 calculated
+arterial blood gases (abg)
+blood gas values
+ph 7.38 7.350 - 7,450 potentiometry
+pco2 38 32,0 45.0 mmhg potentiometry
+po2 173 t 80.0 - 100.0 mmhg amperometry
+electrolyte values
+cna+ 125 1 134.0 - 146.0 mmol/l direct ise
+ck+ 6.0 t 3.5-5.5 mmol/l direct ise
+ccat++ 1.86 t 1.15 - 1.32 meq/l direct ise
+metabolite values
+clac 1.8 t 0.5 - 1.6 mmol/l
+cglu 140
+oximetry values
+so2 100 calculated
+fo2hbe 2.3 calculated
+printed by : 41060009 printed on : 26-apr-2025 09:23:53 am system i: ay
+iconkrishi institute of me
+# 32-11-02, sheela
+andhra pradesh, india.
+cin: u8s11

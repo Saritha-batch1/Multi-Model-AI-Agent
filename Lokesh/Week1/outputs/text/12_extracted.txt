@@ -1,0 +1,47 @@
+institute of liver & biliary sciences
+(an autonomous society under government of nct of delhi)
+lw, d-1, vasant kunj, new delhi, india
+i | bs 46300010,
+7 ee
+[id : ipid.0112385 patient's fy
+referred by : dr satender pal singh requisition 4312180
+ward : hdu phase-ii bed 2320-02
+date of collection : 21-apr-2025 00:26 reporting date 21-apr-2025 06:23
+payer ie
+laboratory
+test result unit reference range
+egfr 125 ml/min/1.73
+m2
+remarks: please correlate clinically.
+liver function test_/ profile** * [serum]
+method : dpd
+sample type : serum
+bilirubin total{ dpd}
+bilirubin direct{dpd}
+bilirubin indirect (calculated)
+ast/sgot {ifcc-without p-5p}
+alt /sgpt (ifcc-without p-5p)
+alkaline phosphatase{ifcc amp
+buffer}
+ggt {ifcc}
+total protein{biuret}
+albumin {bcp bromocresol green}
+globulin (calculated)
+a\g ratio (calculated)
+remarks: please correlate clinically.
+magnesium-serum** * [serum]
+sample type : serum
+magnesium (xylldyl
+blue-colourimetric-tris-b
+remarks: please correlate clinically.
+coagulation
+pt / pt-inr ** * [plasma]
+sample type : citrated plasma
+method : photo optical clot detection
+prothrombin time(pt)
+test seconds
+mean normal prothrombin
+time(mnpt)
+inr
+bio - chemistry
+* use of nabl symbol is subject to scope of accreditation

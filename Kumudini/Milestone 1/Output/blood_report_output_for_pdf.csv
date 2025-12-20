@@ -1,0 +1,8 @@
+Age,Gender,Parameter,Value,Status
+21,Male,Hemoglobin,12.5,Low
+21,Male,White_Blood_Cells,9000.0,Normal
+21,Male,Platelet_Count,150000.0,Normal
+21,Male,Red_Blood_Cells,5.2,Normal
+21,Male,MCV,87.75,Normal
+21,Male,MCH,27.2,Normal
+21,Male,RDW,13.6,Normal

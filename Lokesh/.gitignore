@@ -1,0 +1,13 @@
+# Ignore python cache
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+venv/
+env/
+.env
+
+# Ignore large datasets and logs
+*.log
+*.csv
+*.zip

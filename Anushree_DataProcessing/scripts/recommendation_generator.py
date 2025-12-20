@@ -1,45 +1,64 @@
 import pandas as pd
 
 def generate_recommendation(row):
-    advice = []
+    recommendations = []
 
-    patterns = row["Detected_Patterns"]
-    context = row["Contextual_Insights"]
+    patterns = row.get("Detected_Patterns", "")
+    context = row.get("Contextual_Insights", "")
 
-    # Anemia recommendations
+    # Anemia-related advice
     if "Anemia" in patterns:
-        advice.append("Increase intake of iron-rich foods (spinach, dates, legumes)")
-        advice.append("Consult a physician for anemia evaluation")
+        recommendations.append(
+            "Increase intake of iron-rich foods such as spinach, dates, and legumes"
+        )
+        recommendations.append(
+            "Consult a healthcare professional for further evaluation of anemia"
+        )
 
-    # Infection recommendations
+    # Infection-related advice
     if "Infection" in patterns:
-        advice.append("Monitor symptoms such as fever or fatigue")
-        advice.append("Seek medical consultation if symptoms persist")
+        recommendations.append(
+            "Monitor symptoms like fever, weakness, or fatigue"
+        )
+        recommendations.append(
+            "Seek medical consultation if symptoms persist"
+        )
 
-    # Bleeding risk recommendations
+    # Bleeding risk advice
     if "Bleeding Risk" in patterns:
-        advice.append("Avoid injuries and strenuous activities")
-        advice.append("Consult a doctor immediately if bleeding occurs")
+        recommendations.append(
+            "Avoid strenuous activities and prevent injuries"
+        )
+        recommendations.append(
+            "Consult a doctor immediately if unusual bleeding is observed"
+        )
 
-    # Age-related advice
-    if "age" in context.lower():
-        advice.append("Regular health monitoring is advised due to age")
+    # Age-related general advice
+    if isinstance(context, str) and "age" in context.lower():
+        recommendations.append(
+            "Regular health monitoring is recommended due to age-related risk factors"
+        )
 
-    if not advice:
-        return "Maintain a balanced diet and healthy lifestyle"
+    # Default advice
+    if not recommendations:
+        return "Maintain a balanced diet and a healthy lifestyle"
 
-    return "; ".join(advice)
+    return "; ".join(recommendations)
 
 
-def run_recommendation_engine(input_csv, output_csv):
+def run_recommendation_generator(input_csv, output_csv):
     df = pd.read_csv(input_csv)
-    df["Personalized_Recommendations"] = df.apply(generate_recommendation, axis=1)
+
+    df["Personalized_Recommendations"] = df.apply(
+        generate_recommendation, axis=1
+    )
+
     df.to_csv(output_csv, index=False)
-    print(f"✅ Recommendations generated and saved to {output_csv}")
+    print(f"✅ Personalized recommendations generated: {output_csv}")
 
 
 if __name__ == "__main__":
-    run_recommendation_engine(
+    run_recommendation_generator(
         "contextual_risk_report.csv",
         "personalized_recommendations_report.csv"
     )

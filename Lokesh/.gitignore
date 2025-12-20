@@ -9,5 +9,4 @@ env/
 
 # Ignore large datasets and logs
 *.log
-*.csv
 *.zip

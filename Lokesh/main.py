@@ -1,14 +1,26 @@
 import os
+
 from Week1.text_extraction import extract_text
 from Week1.parameters_extraction import extract_parameters, save_to_csv
 from Week2.validation_standardization import (
     validate_and_standardize,
     save_validation_to_csv
 )
+from Week2.parameter_interpretation import interpret_parameters
+from Week3.pattern_recognition import (
+    pattern_risk_assessment,
+    save_pattern_risk_to_csv
+)
+from Week4.risk_assessment import (
+    assess_overall_risk,
+    save_risk_assessment_to_csv
+)
+
 
 def save_text(text: str, path: str):
     with open(path, "w", encoding="utf-8") as f:
         f.write(text)
+
 
 def main():
     folder_path = input("Enter folder path containing reports: ").strip()
@@ -17,19 +29,16 @@ def main():
         print("Invalid folder path")
         return
 
+    # Output folders
     os.makedirs("outputs/text", exist_ok=True)
 
-    
-    files = sorted(
-        os.listdir(folder_path),
-        key=lambda x: int(os.path.splitext(x)[0])
-    )
+    files = sorted(os.listdir(folder_path))
 
     print(f"\n Processing {len(files)} files...\n")
 
-    for filename in files:
-        patient_id = os.path.splitext(filename)[0]  # "1", "2", "3"
+    for idx, filename in enumerate(files, start=1):
         file_path = os.path.join(folder_path, filename)
+        patient_id = str(idx)
 
         try:
             print(f"➡ Processing {filename} → Patient ID: {patient_id}")
@@ -43,13 +52,25 @@ def main():
             save_to_csv(patient_id, parameters)
 
             # -------- Task 3: Validation & Standardization --------
-            validated_data = validate_and_standardize(parameters)
-            save_validation_to_csv(patient_id, validated_data)
+            validated = validate_and_standardize(parameters)
+            save_validation_to_csv(patient_id, validated)
+
+            # -------- Model 1: Interpretation --------
+            interpreted = interpret_parameters(validated)
+
+            # -------- Model 2: Pattern Recognition --------
+            model2_result = pattern_risk_assessment(validated)
+            save_pattern_risk_to_csv(patient_id, model2_result)
+
+            # -------- Model 4: Final Risk Assessment --------
+            risk_result = assess_overall_risk(interpreted, model2_result)
+            save_risk_assessment_to_csv(patient_id, risk_result)
 
         except Exception as e:
             print(f"⚠ Failed {filename}: {e}")
 
     print("\n Batch pipeline completed successfully")
+
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,46 @@
+haematology
+jupiter hospital
+patient first
+result no.
+: whole blood received on me 01:16:51 pm
+referred by : dr. dushyant wamaarao khedikar - reg no. reported on | / 01:21:55 pm
+a mr no. 5289551
+: bill no. : 08b-2025-000348
+investigations methods __ result unit biological ref. interval
+complete blood count
+hemoglobin colorimetric 14.1 g/dl 13.00 - 18.00
+red cell count light scattering 4.95 10%6/ul 4,50 - 6.50
+hematocrit light scattering 44.7 % 40.00 - 54.00
+mcv calculated 90.3 fl 76.00 - 96,00
+mch calculated 28.6 pg 27.00 - 32.00
+mchc calculated 31.6 g/dl 30,00 - 35.00
+rdw calculated 13.9 % 11.50 - 14.50
+wbc count light scattering 9.44 10*3/ul 4.00 - 11.00
+platelet count light scattering 183 1043/ul 150.00 - 450.00
+diff. wbc count
+neutrophils light scattezing 67 % 40.00 - 70.00
+lymphocytes light scattering 26 % 15.00 - 40.00
+eosinophils light scattering 02 % 2.00 - 6.00
+monocytes light scattering 05 % 2.00 - 8.00
+basophils light scattering 00 % 0.00 - 2.00
+absolute neutrophils calculated 6.32 1043/ul 1.60 - 7.70
+absolute lymphocytes calculated 2.45 10%3/ul 0.60 - 4.40
+absolute eosinophils calculated 0.19 10%3/ul 0.00 - 0.45
+absolute monocytes calculated 0.47 1043/ul 0,08 - 0.88
+peripheral smear
+rbc menual normocytic normocytic
+normochromic normochromic
+wbc manual within normal limits within normal limits
+platelet manual adequate adequate
+checked by
+rakhee balrajsingh chau
+dr. sonam joshi
+consultant pathologist
+partial reproduction of report not permitted, this report relates to sample received by the laboratory.
+printed by: automated
+round the clock
+jupiter hospital
+near prathamesh park, baner, pimple nilkh
+road, pune, maharashtra 411045
+website : www.jupiterhospital.com
+"a division of jupiter lifeline hospitals ltd."

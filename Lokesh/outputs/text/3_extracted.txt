@@ -1,0 +1,26 @@
+eby : dr.mahesh a / giridhar yadhav p
+report date 1 21-apr-25 09:49 am
+service no : $1411490
+parameter specimen results biological reference | method
+platelet count 2.78 2.1-5.0 lakhs/cumm impedance method
+mean cell volume (mcv) 106.7 92-118 fl calculation
+mean cell haemoglobin (mch) 36.1 31-37 pg calculation
+mean cell haemoglobin 33.8 29 - 47 g/l calculation
+concentration (mchc)
+rdw 16.0 t 11.6-14.0 % pulse height analysis
+differential count
+neutrophils. 58 t 20-45 % flourescenceflowcytom
+etry/light microscopy
+lymphocytes 26 j 28-35 % flourescenceflowcytom
+etry/light microscopy
+eosinophils 07 t 1.4-4.3 % flourescenceflowcytom
+etry/light microscopy
+monocytes 09 t 4-7 % flourescenceflowcytom
+etry/light microscopy
+basophils 00 0-1 % fluorescence flow
+cytometry/light
+microscopy
+*** end of report ***
+me
+pathologist
+printed by : 32101845 printed on : 27-apr-2025 10:46:40 am system [i

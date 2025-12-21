@@ -1,0 +1,17 @@
+{
+    "user_profile": {
+        "user_id": "TEST_FEMALE_28",
+        "age": 28,
+        "gender": "female"
+    },
+    "overall_health_status": "low-risk",
+    "patterns_detected": [],
+    "health_findings": [],
+    "recommendations": [
+        "Consult a qualified doctor for confirmation",
+        "Maintain a balanced diet and regular exercise",
+        "Schedule periodic health checkups"
+    ],
+    "medical_disclaimer": "This report is generated for informational purposes only and must not be considered a medical diagnosis.",
+    "generated_at": "2025-12-21T12:18:29.786702"
+}

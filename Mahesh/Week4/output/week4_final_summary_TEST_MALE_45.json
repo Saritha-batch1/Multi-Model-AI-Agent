@@ -1,0 +1,17 @@
+{
+    "user_profile": {
+        "user_id": "TEST_MALE_45",
+        "age": 45,
+        "gender": "male"
+    },
+    "overall_health_status": "moderate-risk",
+    "patterns_detected": [],
+    "health_findings": [],
+    "recommendations": [
+        "Consult a qualified doctor for confirmation",
+        "Maintain a balanced diet and regular exercise",
+        "Schedule periodic health checkups"
+    ],
+    "medical_disclaimer": "This report is generated for informational purposes only and must not be considered a medical diagnosis.",
+    "generated_at": "2025-12-21T12:20:05.750620"
+}

@@ -1,0 +1,6 @@
+{
+  "user_id": "TEST_MALE_45",
+  "age": 45,
+  "gender": "male",
+  "note": "Synthetic test user for cardiovascular risk validation"
+}

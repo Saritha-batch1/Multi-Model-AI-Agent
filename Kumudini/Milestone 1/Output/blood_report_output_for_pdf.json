@@ -1,0 +1,36 @@
+[
+    {
+        "Age": 21,
+        "Gender": "Male",
+        "Parameters": {
+            "Hemoglobin": {
+                "value": 12.5,
+                "status": "Low"
+            },
+            "White_Blood_Cells": {
+                "value": 9000.0,
+                "status": "Normal"
+            },
+            "Platelet_Count": {
+                "value": 150000.0,
+                "status": "Normal"
+            },
+            "Red_Blood_Cells": {
+                "value": 5.2,
+                "status": "Normal"
+            },
+            "MCV": {
+                "value": 87.75,
+                "status": "Normal"
+            },
+            "MCH": {
+                "value": 27.2,
+                "status": "Normal"
+            },
+            "RDW": {
+                "value": 13.6,
+                "status": "Normal"
+            }
+        }
+    }
+]

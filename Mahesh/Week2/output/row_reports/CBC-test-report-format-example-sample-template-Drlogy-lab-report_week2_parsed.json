@@ -1,0 +1,59 @@
+{
+  "file": "CBC-test-report-format-example-sample-template-Drlogy-lab-report.pdf",
+  "type": "pdf",
+  "parsed": {
+    "hemoglobin": {
+      "value_raw": "12.5",
+      "unit_raw": "Low",
+      "source_line": "Hemoglobin (Hb) 12.5 Low 13.0 - 17.0 g/dL",
+      "value_standard": 12.5,
+      "unit_standard": "g/dL",
+      "conversion_note": "used_as_is",
+      "flag": "low"
+    },
+    "rbc_count": {
+      "value_raw": "5.2",
+      "unit_raw": "",
+      "source_line": "Total RBC count 5.2 4.5 - 5.5 mill/cumm",
+      "value_standard": 5.2,
+      "unit_standard": "",
+      "conversion_note": "used_as_is",
+      "flag": "normal"
+    },
+    "platelet_count": {
+      "value_raw": "150000",
+      "unit_raw": "Borderline",
+      "source_line": "Platelet Count 150000 Borderline 150000 - 410000 cumm",
+      "value_standard": 150000.0,
+      "unit_standard": "cells",
+      "conversion_note": "used_as_is",
+      "flag": "normal"
+    }
+  },
+  "interpreted": {
+    "hemoglobin": {
+      "value_raw": "12.5",
+      "unit_raw": "Low",
+      "value_standard": 12.5,
+      "unit_standard": "g/dL",
+      "flag": "low",
+      "conversion_note": "used_as_is"
+    },
+    "rbc_count": {
+      "value_raw": "5.2",
+      "unit_raw": "",
+      "value_standard": 5.2,
+      "unit_standard": "",
+      "flag": "normal",
+      "conversion_note": "used_as_is"
+    },
+    "platelet_count": {
+      "value_raw": "150000",
+      "unit_raw": "Borderline",
+      "value_standard": 150000.0,
+      "unit_standard": "cells",
+      "flag": "normal",
+      "conversion_note": "used_as_is"
+    }
+  }
+}

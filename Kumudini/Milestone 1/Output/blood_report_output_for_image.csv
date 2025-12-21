@@ -1,0 +1,7 @@
+Age,Gender,Parameter,Value,Status
+21,Female,Hemoglobin,13.0,Normal
+21,Female,White_Blood_Cells,10000.0,Normal
+21,Female,Platelet_Count,20000.0,Low
+21,Female,Red_Blood_Cells,5.0,Normal
+21,Female,MCV,100.0,Normal
+21,Female,MCH,30.0,Normal

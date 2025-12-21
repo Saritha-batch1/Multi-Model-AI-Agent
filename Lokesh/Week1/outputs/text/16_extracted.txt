@@ -1,0 +1,43 @@
+ma [a e | it
+ee date : 06 :38p medical discharge date : j 09:35am
+admitted under: dr k hemanth kumar department : oon oy
+| i | ti
+platelet count 197000 / cu.mm 150000 - 400000
+neutrophils 68.8 % 40.0 - 75.0
+lymphocytes 16.0 % 20.0 - 45.0
+eosinophils 8.1 % 0.0 - 7.0
+basophils 0.4 % 0.0 - 1.0
+monocytes 6.7 % 2.0 - 10.0
+rdw 13.9 % 11.6 - 14.0
+ipf 20.10 % 0.70 - 9.10
+neutrophil absolute 6288.3 /cumm 2000.0 - 7000.0
+lymphocyte absolute 1462.4 /cumm 1000.0 - 3000.0
+monocyte absolute 612.4 /cumm 200.0 - 1000.0
+eosinophil absolute 740.3 /cumm 40.0 - 440.0
+basophil absolute 36.6 /cumm 20.0 - 100.0
+renal panel - i - random
+result date & time: i 07:51
+parameters value units reference range
+serum bicarbonate(enzymatic) 23.0 mmol/l 22.0 - 29.0
+serum sodium (indirect ise) 143.0 mmol/l 135.0 - 145.0
+serum potassium (indirect ise) 3.48 mmol/l 3.50 - 5.10
+serum chloride (ise / imt) 103.2 mmol/l 98.0 - 107.0
+blood urea nitrogen (urease/gldh) 9.10 mg/dl 6.00 - 20.00
+serum creatinine (mod.jaffe) 0.72 mg/dl 0.60 - 1.40
+glucose- random (hexokinase) 131 mg/dl 70 - 140
+egfr 92.0 ml/min/1.73sq.m >60.0
+prothrombin time -pt (automated/ clotting assay _)
+result date & time: 23:27
+parameters value units reference range
+inr 0.94
+prothrombin time test 12.2 sec 11.4 - 15.2
+pt control 13 sec
+isi value 1.08 sec
+hbsag (rapid test),
+result date & time: j 09:18
+parameters value units reference range
+test result negative
+hiv i & ii antibody (rapid test)
+result date & time: j 09:18
+parameters value units reference range
+test result negative

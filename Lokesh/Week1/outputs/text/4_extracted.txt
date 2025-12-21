@@ -1,0 +1,50 @@
+test report
+k.p. patil building,
+ sh ree diagnostic near shivaji maharaj statue,
+glinigal laboratory. mohopada, tal. khalapur,
+dist. raigad - 410 222.
+mob : 93726 96384
+patient id : 230425003
+mmb doctor: dr. ramesh mhatre sample no
+cli
+complete blood count (cbc)
+test
+hee blood count (cbc)
+hemoglobin 424 gm/dl 13.0-17.0
+photometry
+packed cell volume (hct) 42.5 % 40-50
+calculated
+r.b.c. count 4.90 mill/emm 4.5-5.5
+electrical impedence
+mean cell volume(mcv) 86.7 fl 83-101
+calculated
+mean cell hemoglobin( mch) 24.7 pg 27-33
+calculated
+mean cell hb conc(mchc) 28.5 % 32 -38
+calculated
+total wbc count 13600 cells/cumm 4000-11000
+flow cytometry
+differential % wbcs count
+neutrophils 66 % 50-70
+fcm/ microscopy
+lymphocytes 24 % 20 -40
+fcm/ microscopy
+eosinophils 4 % 1-6
+fcm/ microscopy
+monocytes 06 % 0-10
+fcm/ microscopy
+absolute differential count :
+absolute neutrophils count 8976 /cumm 2000-7000
+absolute lymphocytes count 3264 /cumm 1000-3000
+absolute monocytes count 816 /cumm 200-1000
+absolute eosinophils count, aec 544 /cumm 20-500
+platelet count 502000 cells/cumm ff
+electrical impedence
+end of report
+scan to validate fb .
+-. _v .
+dr.swapnil v.sirmukaddam
+* m.d. (pathology)
+pageth@lpare only laboratory & technical test results, = these are not medical diagnostic result in any case and purpose.
+* unexpected result should be confirmed with fresh specimen. = laboratory test result should be interpreted in correlation with clinical finding.
+27

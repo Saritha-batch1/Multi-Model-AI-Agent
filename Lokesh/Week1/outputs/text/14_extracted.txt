@@ -1,0 +1,55 @@
+department of clinical biochemistry
+patient i | ec ls
+admn no =: / e00 er by : dr.chenna vijay md, dm (neurolog
+bill date : 22-apr-25 08:40 am report date : 22-apr-25 09:47 am
+parameter specimen results biological reference method
+sgpt/alt 13 0-50 u/l uv without p5p
+sgot/ast 26 0-50 u/l uv without p5p
+alkaline phosphatase 169 30-120 u/l pnpp amp buffer
+total protein 5.8 6.3 - 8.2 gm/dl biuret
+albumin 3.5 3.5-5.2 g/dl bromocresol green
+globulin 2.3 2.0 - 3.5 gm/dl calculation
+a/g ratio 1.52
+crp 2.6 0-6.0 mg/l latex particle
+cimunoturbidimetri
+calcium 7.5 8.8 - 10.6 mg/dl arsenazo
+phosphorous 2.9 2.5-4.5 mg/dl phospomolybdate
+complex
+magnesium 2.06 1.8 - 2.6 mg/dl xylidyl blue
+pro calcitonin
+procalcitonin 0.861 low risk for sepsis: <0.5 enhanced
+- high risk for sepsis: >2.0 chemiluminescence
+ng/ml
+interpretation 1. pct is the prohormone of calcitonin secreted
+by different types of cells from numerous
+organs in response to proinflammatory
+stimulation, particularly bacterial stimulation.
+2. depending upon clinical background, pct >
+0.1 can indicate clinically relevant bacterial
+infection, requiring antibiotic treatment.
+3. pct is an important marker enabling specific
+differentiation between bacterial infection and
+other causes of inflammatory
+reactions
+4. resorption of septic infection is accompanied
+by decreases in pct concentration which
+returns to normal with half life of 24 hours
+5. in certain situations (newborns, polytrauma,
+burns,major surgery, prolonged or severe
+cardiogenic shock etc) pct elevation may
+be independent of any infectious aggression.
+the return to normal values is usually rapid
+6. viral infections, allergies, autoimmune
+diseases and graft rejection do not lead to
+significant increase in pct. localized bacterial
+infections can lead to moderate increase in pct
+levels.
+note. patients on biotin supplement may have
+interference in some immunoassays. with
+individuals taking high dose biotin (more than
+5
+mg per day) supplements, at least 8-hour wait
+time before blood draw is recommended.
+low risk for sepsis : < 0.5 ng/ml.
+high risk for sepsis : > 2.0 ng/ml.
+printed by : 41011329 printed on : 22-apr-2025 07:17:55 pm system i

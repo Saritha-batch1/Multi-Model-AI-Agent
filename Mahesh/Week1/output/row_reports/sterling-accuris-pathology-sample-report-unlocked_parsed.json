@@ -1,0 +1,54 @@
+{
+  "file": "sterling-accuris-pathology-sample-report-unlocked.pdf",
+  "parsed_simple": {
+    "hemoglobin": 0.3,
+    "platelet_count": 150000.0,
+    "cholesterol": 60.0,
+    "glucose": 157.07
+  },
+  "parsed_detailed": {
+    "hemoglobin": {
+      "value_raw": "0.3",
+      "value": 0.3,
+      "unit": null,
+      "converted": false
+    },
+    "platelet_count": {
+      "value_raw": "150000",
+      "value": 150000.0,
+      "unit": null,
+      "converted": false
+    },
+    "cholesterol": {
+      "value_raw": "60.0",
+      "value": 60.0,
+      "unit": null,
+      "converted": false
+    },
+    "glucose": {
+      "value_raw": "157.07",
+      "value": 157.07,
+      "unit": null,
+      "converted": false
+    }
+  },
+  "interpreted": {
+    "hemoglobin": {
+      "value": 0.3,
+      "flag": "low"
+    },
+    "platelet_count": {
+      "value": 150000.0,
+      "flag": "normal"
+    },
+    "cholesterol": {
+      "value": 60.0,
+      "flag": "low"
+    },
+    "glucose": {
+      "value": 157.07,
+      "flag": "high"
+    }
+  },
+  "timestamp": "20251202_203024"
+}

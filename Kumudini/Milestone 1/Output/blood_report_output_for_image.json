@@ -1,0 +1,32 @@
+[
+    {
+        "Age": 21,
+        "Gender": "Female",
+        "Parameters": {
+            "Hemoglobin": {
+                "value": 13.0,
+                "status": "Normal"
+            },
+            "White_Blood_Cells": {
+                "value": 10000.0,
+                "status": "Normal"
+            },
+            "Platelet_Count": {
+                "value": 20000.0,
+                "status": "Low"
+            },
+            "Red_Blood_Cells": {
+                "value": 5.0,
+                "status": "Normal"
+            },
+            "MCV": {
+                "value": 100.0,
+                "status": "Normal"
+            },
+            "MCH": {
+                "value": 30.0,
+                "status": "Normal"
+            }
+        }
+    }
+]

@@ -1,0 +1,32 @@
+{
+  "file": "CBC-test-report-format-example-sample-template-Drlogy-lab-report.pdf",
+  "parsed_simple": {
+    "hemoglobin": 12.5,
+    "platelet_count": 150000.0
+  },
+  "parsed_detailed": {
+    "hemoglobin": {
+      "value_raw": "12.5",
+      "value": 12.5,
+      "unit": null,
+      "converted": false
+    },
+    "platelet_count": {
+      "value_raw": "150000",
+      "value": 150000.0,
+      "unit": null,
+      "converted": false
+    }
+  },
+  "interpreted": {
+    "hemoglobin": {
+      "value": 12.5,
+      "flag": "normal"
+    },
+    "platelet_count": {
+      "value": 150000.0,
+      "flag": "normal"
+    }
+  },
+  "timestamp": "20251202_203017"
+}

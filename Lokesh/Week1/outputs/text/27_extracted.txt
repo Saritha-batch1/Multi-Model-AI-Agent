@@ -1,0 +1,668 @@
+laboratory investigation report
+patient name : mrs. meena sharma centre : 2277 - home collection dncr
+age/gender : 53 y 0 m 0 d /f op/ip no/uhid : //
+maxid/lab id : ml04584243/2032042400426 collection date/time: 04/apr/2024 08:10am
+ref doctor : self reporting date/time : 04/apr/2024 03:25pm
+hematology
+sin no:b2b5138603
+wellwise platinum profile
+complete haemogram, peripheral smear and esr,edta
+date 04/apr/2024 unit bio ref interval
+08:10am
+haemoglobin 8.3 g/dl 12.0 - 15.0
+modified cyanmethemoglobin
+packed cell, volume 28.5 % 40-50
+calculated
+total leucocyte count (tlc) 10.0 10~9/l 4.0-10.0
+electrical impedance
+rbc count 4.75 10~12/l 3.8-4.8
+electrical impedance
+mcv 60.0 fl 83-101
+electrical impedance
+mch 17.4 pg 27-32
+calculated
+mchc 29.0 g/dl 31.5-34.5
+calculated
+platelet count 160 10~9/l 150-410
+electrical impedance
+mpv 10.7 fl 7.8-11.2
+calculated
+rdw 20.8 % 11.5-14.5
+calculated
+differential cell count
+vcs / light microscopy
+neutrophils 68 % 40-80
+lymphocytes 20 % 20-40
+monocytes 06 % 2-10
+eosinophils 06 % 1-6
+absolute leukocyte count
+calculated from tlc & dlc
+absolute neutrophil count 6.8 10~9/l 2.0-7.0
+absolute lymphocyte count 2.0 10~9/l 1.0-3.0
+absolute monocyte count 0.6 10~9/l 0.2-1.0
+absolute eosinophil count 0.6 10~9/l 0.02-0.5
+esr (modified 12 mm/hr <=19
+westergren)
+peripheral smear
+examination
+rbc- anisocytosis (++) microcytes (+++) hypochromia (+++)
+wbc- counts within normal limit
+page 1 of 21
+(cid:55)(cid:72)(cid:86)(cid:87)(cid:3)(cid:51)(cid:72)(cid:85)(cid:73)(cid:82)(cid:85)(cid:80)(cid:72)(cid:71)(cid:3)(cid:68)(cid:87)(cid:3)(cid:29)(cid:20)(cid:19)(cid:25)(cid:19)(cid:3)(cid:16)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:43)(cid:82)(cid:86)(cid:83)(cid:76)(cid:87)(cid:68)(cid:79)(cid:3)(cid:54)(cid:75)(cid:68)(cid:79)(cid:76)(cid:80)(cid:68)(cid:85)(cid:3)(cid:37)(cid:68)(cid:74)(cid:75)(cid:15)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:47)(cid:68)(cid:69)
+(cid:37)(cid:82)(cid:82)(cid:78)(cid:76)(cid:81)(cid:74)(cid:3)(cid:38)(cid:72)(cid:81)(cid:87)(cid:85)(cid:72)(cid:3)(cid:29)(cid:21)(cid:21)(cid:26)(cid:26)(cid:3)(cid:16)(cid:3)(cid:43)(cid:82)(cid:80)(cid:72)(cid:3)(cid:38)(cid:82)(cid:79)(cid:79)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:39)(cid:49)(cid:38)(cid:53)(cid:15)(cid:3)(cid:49)(cid:16)(cid:20)(cid:20)(cid:19)(cid:15)(cid:3)(cid:51)(cid:68)(cid:81)(cid:70)(cid:75)(cid:86)(cid:75)(cid:72)(cid:72)(cid:79)(cid:3)(cid:51)(cid:68)(cid:85)(cid:78)(cid:15)(cid:3)(cid:26)(cid:28)(cid:27)(cid:21)(cid:20)(cid:19)(cid:19)(cid:21)(cid:19)(cid:19)
+(cid:55)(cid:75)(cid:72)(cid:3)(cid:68)(cid:88)(cid:87)(cid:75)(cid:72)(cid:81)(cid:87)(cid:76)(cid:70)(cid:76)(cid:87)(cid:92)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:85)(cid:72)(cid:83)(cid:82)(cid:85)(cid:87)(cid:3)(cid:70)(cid:68)(cid:81)(cid:3)(cid:69)(cid:72)(cid:3)(cid:89)(cid:72)(cid:85)(cid:76)(cid:73)(cid:76)(cid:72)(cid:71)(cid:3)(cid:69)(cid:92)(cid:3)(cid:86)(cid:70)(cid:68)(cid:81)(cid:81)(cid:76)(cid:81)(cid:74)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:52)(cid:3)(cid:53)(cid:3)(cid:38)(cid:82)(cid:71)(cid:72)(cid:3)(cid:82)(cid:81)(cid:3)(cid:87)(cid:82)(cid:83)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:83)(cid:68)(cid:74)(cid:72)
+laboratory investigation report
+patient name : mrs. meena sharma centre : 2277 - home collection dncr
+age/gender : 53 y 0 m 0 d /f op/ip no/uhid : //
+maxid/lab id : ml04584243/2032042400426 collection date/time: 04/apr/2024 08:10am
+ref doctor : self reporting date/time : 04/apr/2024 03:25pm
+hematology
+sin no:b2b5138603
+wellwise platinum profile
+platelet- adequate
+impression- microcytic hypochromic anaemia
+advise- serum iron, serum ferritin and tibc
+kindly correlate with clinical findings
+*** end of report ***
+page 2 of 21
+(cid:55)(cid:72)(cid:86)(cid:87)(cid:3)(cid:51)(cid:72)(cid:85)(cid:73)(cid:82)(cid:85)(cid:80)(cid:72)(cid:71)(cid:3)(cid:68)(cid:87)(cid:3)(cid:29)(cid:20)(cid:19)(cid:25)(cid:19)(cid:3)(cid:16)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:43)(cid:82)(cid:86)(cid:83)(cid:76)(cid:87)(cid:68)(cid:79)(cid:3)(cid:54)(cid:75)(cid:68)(cid:79)(cid:76)(cid:80)(cid:68)(cid:85)(cid:3)(cid:37)(cid:68)(cid:74)(cid:75)(cid:15)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:47)(cid:68)(cid:69)
+(cid:37)(cid:82)(cid:82)(cid:78)(cid:76)(cid:81)(cid:74)(cid:3)(cid:38)(cid:72)(cid:81)(cid:87)(cid:85)(cid:72)(cid:3)(cid:29)(cid:21)(cid:21)(cid:26)(cid:26)(cid:3)(cid:16)(cid:3)(cid:43)(cid:82)(cid:80)(cid:72)(cid:3)(cid:38)(cid:82)(cid:79)(cid:79)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:39)(cid:49)(cid:38)(cid:53)(cid:15)(cid:3)(cid:49)(cid:16)(cid:20)(cid:20)(cid:19)(cid:15)(cid:3)(cid:51)(cid:68)(cid:81)(cid:70)(cid:75)(cid:86)(cid:75)(cid:72)(cid:72)(cid:79)(cid:3)(cid:51)(cid:68)(cid:85)(cid:78)(cid:15)(cid:3)(cid:26)(cid:28)(cid:27)(cid:21)(cid:20)(cid:19)(cid:19)(cid:21)(cid:19)(cid:19)
+(cid:55)(cid:75)(cid:72)(cid:3)(cid:68)(cid:88)(cid:87)(cid:75)(cid:72)(cid:81)(cid:87)(cid:76)(cid:70)(cid:76)(cid:87)(cid:92)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:85)(cid:72)(cid:83)(cid:82)(cid:85)(cid:87)(cid:3)(cid:70)(cid:68)(cid:81)(cid:3)(cid:69)(cid:72)(cid:3)(cid:89)(cid:72)(cid:85)(cid:76)(cid:73)(cid:76)(cid:72)(cid:71)(cid:3)(cid:69)(cid:92)(cid:3)(cid:86)(cid:70)(cid:68)(cid:81)(cid:81)(cid:76)(cid:81)(cid:74)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:52)(cid:3)(cid:53)(cid:3)(cid:38)(cid:82)(cid:71)(cid:72)(cid:3)(cid:82)(cid:81)(cid:3)(cid:87)(cid:82)(cid:83)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:83)(cid:68)(cid:74)(cid:72)
+laboratory investigation report
+patient name : mrs. meena sharma centre : 2277 - home collection dncr
+age/gender : 53 y 0 m 0 d /f op/ip no/uhid : //
+maxid/lab id : ml04584243/2032042400426 collection date/time: 04/apr/2024 08:10am
+ref doctor : self reporting date/time : 04/apr/2024 02:15pm
+clinical biochemistry
+sin no:b2b5138603
+wellwise platinum profile
+fasting blood sugar (glucose) , (fbs), fluoride plasma
+date 04/apr/2024 unit bio ref interval
+08:10am
+glucose (fasting) 102 mg/dl 74 - 99
+hba1c (glycated/ glycosylated hemoglobin) test
+hplc
+date 04/apr/2024 unit bio ref
+08:10am interval
+glycosylated 5.0 % < 5.7
+haemoglobin(hb a1c)
+glycosylated 31.13 mmol/mol < 39.0
+haemoglobin(hb a1c) ifcc
+average glucose value for 96.8 mg/dl
+the last 3 months
+average glucose value for 5.36 mmol/l
+the last 3 months ifcc
+interpretation the following hba1c ranges recommended by the american diabetes assocation(ada) may be used as an aid in the diagnosis of diabetes
+mellitus.
+hba1c(ngsp %) hba1c(ifcc mmol/mol) suggested diagnosis
+>6.5 >48 diabetic
+5.7 - 6.4 39 - 47 pre- diabetic
+< 5.7 < 39 non - diabetic
+hba1c provides a useful index of average glycaemia over the preceding 6-8 weeks.
+it is suggested that hba1c is measured every 6 months in stable patients, every 3 months in patients with unstable metabolic control and every month in pregnancy.
+increased glycated hemoglobin is a reflection of hyperglycemia.
+kindly correlate with clinical findings
+*** end of report ***
+page 3 of 21
+(cid:55)(cid:72)(cid:86)(cid:87)(cid:3)(cid:51)(cid:72)(cid:85)(cid:73)(cid:82)(cid:85)(cid:80)(cid:72)(cid:71)(cid:3)(cid:68)(cid:87)(cid:3)(cid:29)(cid:20)(cid:19)(cid:25)(cid:19)(cid:3)(cid:16)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:43)(cid:82)(cid:86)(cid:83)(cid:76)(cid:87)(cid:68)(cid:79)(cid:3)(cid:54)(cid:75)(cid:68)(cid:79)(cid:76)(cid:80)(cid:68)(cid:85)(cid:3)(cid:37)(cid:68)(cid:74)(cid:75)(cid:15)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:47)(cid:68)(cid:69)
+(cid:37)(cid:82)(cid:82)(cid:78)(cid:76)(cid:81)(cid:74)(cid:3)(cid:38)(cid:72)(cid:81)(cid:87)(cid:85)(cid:72)(cid:3)(cid:29)(cid:21)(cid:21)(cid:26)(cid:26)(cid:3)(cid:16)(cid:3)(cid:43)(cid:82)(cid:80)(cid:72)(cid:3)(cid:38)(cid:82)(cid:79)(cid:79)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:39)(cid:49)(cid:38)(cid:53)(cid:15)(cid:3)(cid:49)(cid:16)(cid:20)(cid:20)(cid:19)(cid:15)(cid:3)(cid:51)(cid:68)(cid:81)(cid:70)(cid:75)(cid:86)(cid:75)(cid:72)(cid:72)(cid:79)(cid:3)(cid:51)(cid:68)(cid:85)(cid:78)(cid:15)(cid:3)(cid:26)(cid:28)(cid:27)(cid:21)(cid:20)(cid:19)(cid:19)(cid:21)(cid:19)(cid:19)
+(cid:55)(cid:75)(cid:72)(cid:3)(cid:68)(cid:88)(cid:87)(cid:75)(cid:72)(cid:81)(cid:87)(cid:76)(cid:70)(cid:76)(cid:87)(cid:92)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:85)(cid:72)(cid:83)(cid:82)(cid:85)(cid:87)(cid:3)(cid:70)(cid:68)(cid:81)(cid:3)(cid:69)(cid:72)(cid:3)(cid:89)(cid:72)(cid:85)(cid:76)(cid:73)(cid:76)(cid:72)(cid:71)(cid:3)(cid:69)(cid:92)(cid:3)(cid:86)(cid:70)(cid:68)(cid:81)(cid:81)(cid:76)(cid:81)(cid:74)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:52)(cid:3)(cid:53)(cid:3)(cid:38)(cid:82)(cid:71)(cid:72)(cid:3)(cid:82)(cid:81)(cid:3)(cid:87)(cid:82)(cid:83)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:83)(cid:68)(cid:74)(cid:72)
+laboratory investigation report
+patient name : mrs. meena sharma centre : 2277 - home collection dncr
+age/gender : 53 y 0 m 0 d /f op/ip no/uhid : //
+maxid/lab id : ml04584243/2032042400426 collection date/time: 04/apr/2024 08:10am
+ref doctor : self reporting date/time : 04/apr/2024 02:54pm
+immunoassay
+sin no:b2b5138603
+wellwise platinum profile
+thyroid profile*,serum
+date 04/apr/2024 unit bio ref
+08:10am interval
+free triiodothyronine (ft3) 3.48 pg/ml 2.6 - 4.2
+clia
+free thyroxine (ft4) 0.81 ng/dl 0.58 - 1.64
+clia
+thyroid stimulating 7.281 (cid:151)(cid:44)(cid:56)(cid:18)(cid:80)(cid:47) 0.38 - 5.33
+hormone
+clia
+comment
+premature cord blood
+upto 2 1st 2nd 3rd
+parameter unit (28 - 36 (> 37
+month trimester trimester trimester
+weeks) weeks)
+ft3 pg/ml 0.15 - 3.91 2.4 - 5.6 2.11 - 3.83 1.96 - 3.38 1.96 - 3.38
+ft4 ng/dl 1.7 - 4.0 0.7- 2.0 0.5 - 1.6 0.5 - 1.6
+tsh uiu/ml 0.7 - 27.0 2.3 - 13.2 0.5 - 10 0.05 - 3.7 0.31 - 4.35 0.41 - 5.18
+note :(cid:3)(cid:55)(cid:54)(cid:43)(cid:3)(cid:79)(cid:72)(cid:89)(cid:72)(cid:79)(cid:86)(cid:3)(cid:68)(cid:85)(cid:72)(cid:3)(cid:86)(cid:88)(cid:69)(cid:77)(cid:72)(cid:70)(cid:87)(cid:3)(cid:87)(cid:82)(cid:3)(cid:70)(cid:76)(cid:85)(cid:70)(cid:68)(cid:71)(cid:76)(cid:68)(cid:81)(cid:3)(cid:3)(cid:89)(cid:68)(cid:85)(cid:76)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:15)(cid:3)(cid:85)(cid:72)(cid:68)(cid:70)(cid:75)(cid:76)(cid:81)(cid:74)(cid:3)(cid:83)(cid:72)(cid:68)(cid:78)(cid:3)(cid:79)(cid:72)(cid:89)(cid:72)(cid:79)(cid:86)(cid:3)(cid:69)(cid:72)(cid:87)(cid:90)(cid:72)(cid:72)(cid:81)(cid:3)(cid:21)(cid:3)(cid:177)(cid:3)(cid:23)(cid:3)(cid:68)(cid:80)(cid:3)
+(cid:68)(cid:81)(cid:71)(cid:3)(cid:68)(cid:87)(cid:3)(cid:68)(cid:3)(cid:80)(cid:76)(cid:81)(cid:76)(cid:80)(cid:88)(cid:80)(cid:3)(cid:69)(cid:72)(cid:87)(cid:90)(cid:72)(cid:72)(cid:81)(cid:3)(cid:25)(cid:3)(cid:177)(cid:3)(cid:20)(cid:19)(cid:3)(cid:83)(cid:80)(cid:17)(cid:3)(cid:55)(cid:75)(cid:72)(cid:3)(cid:89)(cid:68)(cid:85)(cid:76)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:76)(cid:86)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:82)(cid:85)(cid:71)(cid:72)(cid:85)(cid:3)(cid:82)(cid:73)(cid:3)(cid:24)(cid:19)(cid:8)(cid:3)(cid:16)(cid:3)(cid:21)(cid:19)(cid:25)(cid:3)(cid:8)(cid:15)(cid:3)(cid:75)(cid:72)(cid:81)(cid:70)(cid:72)(cid:3)
+time of the day has influence on the measured serum tsh concentrations.
+kindly correlate with clinical findings
+*** end of report ***
+page 4 of 21
+(cid:55)(cid:72)(cid:86)(cid:87)(cid:3)(cid:51)(cid:72)(cid:85)(cid:73)(cid:82)(cid:85)(cid:80)(cid:72)(cid:71)(cid:3)(cid:68)(cid:87)(cid:3)(cid:29)(cid:20)(cid:19)(cid:25)(cid:19)(cid:3)(cid:16)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:43)(cid:82)(cid:86)(cid:83)(cid:76)(cid:87)(cid:68)(cid:79)(cid:3)(cid:54)(cid:75)(cid:68)(cid:79)(cid:76)(cid:80)(cid:68)(cid:85)(cid:3)(cid:37)(cid:68)(cid:74)(cid:75)(cid:15)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:47)(cid:68)(cid:69)
+(cid:37)(cid:82)(cid:82)(cid:78)(cid:76)(cid:81)(cid:74)(cid:3)(cid:38)(cid:72)(cid:81)(cid:87)(cid:85)(cid:72)(cid:3)(cid:29)(cid:21)(cid:21)(cid:26)(cid:26)(cid:3)(cid:16)(cid:3)(cid:43)(cid:82)(cid:80)(cid:72)(cid:3)(cid:38)(cid:82)(cid:79)(cid:79)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:39)(cid:49)(cid:38)(cid:53)(cid:15)(cid:3)(cid:49)(cid:16)(cid:20)(cid:20)(cid:19)(cid:15)(cid:3)(cid:51)(cid:68)(cid:81)(cid:70)(cid:75)(cid:86)(cid:75)(cid:72)(cid:72)(cid:79)(cid:3)(cid:51)(cid:68)(cid:85)(cid:78)(cid:15)(cid:3)(cid:26)(cid:28)(cid:27)(cid:21)(cid:20)(cid:19)(cid:19)(cid:21)(cid:19)(cid:19)
+(cid:55)(cid:75)(cid:72)(cid:3)(cid:68)(cid:88)(cid:87)(cid:75)(cid:72)(cid:81)(cid:87)(cid:76)(cid:70)(cid:76)(cid:87)(cid:92)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:85)(cid:72)(cid:83)(cid:82)(cid:85)(cid:87)(cid:3)(cid:70)(cid:68)(cid:81)(cid:3)(cid:69)(cid:72)(cid:3)(cid:89)(cid:72)(cid:85)(cid:76)(cid:73)(cid:76)(cid:72)(cid:71)(cid:3)(cid:69)(cid:92)(cid:3)(cid:86)(cid:70)(cid:68)(cid:81)(cid:81)(cid:76)(cid:81)(cid:74)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:52)(cid:3)(cid:53)(cid:3)(cid:38)(cid:82)(cid:71)(cid:72)(cid:3)(cid:82)(cid:81)(cid:3)(cid:87)(cid:82)(cid:83)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:83)(cid:68)(cid:74)(cid:72)
+laboratory investigation report
+patient name : mrs. meena sharma centre : 2277 - home collection dncr
+age/gender : 53 y 0 m 0 d /f op/ip no/uhid : //
+maxid/lab id : ml04584243/2032042400426 collection date/time: 04/apr/2024 08:10am
+ref doctor : self reporting date/time : 04/apr/2024 12:39pm
+clinical biochemistry
+sin no:b2b5138603
+wellwise platinum profile
+kidney function test (kft) profile with calcium, uric acid, serum
+date 04/apr/2024 unit bio ref
+08:10am interval
+urea 23.4 mg/dl 17.0 - 43.0
+urease, uv
+blood urea nitrogen 10.93 mg/dl 7.9 - 20.0
+urease, uv
+creatinine 0.56 mg/dl 0.6 - 1.1
+alkaline picrate kinetic
+egfr by mdrd 113.24 ml/min/1.73
+mdrd (cid:80)(cid:240)
+egfr by ckd epi 2021 109.06
+bun/creatinineratio 19.52 ratio 12:1 - 20:1
+calculated
+uric acid 4.5 mg/dl 2.6 - 6.0
+uricase, colorimetric
+calcium (total) 9.51 mg/dl 8.8 - 10.6
+arsenazo iii
+sodium 139.9 mmol/l 136 - 146
+ise indirect
+potassium 4.58 mmol/l 3.5 - 5.1
+ise indirect
+chloride 105.7 mmol/l 101 - 109
+ise indirect
+bicarbonate 27.0 mmol/l 21 - 31
+enzymatic
+ref. range (cid:72)(cid:42)(cid:41)(cid:53)(cid:3)(cid:16)(cid:3)(cid:40)(cid:86)(cid:87)(cid:76)(cid:80)(cid:68)(cid:87)(cid:72)(cid:71)(cid:3)(cid:42)(cid:79)(cid:82)(cid:80)(cid:72)(cid:85)(cid:88)(cid:79)(cid:68)(cid:85)(cid:3)(cid:41)(cid:76)(cid:79)(cid:87)(cid:72)(cid:85)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:53)(cid:68)(cid:87)(cid:72)(cid:3)(cid:76)(cid:86)(cid:3)(cid:70)(cid:68)(cid:79)(cid:70)(cid:88)(cid:79)(cid:68)(cid:87)(cid:72)(cid:71)(cid:3)(cid:69)(cid:92)(cid:3)(cid:48)(cid:39)(cid:53)(cid:39)(cid:3)(cid:72)(cid:84)(cid:88)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:90)(cid:75)(cid:76)(cid:70)(cid:75)(cid:3)(cid:76)(cid:86)(cid:3)(cid:80)(cid:82)(cid:86)(cid:87)(cid:3)(cid:68)(cid:70)(cid:70)(cid:88)(cid:85)(cid:68)(cid:87)(cid:72)(cid:3)(cid:73)(cid:82)(cid:85)(cid:3)(cid:42)(cid:41)(cid:53)(cid:86)(cid:3)(cid:148)(cid:3)(cid:3)(cid:25)(cid:19)(cid:80)(cid:79)(cid:3)(cid:18)(cid:3)(cid:80)(cid:76)(cid:81)(cid:3)(cid:18)(cid:20)(cid:17)(cid:26)(cid:22)(cid:3)(cid:80)(cid:240)(cid:17)(cid:48)(cid:39)(cid:53)(cid:39)
+equation is used for adult population only.
+(cid:31)(cid:25)(cid:19)(cid:80)(cid:79)(cid:3)(cid:18)(cid:3)(cid:80)(cid:76)(cid:81)(cid:3)(cid:18)(cid:3)(cid:20)(cid:17)(cid:26)(cid:22)(cid:3)(cid:80)(cid:240)(cid:3)(cid:16)(cid:3)(cid:38)(cid:75)(cid:85)(cid:82)(cid:81)(cid:76)(cid:70)(cid:3)(cid:46)(cid:76)(cid:71)(cid:81)(cid:72)(cid:92)(cid:3)(cid:39)(cid:76)(cid:86)(cid:72)(cid:68)(cid:86)(cid:72)
+(cid:31)(cid:20)(cid:24)(cid:3)(cid:80)(cid:79)(cid:3)(cid:18)(cid:3)(cid:80)(cid:76)(cid:81)(cid:3)(cid:18)(cid:20)(cid:17)(cid:26)(cid:22)(cid:3)(cid:80)(cid:240)(cid:3)(cid:16)(cid:3)(cid:46)(cid:76)(cid:71)(cid:81)(cid:72)(cid:92)(cid:3)(cid:73)(cid:68)(cid:76)(cid:79)(cid:88)(cid:85)(cid:72)
+bun/creatinine ratio :-
+increased in reduced renal perfusion (e.g. dehydration, hypovolemic shock, congestive heart failure) or obstructive
+uropathy. decreased in acute renal tubular necrosis.
+page 5 of 21
+(cid:55)(cid:72)(cid:86)(cid:87)(cid:3)(cid:51)(cid:72)(cid:85)(cid:73)(cid:82)(cid:85)(cid:80)(cid:72)(cid:71)(cid:3)(cid:68)(cid:87)(cid:3)(cid:29)(cid:20)(cid:19)(cid:25)(cid:19)(cid:3)(cid:16)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:43)(cid:82)(cid:86)(cid:83)(cid:76)(cid:87)(cid:68)(cid:79)(cid:3)(cid:54)(cid:75)(cid:68)(cid:79)(cid:76)(cid:80)(cid:68)(cid:85)(cid:3)(cid:37)(cid:68)(cid:74)(cid:75)(cid:15)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:47)(cid:68)(cid:69)
+(cid:37)(cid:82)(cid:82)(cid:78)(cid:76)(cid:81)(cid:74)(cid:3)(cid:38)(cid:72)(cid:81)(cid:87)(cid:85)(cid:72)(cid:3)(cid:29)(cid:21)(cid:21)(cid:26)(cid:26)(cid:3)(cid:16)(cid:3)(cid:43)(cid:82)(cid:80)(cid:72)(cid:3)(cid:38)(cid:82)(cid:79)(cid:79)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:39)(cid:49)(cid:38)(cid:53)(cid:15)(cid:3)(cid:49)(cid:16)(cid:20)(cid:20)(cid:19)(cid:15)(cid:3)(cid:51)(cid:68)(cid:81)(cid:70)(cid:75)(cid:86)(cid:75)(cid:72)(cid:72)(cid:79)(cid:3)(cid:51)(cid:68)(cid:85)(cid:78)(cid:15)(cid:3)(cid:26)(cid:28)(cid:27)(cid:21)(cid:20)(cid:19)(cid:19)(cid:21)(cid:19)(cid:19)
+(cid:55)(cid:75)(cid:72)(cid:3)(cid:68)(cid:88)(cid:87)(cid:75)(cid:72)(cid:81)(cid:87)(cid:76)(cid:70)(cid:76)(cid:87)(cid:92)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:85)(cid:72)(cid:83)(cid:82)(cid:85)(cid:87)(cid:3)(cid:70)(cid:68)(cid:81)(cid:3)(cid:69)(cid:72)(cid:3)(cid:89)(cid:72)(cid:85)(cid:76)(cid:73)(cid:76)(cid:72)(cid:71)(cid:3)(cid:69)(cid:92)(cid:3)(cid:86)(cid:70)(cid:68)(cid:81)(cid:81)(cid:76)(cid:81)(cid:74)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:52)(cid:3)(cid:53)(cid:3)(cid:38)(cid:82)(cid:71)(cid:72)(cid:3)(cid:82)(cid:81)(cid:3)(cid:87)(cid:82)(cid:83)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:83)(cid:68)(cid:74)(cid:72)
+laboratory investigation report
+patient name : mrs. meena sharma centre : 2277 - home collection dncr
+age/gender : 53 y 0 m 0 d /f op/ip no/uhid : //
+maxid/lab id : ml04584243/2032042400426 collection date/time: 04/apr/2024 08:10am
+ref doctor : self reporting date/time : 04/apr/2024 12:38pm
+clinical biochemistry
+sin no:b2b5138603
+wellwise platinum profile
+inorganic phosphorus, serum
+date 04/apr/2024 unit bio ref interval
+08:10am
+phosphorus(inorg) 4.59 mg/dl 2.5 - 4.5
+phosphomolybdate-uv
+interpretation
+increased in osteolytic metastatic bone tumors, myelogenous leukemia, sarcoidosis, milk-alkali syndrome, vitamin d intoxcation, healing fractures, renal failure,
+hyperparathyroidism, pth resistance (pseudohypoparathyroidism) and diabetes mellitus with ketosis.
+decreased in osteomalacia, steatorrhea, renal tubular acidosis, growth hormone deficiency, acute alcoholism, gram-negative bacterial septicemia, hypokalemia, familial
+hypophosphatemic rickets, vitamin d deficiency, severe malnutrition, malabsorption, secondary diarrhea, vomiting, nasogastric suction, primary hyperthyroidism
+and pth producing tumors.
+page 6 of 21
+(cid:55)(cid:72)(cid:86)(cid:87)(cid:3)(cid:51)(cid:72)(cid:85)(cid:73)(cid:82)(cid:85)(cid:80)(cid:72)(cid:71)(cid:3)(cid:68)(cid:87)(cid:3)(cid:29)(cid:20)(cid:19)(cid:25)(cid:19)(cid:3)(cid:16)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:43)(cid:82)(cid:86)(cid:83)(cid:76)(cid:87)(cid:68)(cid:79)(cid:3)(cid:54)(cid:75)(cid:68)(cid:79)(cid:76)(cid:80)(cid:68)(cid:85)(cid:3)(cid:37)(cid:68)(cid:74)(cid:75)(cid:15)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:47)(cid:68)(cid:69)
+(cid:37)(cid:82)(cid:82)(cid:78)(cid:76)(cid:81)(cid:74)(cid:3)(cid:38)(cid:72)(cid:81)(cid:87)(cid:85)(cid:72)(cid:3)(cid:29)(cid:21)(cid:21)(cid:26)(cid:26)(cid:3)(cid:16)(cid:3)(cid:43)(cid:82)(cid:80)(cid:72)(cid:3)(cid:38)(cid:82)(cid:79)(cid:79)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:39)(cid:49)(cid:38)(cid:53)(cid:15)(cid:3)(cid:49)(cid:16)(cid:20)(cid:20)(cid:19)(cid:15)(cid:3)(cid:51)(cid:68)(cid:81)(cid:70)(cid:75)(cid:86)(cid:75)(cid:72)(cid:72)(cid:79)(cid:3)(cid:51)(cid:68)(cid:85)(cid:78)(cid:15)(cid:3)(cid:26)(cid:28)(cid:27)(cid:21)(cid:20)(cid:19)(cid:19)(cid:21)(cid:19)(cid:19)
+(cid:55)(cid:75)(cid:72)(cid:3)(cid:68)(cid:88)(cid:87)(cid:75)(cid:72)(cid:81)(cid:87)(cid:76)(cid:70)(cid:76)(cid:87)(cid:92)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:85)(cid:72)(cid:83)(cid:82)(cid:85)(cid:87)(cid:3)(cid:70)(cid:68)(cid:81)(cid:3)(cid:69)(cid:72)(cid:3)(cid:89)(cid:72)(cid:85)(cid:76)(cid:73)(cid:76)(cid:72)(cid:71)(cid:3)(cid:69)(cid:92)(cid:3)(cid:86)(cid:70)(cid:68)(cid:81)(cid:81)(cid:76)(cid:81)(cid:74)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:52)(cid:3)(cid:53)(cid:3)(cid:38)(cid:82)(cid:71)(cid:72)(cid:3)(cid:82)(cid:81)(cid:3)(cid:87)(cid:82)(cid:83)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:83)(cid:68)(cid:74)(cid:72)
+laboratory investigation report
+patient name : mrs. meena sharma centre : 2277 - home collection dncr
+age/gender : 53 y 0 m 0 d /f op/ip no/uhid : //
+maxid/lab id : ml04584243/2032042400426 collection date/time: 04/apr/2024 08:10am
+ref doctor : self reporting date/time : 04/apr/2024 12:39pm
+clinical biochemistry
+sin no:b2b5138603
+wellwise platinum profile
+liver function test (lft), serum
+date 04/apr/2024 unit bio ref interval
+08:10am
+total protein 7.80 g/dl 6.6 - 8.3
+biuret
+albumin 4.4 g/dl 3.5 - 5.2
+bromcresol green (bcg)
+globulin 3.4 g/dl 2.3 - 3.5
+calculated
+a.g. ratio 1.3 1.2 - 1.5
+calculated
+bilirubin (total) 0.81 mg/dl 0.3 - 1.2
+dpd
+bilirubin (direct) 0.13 mg/dl 0.0 - 0.2
+diazotization
+bilirubin (indirect) 0.68 mg/dl 0.1 - 1.0
+calculated
+sgot- aspartate 27 u/l < 50
+transaminase (ast)
+uv without p5p
+sgpt- alanine 25 u/l < 35
+transaminase (alt)
+uv without p5p
+ast/alt ratio 1.08 ratio
+calculated
+alkaline phosphatase 147 u/l 30 - 120
+pnpp, amp buffer
+ggtp (gamma gt), serum 37.0 u/l 7 - 50
+enzymatic rate
+interpretation ast/alt ratio : -
+(cid:3)(cid:44)(cid:81)(cid:3)(cid:38)(cid:68)(cid:86)(cid:72)(cid:3)(cid:82)(cid:73)(cid:3)(cid:71)(cid:72)(cid:85)(cid:68)(cid:81)(cid:74)(cid:72)(cid:71)(cid:3)(cid:36)(cid:54)(cid:55)(cid:3)(cid:68)(cid:81)(cid:71)(cid:18)(cid:82)(cid:85)(cid:3)(cid:36)(cid:47)(cid:55)(cid:15)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:36)(cid:54)(cid:55)(cid:18)(cid:36)(cid:47)(cid:55)(cid:3)(cid:85)(cid:68)(cid:87)(cid:76)(cid:82)(cid:3)(cid:76)(cid:86)(cid:3)(cid:33)(cid:3)(cid:21)(cid:17)(cid:19)(cid:3)(cid:76)(cid:81)(cid:3)(cid:68)(cid:79)(cid:70)(cid:82)(cid:75)(cid:82)(cid:79)(cid:76)(cid:70)(cid:3)(cid:79)(cid:76)(cid:89)(cid:72)(cid:85)(cid:3)(cid:71)(cid:68)(cid:80)(cid:68)(cid:74)(cid:72)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:31)(cid:3)(cid:21)(cid:17)(cid:19)(cid:3)(cid:76)(cid:81)(cid:3)(cid:81)(cid:82)(cid:81)(cid:3)(cid:177)(cid:3)(cid:68)(cid:79)(cid:70)(cid:82)(cid:75)(cid:82)(cid:79)(cid:76)(cid:70)(cid:3)(cid:79)(cid:76)(cid:89)(cid:72)(cid:85)(cid:3)(cid:71)(cid:68)(cid:80)(cid:68)(cid:74)(cid:72)
+page 7 of 21
+(cid:55)(cid:72)(cid:86)(cid:87)(cid:3)(cid:51)(cid:72)(cid:85)(cid:73)(cid:82)(cid:85)(cid:80)(cid:72)(cid:71)(cid:3)(cid:68)(cid:87)(cid:3)(cid:29)(cid:20)(cid:19)(cid:25)(cid:19)(cid:3)(cid:16)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:43)(cid:82)(cid:86)(cid:83)(cid:76)(cid:87)(cid:68)(cid:79)(cid:3)(cid:54)(cid:75)(cid:68)(cid:79)(cid:76)(cid:80)(cid:68)(cid:85)(cid:3)(cid:37)(cid:68)(cid:74)(cid:75)(cid:15)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:47)(cid:68)(cid:69)
+(cid:37)(cid:82)(cid:82)(cid:78)(cid:76)(cid:81)(cid:74)(cid:3)(cid:38)(cid:72)(cid:81)(cid:87)(cid:85)(cid:72)(cid:3)(cid:29)(cid:21)(cid:21)(cid:26)(cid:26)(cid:3)(cid:16)(cid:3)(cid:43)(cid:82)(cid:80)(cid:72)(cid:3)(cid:38)(cid:82)(cid:79)(cid:79)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:39)(cid:49)(cid:38)(cid:53)(cid:15)(cid:3)(cid:49)(cid:16)(cid:20)(cid:20)(cid:19)(cid:15)(cid:3)(cid:51)(cid:68)(cid:81)(cid:70)(cid:75)(cid:86)(cid:75)(cid:72)(cid:72)(cid:79)(cid:3)(cid:51)(cid:68)(cid:85)(cid:78)(cid:15)(cid:3)(cid:26)(cid:28)(cid:27)(cid:21)(cid:20)(cid:19)(cid:19)(cid:21)(cid:19)(cid:19)
+(cid:55)(cid:75)(cid:72)(cid:3)(cid:68)(cid:88)(cid:87)(cid:75)(cid:72)(cid:81)(cid:87)(cid:76)(cid:70)(cid:76)(cid:87)(cid:92)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:85)(cid:72)(cid:83)(cid:82)(cid:85)(cid:87)(cid:3)(cid:70)(cid:68)(cid:81)(cid:3)(cid:69)(cid:72)(cid:3)(cid:89)(cid:72)(cid:85)(cid:76)(cid:73)(cid:76)(cid:72)(cid:71)(cid:3)(cid:69)(cid:92)(cid:3)(cid:86)(cid:70)(cid:68)(cid:81)(cid:81)(cid:76)(cid:81)(cid:74)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:52)(cid:3)(cid:53)(cid:3)(cid:38)(cid:82)(cid:71)(cid:72)(cid:3)(cid:82)(cid:81)(cid:3)(cid:87)(cid:82)(cid:83)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:83)(cid:68)(cid:74)(cid:72)
+laboratory investigation report
+patient name : mrs. meena sharma centre : 2277 - home collection dncr
+age/gender : 53 y 0 m 0 d /f op/ip no/uhid : //
+maxid/lab id : ml04584243/2032042400426 collection date/time: 04/apr/2024 08:10am
+ref doctor : self reporting date/time : 04/apr/2024 01:21pm
+clinical biochemistry
+sin no:b2b5138603
+wellwise platinum profile
+lipid profile,serum
+date 04/apr/2024 unit bio ref
+08:10am interval
+cholesterol 154 mg/dl < 200
+cholesterol oxidase, esterase,
+peroxidase
+hdl cholesterol 47.9 mg/dl > 40
+direct measure, immunoinhibition
+ldl cholesterol 97 mg/dl < 100
+direct measure
+triglyceride 114.0 mg/dl < 150
+enzymatic, end point
+vldl cholesterol 22.8 mg/dl < 30
+calculated
+total cholesterol/hdl ratio 3.2 0.0-4.9
+calculated
+non-hdl cholesterol 106.10 mg/dl < 130
+calculated
+hdl/ldl 0.49 ratio 0.3 - 0.4
+calculated
+interpretation
+optimal: < 100 mg/dl
+near optimal/ above optimal: 100-
+desirable: < 200 mg/dl
+129
+borderline high: 200-239
+total mg/dl
+mg/dl ldl-c
+cholesterol borderline high: 130-159 mg/dl
+(cid:43)(cid:76)(cid:74)(cid:75)(cid:3)(cid:149)(cid:3)(cid:21)(cid:23)(cid:19)(cid:3)(cid:80)(cid:74)(cid:18)(cid:71)(cid:47)
+high: 160-189 mg/dl
+(cid:57)(cid:72)(cid:85)(cid:92)(cid:3)(cid:43)(cid:76)(cid:74)(cid:75)(cid:29)(cid:3)(cid:149)(cid:3)(cid:20)(cid:28)(cid:19)(cid:3)(cid:80)(cid:74)(cid:18)(cid:71)(cid:47)
+normal: <150 mg/dl
+low hdl: < 40 mg/dl borderline high: 150-199 mg/dl
+hdl-c triglyceride
+(cid:43)(cid:76)(cid:74)(cid:75)(cid:3)(cid:43)(cid:39)(cid:47)(cid:29)(cid:3)(cid:149)(cid:3)(cid:25)(cid:19)(cid:3)(cid:80)(cid:74)(cid:18)(cid:71)(cid:47) high: 200-499 mg/dl
+(cid:57)(cid:72)(cid:85)(cid:92)(cid:3)(cid:43)(cid:76)(cid:74)(cid:75)(cid:29)(cid:3)(cid:149)(cid:3)(cid:24)(cid:19)(cid:19)(cid:3)(cid:80)(cid:74)(cid:18)(cid:71)(cid:47)
+page 8 of 21
+(cid:55)(cid:72)(cid:86)(cid:87)(cid:3)(cid:51)(cid:72)(cid:85)(cid:73)(cid:82)(cid:85)(cid:80)(cid:72)(cid:71)(cid:3)(cid:68)(cid:87)(cid:3)(cid:29)(cid:20)(cid:19)(cid:25)(cid:19)(cid:3)(cid:16)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:43)(cid:82)(cid:86)(cid:83)(cid:76)(cid:87)(cid:68)(cid:79)(cid:3)(cid:54)(cid:75)(cid:68)(cid:79)(cid:76)(cid:80)(cid:68)(cid:85)(cid:3)(cid:37)(cid:68)(cid:74)(cid:75)(cid:15)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:47)(cid:68)(cid:69)
+(cid:37)(cid:82)(cid:82)(cid:78)(cid:76)(cid:81)(cid:74)(cid:3)(cid:38)(cid:72)(cid:81)(cid:87)(cid:85)(cid:72)(cid:3)(cid:29)(cid:21)(cid:21)(cid:26)(cid:26)(cid:3)(cid:16)(cid:3)(cid:43)(cid:82)(cid:80)(cid:72)(cid:3)(cid:38)(cid:82)(cid:79)(cid:79)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:39)(cid:49)(cid:38)(cid:53)(cid:15)(cid:3)(cid:49)(cid:16)(cid:20)(cid:20)(cid:19)(cid:15)(cid:3)(cid:51)(cid:68)(cid:81)(cid:70)(cid:75)(cid:86)(cid:75)(cid:72)(cid:72)(cid:79)(cid:3)(cid:51)(cid:68)(cid:85)(cid:78)(cid:15)(cid:3)(cid:26)(cid:28)(cid:27)(cid:21)(cid:20)(cid:19)(cid:19)(cid:21)(cid:19)(cid:19)
+(cid:55)(cid:75)(cid:72)(cid:3)(cid:68)(cid:88)(cid:87)(cid:75)(cid:72)(cid:81)(cid:87)(cid:76)(cid:70)(cid:76)(cid:87)(cid:92)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:85)(cid:72)(cid:83)(cid:82)(cid:85)(cid:87)(cid:3)(cid:70)(cid:68)(cid:81)(cid:3)(cid:69)(cid:72)(cid:3)(cid:89)(cid:72)(cid:85)(cid:76)(cid:73)(cid:76)(cid:72)(cid:71)(cid:3)(cid:69)(cid:92)(cid:3)(cid:86)(cid:70)(cid:68)(cid:81)(cid:81)(cid:76)(cid:81)(cid:74)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:52)(cid:3)(cid:53)(cid:3)(cid:38)(cid:82)(cid:71)(cid:72)(cid:3)(cid:82)(cid:81)(cid:3)(cid:87)(cid:82)(cid:83)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:83)(cid:68)(cid:74)(cid:72)
+laboratory investigation report
+patient name : mrs. meena sharma centre : 2277 - home collection dncr
+age/gender : 53 y 0 m 0 d /f op/ip no/uhid : //
+maxid/lab id : ml04584243/2032042400426 collection date/time: 04/apr/2024 08:10am
+ref doctor : self reporting date/time : 04/apr/2024 01:21pm
+clinical biochemistry
+sin no:b2b5138603
+wellwise platinum profile
+creatine kinase (cpk),serum
+date 04/apr/2024 unit bio ref interval
+08:10am
+creatine kinase (cpk) 73 u/l = 171.0
+nac activated
+interpretation
+ck is elevated in most myopathies such as duchenne-muscular dystrophy, in conditions associated with muscle necrosis such as
+rhabdomyolysis, in diseases of the cns such as reyes syndrome where a 70 fold increase in ck activity indicates the severity of
+the encephalopathy. ck activity rises following myocardial damage. the diagnostic sensitivity and specificity of total ck estimation
+for the diagnosis of an mi can be improved by determining the rate of increase of ck on serial samples obtained on admission and at
+4, 8 and 12 hours thereafter. a 50% incremental increase per hour over the time period differentiates between an acute mi and non-
+infarction with an overall efficiency of 94%.
+page 9 of 21
+(cid:55)(cid:72)(cid:86)(cid:87)(cid:3)(cid:51)(cid:72)(cid:85)(cid:73)(cid:82)(cid:85)(cid:80)(cid:72)(cid:71)(cid:3)(cid:68)(cid:87)(cid:3)(cid:29)(cid:20)(cid:19)(cid:25)(cid:19)(cid:3)(cid:16)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:43)(cid:82)(cid:86)(cid:83)(cid:76)(cid:87)(cid:68)(cid:79)(cid:3)(cid:54)(cid:75)(cid:68)(cid:79)(cid:76)(cid:80)(cid:68)(cid:85)(cid:3)(cid:37)(cid:68)(cid:74)(cid:75)(cid:15)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:47)(cid:68)(cid:69)
+(cid:37)(cid:82)(cid:82)(cid:78)(cid:76)(cid:81)(cid:74)(cid:3)(cid:38)(cid:72)(cid:81)(cid:87)(cid:85)(cid:72)(cid:3)(cid:29)(cid:21)(cid:21)(cid:26)(cid:26)(cid:3)(cid:16)(cid:3)(cid:43)(cid:82)(cid:80)(cid:72)(cid:3)(cid:38)(cid:82)(cid:79)(cid:79)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:39)(cid:49)(cid:38)(cid:53)(cid:15)(cid:3)(cid:49)(cid:16)(cid:20)(cid:20)(cid:19)(cid:15)(cid:3)(cid:51)(cid:68)(cid:81)(cid:70)(cid:75)(cid:86)(cid:75)(cid:72)(cid:72)(cid:79)(cid:3)(cid:51)(cid:68)(cid:85)(cid:78)(cid:15)(cid:3)(cid:26)(cid:28)(cid:27)(cid:21)(cid:20)(cid:19)(cid:19)(cid:21)(cid:19)(cid:19)
+(cid:55)(cid:75)(cid:72)(cid:3)(cid:68)(cid:88)(cid:87)(cid:75)(cid:72)(cid:81)(cid:87)(cid:76)(cid:70)(cid:76)(cid:87)(cid:92)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:85)(cid:72)(cid:83)(cid:82)(cid:85)(cid:87)(cid:3)(cid:70)(cid:68)(cid:81)(cid:3)(cid:69)(cid:72)(cid:3)(cid:89)(cid:72)(cid:85)(cid:76)(cid:73)(cid:76)(cid:72)(cid:71)(cid:3)(cid:69)(cid:92)(cid:3)(cid:86)(cid:70)(cid:68)(cid:81)(cid:81)(cid:76)(cid:81)(cid:74)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:52)(cid:3)(cid:53)(cid:3)(cid:38)(cid:82)(cid:71)(cid:72)(cid:3)(cid:82)(cid:81)(cid:3)(cid:87)(cid:82)(cid:83)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:83)(cid:68)(cid:74)(cid:72)
+laboratory investigation report
+patient name : mrs. meena sharma centre : 2277 - home collection dncr
+age/gender : 53 y 0 m 0 d /f op/ip no/uhid : //
+maxid/lab id : ml04584243/2032042400426 collection date/time: 04/apr/2024 08:10am
+ref doctor : self reporting date/time : 04/apr/2024 01:21pm
+clinical biochemistry
+sin no:b2b5138603
+wellwise platinum profile
+test name result unit bio ref interval
+high sensitivity crp (hs crp), serum
+c-reactive protein, high sensitive 5.385 mg/l
+immuno-turbidimetric test(latex)
+reference values in the table given below are recommended cardiovascular risk groups, in primary prevention settings by aha/cdc and nacb expert panel.
+risk level crp hs (mg/l) crp hs (mg/dl)
+low < 1.0 < 0.10
+average 1.0 - 3.0 0.10 - 0.30
+>0.30
+high > 3.0
+(cid:44)(cid:81)(cid:70)(cid:85)(cid:72)(cid:68)(cid:86)(cid:72)(cid:3)(cid:76)(cid:81)(cid:3)(cid:38)(cid:53)(cid:51)(cid:3)(cid:79)(cid:72)(cid:89)(cid:72)(cid:79)(cid:86)(cid:3)(cid:76)(cid:86)(cid:3)(cid:81)(cid:82)(cid:81)(cid:3)(cid:177)(cid:3)(cid:86)(cid:83)(cid:72)(cid:70)(cid:76)(cid:73)(cid:76)(cid:70)(cid:15)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:76)(cid:81)(cid:87)(cid:72)(cid:85)(cid:83)(cid:85)(cid:72)(cid:87)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:80)(cid:88)(cid:86)(cid:87)(cid:3)(cid:69)(cid:72)(cid:3)(cid:88)(cid:81)(cid:71)(cid:72)(cid:85)(cid:87)(cid:68)(cid:78)(cid:72)(cid:81)(cid:3)(cid:76)(cid:81)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:68)(cid:85)(cid:76)(cid:86)(cid:82)(cid:81)(cid:3)(cid:90)(cid:76)(cid:87)(cid:75)(cid:3)(cid:83)(cid:85)(cid:72)(cid:89)(cid:76)(cid:82)(cid:88)(cid:86)(cid:3)(cid:43)(cid:86)(cid:3)(cid:38)(cid:53)(cid:51)(cid:3)(cid:89)(cid:68)(cid:79)(cid:88)(cid:72)(cid:86)(cid:3)(cid:82)(cid:85)(cid:3)(cid:82)(cid:87)(cid:75)(cid:72)(cid:85)(cid:3)(cid:70)(cid:68)(cid:85)(cid:71)(cid:76)(cid:68)(cid:70)(cid:3)(cid:85)(cid:76)(cid:86)(cid:78)(cid:3)(cid:76)(cid:81)(cid:71)(cid:76)(cid:70)(cid:68)(cid:87)(cid:82)(cid:85)(cid:86)
+(cholesterol, hdl etc.) single measurement may lead to an erroneous assessment of early cardiac inflammation.
+page 10 of 21
+(cid:55)(cid:72)(cid:86)(cid:87)(cid:3)(cid:51)(cid:72)(cid:85)(cid:73)(cid:82)(cid:85)(cid:80)(cid:72)(cid:71)(cid:3)(cid:68)(cid:87)(cid:3)(cid:29)(cid:20)(cid:19)(cid:25)(cid:19)(cid:3)(cid:16)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:43)(cid:82)(cid:86)(cid:83)(cid:76)(cid:87)(cid:68)(cid:79)(cid:3)(cid:54)(cid:75)(cid:68)(cid:79)(cid:76)(cid:80)(cid:68)(cid:85)(cid:3)(cid:37)(cid:68)(cid:74)(cid:75)(cid:15)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:47)(cid:68)(cid:69)
+(cid:37)(cid:82)(cid:82)(cid:78)(cid:76)(cid:81)(cid:74)(cid:3)(cid:38)(cid:72)(cid:81)(cid:87)(cid:85)(cid:72)(cid:3)(cid:29)(cid:21)(cid:21)(cid:26)(cid:26)(cid:3)(cid:16)(cid:3)(cid:43)(cid:82)(cid:80)(cid:72)(cid:3)(cid:38)(cid:82)(cid:79)(cid:79)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:39)(cid:49)(cid:38)(cid:53)(cid:15)(cid:3)(cid:49)(cid:16)(cid:20)(cid:20)(cid:19)(cid:15)(cid:3)(cid:51)(cid:68)(cid:81)(cid:70)(cid:75)(cid:86)(cid:75)(cid:72)(cid:72)(cid:79)(cid:3)(cid:51)(cid:68)(cid:85)(cid:78)(cid:15)(cid:3)(cid:26)(cid:28)(cid:27)(cid:21)(cid:20)(cid:19)(cid:19)(cid:21)(cid:19)(cid:19)
+(cid:55)(cid:75)(cid:72)(cid:3)(cid:68)(cid:88)(cid:87)(cid:75)(cid:72)(cid:81)(cid:87)(cid:76)(cid:70)(cid:76)(cid:87)(cid:92)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:85)(cid:72)(cid:83)(cid:82)(cid:85)(cid:87)(cid:3)(cid:70)(cid:68)(cid:81)(cid:3)(cid:69)(cid:72)(cid:3)(cid:89)(cid:72)(cid:85)(cid:76)(cid:73)(cid:76)(cid:72)(cid:71)(cid:3)(cid:69)(cid:92)(cid:3)(cid:86)(cid:70)(cid:68)(cid:81)(cid:81)(cid:76)(cid:81)(cid:74)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:52)(cid:3)(cid:53)(cid:3)(cid:38)(cid:82)(cid:71)(cid:72)(cid:3)(cid:82)(cid:81)(cid:3)(cid:87)(cid:82)(cid:83)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:83)(cid:68)(cid:74)(cid:72)
+laboratory investigation report
+patient name : mrs. meena sharma centre : 2277 - home collection dncr
+age/gender : 53 y 0 m 0 d /f op/ip no/uhid : //
+maxid/lab id : ml04584243/2032042400426 collection date/time: 04/apr/2024 08:10am
+ref doctor : self reporting date/time : 04/apr/2024 01:21pm
+clinical biochemistry
+sin no:b2b5138603
+wellwise platinum profile
+crp- c- reactive protein*, serum
+date 04/apr/2024 unit bio ref interval
+08:10am
+crp 6.035 mg/l
+latex particle immunoturbidimetric
+interpretation this helps in detecting neonatal septicemia, meningitis and useful to assess the activity of inflammatory diseases like rheumatoid arthritis. it is
+increased after myocardial infarction, stress, trauma, infection, inflammation, surgery, or neoplastic proliferation. the increase with inflammation occurs within 6 -12
+hours and peaks at about 48 hours.
+ref range :
+mg/l mg/dl
+< 5.0 < 0.5
+kindly correlate with clinical findings
+*** end of report ***
+page 11 of 21
+(cid:55)(cid:72)(cid:86)(cid:87)(cid:3)(cid:51)(cid:72)(cid:85)(cid:73)(cid:82)(cid:85)(cid:80)(cid:72)(cid:71)(cid:3)(cid:68)(cid:87)(cid:3)(cid:29)(cid:20)(cid:19)(cid:25)(cid:19)(cid:3)(cid:16)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:43)(cid:82)(cid:86)(cid:83)(cid:76)(cid:87)(cid:68)(cid:79)(cid:3)(cid:54)(cid:75)(cid:68)(cid:79)(cid:76)(cid:80)(cid:68)(cid:85)(cid:3)(cid:37)(cid:68)(cid:74)(cid:75)(cid:15)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:47)(cid:68)(cid:69)
+(cid:37)(cid:82)(cid:82)(cid:78)(cid:76)(cid:81)(cid:74)(cid:3)(cid:38)(cid:72)(cid:81)(cid:87)(cid:85)(cid:72)(cid:3)(cid:29)(cid:21)(cid:21)(cid:26)(cid:26)(cid:3)(cid:16)(cid:3)(cid:43)(cid:82)(cid:80)(cid:72)(cid:3)(cid:38)(cid:82)(cid:79)(cid:79)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:39)(cid:49)(cid:38)(cid:53)(cid:15)(cid:3)(cid:49)(cid:16)(cid:20)(cid:20)(cid:19)(cid:15)(cid:3)(cid:51)(cid:68)(cid:81)(cid:70)(cid:75)(cid:86)(cid:75)(cid:72)(cid:72)(cid:79)(cid:3)(cid:51)(cid:68)(cid:85)(cid:78)(cid:15)(cid:3)(cid:26)(cid:28)(cid:27)(cid:21)(cid:20)(cid:19)(cid:19)(cid:21)(cid:19)(cid:19)
+(cid:55)(cid:75)(cid:72)(cid:3)(cid:68)(cid:88)(cid:87)(cid:75)(cid:72)(cid:81)(cid:87)(cid:76)(cid:70)(cid:76)(cid:87)(cid:92)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:85)(cid:72)(cid:83)(cid:82)(cid:85)(cid:87)(cid:3)(cid:70)(cid:68)(cid:81)(cid:3)(cid:69)(cid:72)(cid:3)(cid:89)(cid:72)(cid:85)(cid:76)(cid:73)(cid:76)(cid:72)(cid:71)(cid:3)(cid:69)(cid:92)(cid:3)(cid:86)(cid:70)(cid:68)(cid:81)(cid:81)(cid:76)(cid:81)(cid:74)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:52)(cid:3)(cid:53)(cid:3)(cid:38)(cid:82)(cid:71)(cid:72)(cid:3)(cid:82)(cid:81)(cid:3)(cid:87)(cid:82)(cid:83)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:83)(cid:68)(cid:74)(cid:72)
+laboratory investigation report
+patient name : mrs. meena sharma centre : 2277 - home collection dncr
+age/gender : 53 y 0 m 0 d /f op/ip no/uhid : //
+maxid/lab id : ml04584243/2032042400426 collection date/time: 04/apr/2024 08:10am
+ref doctor : self reporting date/time : 04/apr/2024 06:20pm
+clinical biochemistry
+sin no:b2b5138603
+wellwise platinum profile
+apolipoproteins a1 & b,serum
+immunoturbidimetric
+date 04/apr/2024 unit bio ref interval
+08:10am
+apolipoprotein (a) 137 mg/ dl 120-190
+immunoturbedimetric
+apolipoprotein (b) 86 mg/dl 55 - 130
+immunoturbedimetric
+apo b/ apo a1 ratio 0.63 0.35 - 0.98
+calculated
+rheumatoid factor(quantitative), serum
+date 04/apr/2024 unit bio ref interval
+08:10am
+rheumatoid factor 5.3 iu/ ml 0-12
+immunoturbidimetric
+interpretation (cid:53)(cid:75)(cid:72)(cid:88)(cid:80)(cid:68)(cid:87)(cid:82)(cid:76)(cid:71)(cid:3)(cid:73)(cid:68)(cid:70)(cid:87)(cid:82)(cid:85)(cid:3)(cid:76)(cid:86)(cid:3)(cid:73)(cid:82)(cid:88)(cid:81)(cid:71)(cid:3)(cid:76)(cid:81)(cid:3)(cid:85)(cid:75)(cid:72)(cid:88)(cid:80)(cid:68)(cid:87)(cid:82)(cid:76)(cid:71)(cid:3)(cid:68)(cid:85)(cid:87)(cid:75)(cid:85)(cid:76)(cid:87)(cid:76)(cid:86)(cid:15)(cid:3)(cid:54)(cid:77)(cid:124)(cid:74)(cid:85)(cid:72)(cid:81)(cid:182)(cid:86)(cid:3)(cid:86)(cid:92)(cid:81)(cid:71)(cid:85)(cid:82)(cid:80)(cid:72)(cid:15)(cid:3)(cid:54)(cid:70)(cid:79)(cid:72)(cid:85)(cid:82)(cid:71)(cid:72)(cid:85)(cid:80)(cid:68)(cid:15)(cid:3)(cid:71)(cid:72)(cid:85)(cid:80)(cid:68)(cid:87)(cid:82)(cid:80)(cid:92)(cid:82)(cid:86)(cid:76)(cid:87)(cid:76)(cid:86)(cid:15)(cid:3)(cid:58)(cid:68)(cid:79)(cid:71)(cid:72)(cid:81)(cid:86)(cid:87)(cid:85)(cid:124)(cid:80)(cid:182)(cid:86)(cid:3)(cid:71)(cid:76)(cid:86)(cid:72)(cid:68)(cid:86)(cid:72)(cid:15)(cid:3)(cid:86)(cid:68)(cid:85)(cid:70)(cid:82)(cid:76)(cid:71)(cid:82)(cid:86)(cid:76)(cid:86)(cid:3)(cid:68)(cid:81)(cid:71)
+sle. 75% patients with rheumatoid arthritis have rf of igm class. highest titers of rheumatoid arthritis are seen in severe, active, chronic disease with vasculitis and
+subcutaneous nodules
+kindly correlate with clinical findings
+*** end of report ***
+page 12 of 21
+(cid:55)(cid:72)(cid:86)(cid:87)(cid:3)(cid:51)(cid:72)(cid:85)(cid:73)(cid:82)(cid:85)(cid:80)(cid:72)(cid:71)(cid:3)(cid:68)(cid:87)(cid:3)(cid:29)(cid:28)(cid:20)(cid:19)(cid:3)(cid:16)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:43)(cid:82)(cid:86)(cid:83)(cid:76)(cid:87)(cid:68)(cid:79)(cid:3)(cid:16)(cid:3)(cid:54)(cid:68)(cid:78)(cid:72)(cid:87)(cid:3)(cid:48)(cid:3)(cid:54)(cid:3)(cid:54)(cid:3)(cid:43)(cid:15)(cid:3)(cid:51)(cid:85)(cid:72)(cid:86)(cid:86)(cid:3)(cid:40)(cid:81)(cid:70)(cid:79)(cid:68)(cid:89)(cid:72)(cid:3)(cid:53)(cid:82)(cid:68)(cid:71)(cid:15)(cid:3)(cid:48)(cid:68)(cid:81)(cid:71)(cid:76)(cid:85)(cid:3)(cid:48)(cid:68)(cid:85)(cid:74)(cid:15)(cid:3)(cid:54)(cid:68)(cid:78)(cid:72)(cid:87)(cid:15)(cid:3)(cid:49)(cid:72)(cid:90)(cid:3)(cid:39)(cid:72)(cid:79)(cid:75)(cid:76)(cid:15)(cid:3)(cid:39)(cid:72)(cid:79)(cid:75)(cid:76)(cid:3)(cid:20)(cid:20)(cid:19)(cid:19)(cid:20)(cid:26)
+(cid:37)(cid:82)(cid:82)(cid:78)(cid:76)(cid:81)(cid:74)(cid:3)(cid:38)(cid:72)(cid:81)(cid:87)(cid:85)(cid:72)(cid:3)(cid:29)(cid:21)(cid:21)(cid:26)(cid:26)(cid:3)(cid:16)(cid:3)(cid:43)(cid:82)(cid:80)(cid:72)(cid:3)(cid:38)(cid:82)(cid:79)(cid:79)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:39)(cid:49)(cid:38)(cid:53)(cid:15)(cid:3)(cid:49)(cid:16)(cid:20)(cid:20)(cid:19)(cid:15)(cid:3)(cid:51)(cid:68)(cid:81)(cid:70)(cid:75)(cid:86)(cid:75)(cid:72)(cid:72)(cid:79)(cid:3)(cid:51)(cid:68)(cid:85)(cid:78)(cid:15)(cid:3)(cid:26)(cid:28)(cid:27)(cid:21)(cid:20)(cid:19)(cid:19)(cid:21)(cid:19)(cid:19)
+(cid:55)(cid:75)(cid:72)(cid:3)(cid:68)(cid:88)(cid:87)(cid:75)(cid:72)(cid:81)(cid:87)(cid:76)(cid:70)(cid:76)(cid:87)(cid:92)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:85)(cid:72)(cid:83)(cid:82)(cid:85)(cid:87)(cid:3)(cid:70)(cid:68)(cid:81)(cid:3)(cid:69)(cid:72)(cid:3)(cid:89)(cid:72)(cid:85)(cid:76)(cid:73)(cid:76)(cid:72)(cid:71)(cid:3)(cid:69)(cid:92)(cid:3)(cid:86)(cid:70)(cid:68)(cid:81)(cid:81)(cid:76)(cid:81)(cid:74)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:52)(cid:3)(cid:53)(cid:3)(cid:38)(cid:82)(cid:71)(cid:72)(cid:3)(cid:82)(cid:81)(cid:3)(cid:87)(cid:82)(cid:83)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:83)(cid:68)(cid:74)(cid:72)
+laboratory investigation report
+patient name : mrs. meena sharma centre : 2277 - home collection dncr
+age/gender : 53 y 0 m 0 d /f op/ip no/uhid : //
+maxid/lab id : ml04584243/2032042400426 collection date/time: 04/apr/2024 08:10am
+ref doctor : self reporting date/time : 04/apr/2024 01:21pm
+clinical biochemistry
+sin no:b2b5138603
+wellwise platinum profile
+total iron binding capacity (tibc)*, serum
+date 04/apr/2024 unit bio ref interval
+08:10am
+iron 14 (cid:151)(cid:74)(cid:18)(cid:71)(cid:47) 60 - 180
+tptz- no deproteinization
+uibc 474.9 (cid:151)(cid:74)(cid:18)(cid:71)(cid:47) 155 - 355
+nitroso - psap
+total iron binding capacity 488.9 (cid:151)(cid:74)(cid:18)(cid:71)(cid:47) 215 - 535
+calculated
+transferrin saturation 2.86 % 17 - 37
+calculated
+kindly correlate with clinical findings
+*** end of report ***
+page 13 of 21
+(cid:55)(cid:72)(cid:86)(cid:87)(cid:3)(cid:51)(cid:72)(cid:85)(cid:73)(cid:82)(cid:85)(cid:80)(cid:72)(cid:71)(cid:3)(cid:68)(cid:87)(cid:3)(cid:29)(cid:20)(cid:19)(cid:25)(cid:19)(cid:3)(cid:16)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:43)(cid:82)(cid:86)(cid:83)(cid:76)(cid:87)(cid:68)(cid:79)(cid:3)(cid:54)(cid:75)(cid:68)(cid:79)(cid:76)(cid:80)(cid:68)(cid:85)(cid:3)(cid:37)(cid:68)(cid:74)(cid:75)(cid:15)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:47)(cid:68)(cid:69)
+(cid:37)(cid:82)(cid:82)(cid:78)(cid:76)(cid:81)(cid:74)(cid:3)(cid:38)(cid:72)(cid:81)(cid:87)(cid:85)(cid:72)(cid:3)(cid:29)(cid:21)(cid:21)(cid:26)(cid:26)(cid:3)(cid:16)(cid:3)(cid:43)(cid:82)(cid:80)(cid:72)(cid:3)(cid:38)(cid:82)(cid:79)(cid:79)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:39)(cid:49)(cid:38)(cid:53)(cid:15)(cid:3)(cid:49)(cid:16)(cid:20)(cid:20)(cid:19)(cid:15)(cid:3)(cid:51)(cid:68)(cid:81)(cid:70)(cid:75)(cid:86)(cid:75)(cid:72)(cid:72)(cid:79)(cid:3)(cid:51)(cid:68)(cid:85)(cid:78)(cid:15)(cid:3)(cid:26)(cid:28)(cid:27)(cid:21)(cid:20)(cid:19)(cid:19)(cid:21)(cid:19)(cid:19)
+(cid:55)(cid:75)(cid:72)(cid:3)(cid:68)(cid:88)(cid:87)(cid:75)(cid:72)(cid:81)(cid:87)(cid:76)(cid:70)(cid:76)(cid:87)(cid:92)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:85)(cid:72)(cid:83)(cid:82)(cid:85)(cid:87)(cid:3)(cid:70)(cid:68)(cid:81)(cid:3)(cid:69)(cid:72)(cid:3)(cid:89)(cid:72)(cid:85)(cid:76)(cid:73)(cid:76)(cid:72)(cid:71)(cid:3)(cid:69)(cid:92)(cid:3)(cid:86)(cid:70)(cid:68)(cid:81)(cid:81)(cid:76)(cid:81)(cid:74)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:52)(cid:3)(cid:53)(cid:3)(cid:38)(cid:82)(cid:71)(cid:72)(cid:3)(cid:82)(cid:81)(cid:3)(cid:87)(cid:82)(cid:83)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:83)(cid:68)(cid:74)(cid:72)
+laboratory investigation report
+patient name : mrs. meena sharma centre : 2277 - home collection dncr
+age/gender : 53 y 0 m 0 d /f op/ip no/uhid : //
+maxid/lab id : ml04584243/2032042400426 collection date/time: 04/apr/2024 08:10am
+ref doctor : self reporting date/time : 04/apr/2024 03:34pm
+immunoassay
+sin no:b2b5138603
+wellwise platinum profile
+ferritin*, serum
+date 04/apr/2024 unit bio ref interval
+08:10am
+ferritin 3.0 ng/ml 11 - 306.8
+clia
+comment ferritin is a large hollow spherical protein containing iron, concentration of which roughly reflects the body iron content in many individuals. serum
+ferritin concentration is a sensitive indicator of iron deficiency. serum ferritin concentration is increased in many disorders like infection, inflammatory disorders like
+rheumatoid arthritis or renal disease; common liver conditions (e.g. alcoholism, viral hepatitis b or c); heart disease, cancer. in patients with these disorders who also
+have iron deficiency their serum ferritin concentrations are often normal. an increase in serum ferritin concentration occurs as a result of ferritin release due to liver cell
+injury of diverse causes. serum ferritin is also increased in patients with iron overload of any cause. serum transferrin saturation is a better screening test for early iron
+overload than serum ferritin.
+kindly correlate with clinical findings
+*** end of report ***
+page 14 of 21
+(cid:55)(cid:72)(cid:86)(cid:87)(cid:3)(cid:51)(cid:72)(cid:85)(cid:73)(cid:82)(cid:85)(cid:80)(cid:72)(cid:71)(cid:3)(cid:68)(cid:87)(cid:3)(cid:29)(cid:20)(cid:19)(cid:25)(cid:19)(cid:3)(cid:16)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:43)(cid:82)(cid:86)(cid:83)(cid:76)(cid:87)(cid:68)(cid:79)(cid:3)(cid:54)(cid:75)(cid:68)(cid:79)(cid:76)(cid:80)(cid:68)(cid:85)(cid:3)(cid:37)(cid:68)(cid:74)(cid:75)(cid:15)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:47)(cid:68)(cid:69)
+(cid:37)(cid:82)(cid:82)(cid:78)(cid:76)(cid:81)(cid:74)(cid:3)(cid:38)(cid:72)(cid:81)(cid:87)(cid:85)(cid:72)(cid:3)(cid:29)(cid:21)(cid:21)(cid:26)(cid:26)(cid:3)(cid:16)(cid:3)(cid:43)(cid:82)(cid:80)(cid:72)(cid:3)(cid:38)(cid:82)(cid:79)(cid:79)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:39)(cid:49)(cid:38)(cid:53)(cid:15)(cid:3)(cid:49)(cid:16)(cid:20)(cid:20)(cid:19)(cid:15)(cid:3)(cid:51)(cid:68)(cid:81)(cid:70)(cid:75)(cid:86)(cid:75)(cid:72)(cid:72)(cid:79)(cid:3)(cid:51)(cid:68)(cid:85)(cid:78)(cid:15)(cid:3)(cid:26)(cid:28)(cid:27)(cid:21)(cid:20)(cid:19)(cid:19)(cid:21)(cid:19)(cid:19)
+(cid:55)(cid:75)(cid:72)(cid:3)(cid:68)(cid:88)(cid:87)(cid:75)(cid:72)(cid:81)(cid:87)(cid:76)(cid:70)(cid:76)(cid:87)(cid:92)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:85)(cid:72)(cid:83)(cid:82)(cid:85)(cid:87)(cid:3)(cid:70)(cid:68)(cid:81)(cid:3)(cid:69)(cid:72)(cid:3)(cid:89)(cid:72)(cid:85)(cid:76)(cid:73)(cid:76)(cid:72)(cid:71)(cid:3)(cid:69)(cid:92)(cid:3)(cid:86)(cid:70)(cid:68)(cid:81)(cid:81)(cid:76)(cid:81)(cid:74)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:52)(cid:3)(cid:53)(cid:3)(cid:38)(cid:82)(cid:71)(cid:72)(cid:3)(cid:82)(cid:81)(cid:3)(cid:87)(cid:82)(cid:83)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:83)(cid:68)(cid:74)(cid:72)
+laboratory investigation report
+patient name : mrs. meena sharma centre : 2277 - home collection dncr
+age/gender : 53 y 0 m 0 d /f op/ip no/uhid : //
+maxid/lab id : ml04584243/2032042400426 collection date/time: 04/apr/2024 08:10am
+ref doctor : self reporting date/time : 04/apr/2024 12:38pm
+clinical biochemistry
+sin no:b2b5138603
+wellwise platinum profile
+ldh (lactate dehydrogenase) total , serum*
+date 04/apr/2024 unit bio ref interval
+08:10am
+ldh 221 iu/l 98 - 192
+enzymatic
+kindly correlate with clinical findings
+*** end of report ***
+page 15 of 21
+(cid:55)(cid:72)(cid:86)(cid:87)(cid:3)(cid:51)(cid:72)(cid:85)(cid:73)(cid:82)(cid:85)(cid:80)(cid:72)(cid:71)(cid:3)(cid:68)(cid:87)(cid:3)(cid:29)(cid:20)(cid:19)(cid:25)(cid:19)(cid:3)(cid:16)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:43)(cid:82)(cid:86)(cid:83)(cid:76)(cid:87)(cid:68)(cid:79)(cid:3)(cid:54)(cid:75)(cid:68)(cid:79)(cid:76)(cid:80)(cid:68)(cid:85)(cid:3)(cid:37)(cid:68)(cid:74)(cid:75)(cid:15)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:47)(cid:68)(cid:69)
+(cid:37)(cid:82)(cid:82)(cid:78)(cid:76)(cid:81)(cid:74)(cid:3)(cid:38)(cid:72)(cid:81)(cid:87)(cid:85)(cid:72)(cid:3)(cid:29)(cid:21)(cid:21)(cid:26)(cid:26)(cid:3)(cid:16)(cid:3)(cid:43)(cid:82)(cid:80)(cid:72)(cid:3)(cid:38)(cid:82)(cid:79)(cid:79)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:39)(cid:49)(cid:38)(cid:53)(cid:15)(cid:3)(cid:49)(cid:16)(cid:20)(cid:20)(cid:19)(cid:15)(cid:3)(cid:51)(cid:68)(cid:81)(cid:70)(cid:75)(cid:86)(cid:75)(cid:72)(cid:72)(cid:79)(cid:3)(cid:51)(cid:68)(cid:85)(cid:78)(cid:15)(cid:3)(cid:26)(cid:28)(cid:27)(cid:21)(cid:20)(cid:19)(cid:19)(cid:21)(cid:19)(cid:19)
+(cid:55)(cid:75)(cid:72)(cid:3)(cid:68)(cid:88)(cid:87)(cid:75)(cid:72)(cid:81)(cid:87)(cid:76)(cid:70)(cid:76)(cid:87)(cid:92)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:85)(cid:72)(cid:83)(cid:82)(cid:85)(cid:87)(cid:3)(cid:70)(cid:68)(cid:81)(cid:3)(cid:69)(cid:72)(cid:3)(cid:89)(cid:72)(cid:85)(cid:76)(cid:73)(cid:76)(cid:72)(cid:71)(cid:3)(cid:69)(cid:92)(cid:3)(cid:86)(cid:70)(cid:68)(cid:81)(cid:81)(cid:76)(cid:81)(cid:74)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:52)(cid:3)(cid:53)(cid:3)(cid:38)(cid:82)(cid:71)(cid:72)(cid:3)(cid:82)(cid:81)(cid:3)(cid:87)(cid:82)(cid:83)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:83)(cid:68)(cid:74)(cid:72)
+laboratory investigation report
+patient name : mrs. meena sharma centre : 2277 - home collection dncr
+age/gender : 53 y 0 m 0 d /f op/ip no/uhid : //
+maxid/lab id : ml04584243/2032042400426 collection date/time: 04/apr/2024 08:10am
+ref doctor : self reporting date/time : 04/apr/2024 03:34pm
+immunoassay
+sin no:b2b5138603
+wellwise platinum profile
+vitamin b12 (vit- b12), (cyanocobalamin)*, serum
+date 04/apr/2024 unit bio ref interval
+08:10am
+vitamin b12 191.0 pg/ml 120 - 914
+clia
+interpretation
+note:- vitamin b12 (cobalamin)
+vitamin b12 is tested for patients with git disease, neurological disease, psychiatric disturbances, malnutrition, alcohol abuse.
+increased in chronic renal failure, severe chf.
+decreased in megaloblastic anemia.
+advise: cbc, peripheral smear, serum folate levels, intrinsic factor antibodies (ifa), bone marrow examination, if vit b12 deficient.
+vitamin d, 25 - hydroxy test (vit. d3)*, serum
+date 04/apr/2024 unit bio ref
+08:10am interval
+25 hydroxy, vitamin d 10.73 ng/ml 30-100
+clia
+ref range
+25 (oh) vitamin d concentration range
+vitamin d status
+(ng/ml)
+sufficiency 30-100
+insufficiency 20-29
+deficiency <20
+potential toxicity
+>100
+interpretation
+vitamin d toxicity can be due to
+1. use of high doses of vitamin d for prophylaxis or treatment
+2. taking vitamin d supplements with existing health problems such as kidney disease, liver disease , tuberculosis and hyperparathyroidism
+vitamin d deficiency can be due to:
+1. inadequate exposure to sunlight,
+2. diet deficient in vitamin d
+3. malabsorption
+advice: serum calcium, phosphorus and pth
+page 16 of 21
+(cid:55)(cid:72)(cid:86)(cid:87)(cid:3)(cid:51)(cid:72)(cid:85)(cid:73)(cid:82)(cid:85)(cid:80)(cid:72)(cid:71)(cid:3)(cid:68)(cid:87)(cid:3)(cid:29)(cid:20)(cid:19)(cid:25)(cid:19)(cid:3)(cid:16)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:43)(cid:82)(cid:86)(cid:83)(cid:76)(cid:87)(cid:68)(cid:79)(cid:3)(cid:54)(cid:75)(cid:68)(cid:79)(cid:76)(cid:80)(cid:68)(cid:85)(cid:3)(cid:37)(cid:68)(cid:74)(cid:75)(cid:15)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:47)(cid:68)(cid:69)
+(cid:37)(cid:82)(cid:82)(cid:78)(cid:76)(cid:81)(cid:74)(cid:3)(cid:38)(cid:72)(cid:81)(cid:87)(cid:85)(cid:72)(cid:3)(cid:29)(cid:21)(cid:21)(cid:26)(cid:26)(cid:3)(cid:16)(cid:3)(cid:43)(cid:82)(cid:80)(cid:72)(cid:3)(cid:38)(cid:82)(cid:79)(cid:79)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:39)(cid:49)(cid:38)(cid:53)(cid:15)(cid:3)(cid:49)(cid:16)(cid:20)(cid:20)(cid:19)(cid:15)(cid:3)(cid:51)(cid:68)(cid:81)(cid:70)(cid:75)(cid:86)(cid:75)(cid:72)(cid:72)(cid:79)(cid:3)(cid:51)(cid:68)(cid:85)(cid:78)(cid:15)(cid:3)(cid:26)(cid:28)(cid:27)(cid:21)(cid:20)(cid:19)(cid:19)(cid:21)(cid:19)(cid:19)
+(cid:55)(cid:75)(cid:72)(cid:3)(cid:68)(cid:88)(cid:87)(cid:75)(cid:72)(cid:81)(cid:87)(cid:76)(cid:70)(cid:76)(cid:87)(cid:92)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:85)(cid:72)(cid:83)(cid:82)(cid:85)(cid:87)(cid:3)(cid:70)(cid:68)(cid:81)(cid:3)(cid:69)(cid:72)(cid:3)(cid:89)(cid:72)(cid:85)(cid:76)(cid:73)(cid:76)(cid:72)(cid:71)(cid:3)(cid:69)(cid:92)(cid:3)(cid:86)(cid:70)(cid:68)(cid:81)(cid:81)(cid:76)(cid:81)(cid:74)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:52)(cid:3)(cid:53)(cid:3)(cid:38)(cid:82)(cid:71)(cid:72)(cid:3)(cid:82)(cid:81)(cid:3)(cid:87)(cid:82)(cid:83)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:83)(cid:68)(cid:74)(cid:72)
+laboratory investigation report
+patient name : mrs. meena sharma centre : 2277 - home collection dncr
+age/gender : 53 y 0 m 0 d /f op/ip no/uhid : //
+maxid/lab id : ml04584243/2032042400426 collection date/time: 04/apr/2024 08:10am
+ref doctor : self reporting date/time : 04/apr/2024 03:34pm
+immunoassay
+sin no:b2b5138603
+wellwise platinum profile
+kindly correlate with clinical findings
+*** end of report ***
+page 17 of 21
+(cid:55)(cid:72)(cid:86)(cid:87)(cid:3)(cid:51)(cid:72)(cid:85)(cid:73)(cid:82)(cid:85)(cid:80)(cid:72)(cid:71)(cid:3)(cid:68)(cid:87)(cid:3)(cid:29)(cid:20)(cid:19)(cid:25)(cid:19)(cid:3)(cid:16)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:43)(cid:82)(cid:86)(cid:83)(cid:76)(cid:87)(cid:68)(cid:79)(cid:3)(cid:54)(cid:75)(cid:68)(cid:79)(cid:76)(cid:80)(cid:68)(cid:85)(cid:3)(cid:37)(cid:68)(cid:74)(cid:75)(cid:15)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:47)(cid:68)(cid:69)
+(cid:37)(cid:82)(cid:82)(cid:78)(cid:76)(cid:81)(cid:74)(cid:3)(cid:38)(cid:72)(cid:81)(cid:87)(cid:85)(cid:72)(cid:3)(cid:29)(cid:21)(cid:21)(cid:26)(cid:26)(cid:3)(cid:16)(cid:3)(cid:43)(cid:82)(cid:80)(cid:72)(cid:3)(cid:38)(cid:82)(cid:79)(cid:79)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:39)(cid:49)(cid:38)(cid:53)(cid:15)(cid:3)(cid:49)(cid:16)(cid:20)(cid:20)(cid:19)(cid:15)(cid:3)(cid:51)(cid:68)(cid:81)(cid:70)(cid:75)(cid:86)(cid:75)(cid:72)(cid:72)(cid:79)(cid:3)(cid:51)(cid:68)(cid:85)(cid:78)(cid:15)(cid:3)(cid:26)(cid:28)(cid:27)(cid:21)(cid:20)(cid:19)(cid:19)(cid:21)(cid:19)(cid:19)
+(cid:55)(cid:75)(cid:72)(cid:3)(cid:68)(cid:88)(cid:87)(cid:75)(cid:72)(cid:81)(cid:87)(cid:76)(cid:70)(cid:76)(cid:87)(cid:92)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:85)(cid:72)(cid:83)(cid:82)(cid:85)(cid:87)(cid:3)(cid:70)(cid:68)(cid:81)(cid:3)(cid:69)(cid:72)(cid:3)(cid:89)(cid:72)(cid:85)(cid:76)(cid:73)(cid:76)(cid:72)(cid:71)(cid:3)(cid:69)(cid:92)(cid:3)(cid:86)(cid:70)(cid:68)(cid:81)(cid:81)(cid:76)(cid:81)(cid:74)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:52)(cid:3)(cid:53)(cid:3)(cid:38)(cid:82)(cid:71)(cid:72)(cid:3)(cid:82)(cid:81)(cid:3)(cid:87)(cid:82)(cid:83)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:83)(cid:68)(cid:74)(cid:72)
+laboratory investigation report
+patient name : mrs. meena sharma centre : 2277 - home collection dncr
+age/gender : 53 y 0 m 0 d /f op/ip no/uhid : //
+maxid/lab id : ml04584243/2032042400426 collection date/time: 04/apr/2024 08:10am
+ref doctor : self reporting date/time : 04/apr/2024 01:59pm
+serology
+sin no:b2b5138603
+wellwise platinum profile
+test name result unit bio ref interval
+hepatitis b surface antigen,serum
+clia
+hbsag negative
+clia
+hbsag test value 0.14 s/co
+clia
+ref. range
+negative < 0.90
+borderline 0.90 - 5.0
+positive > 5.0
+interpretation
+this test is used to detect hepatitis b surface antigen (hbsag) in serum sample based on vitros immunometric immunoassay technique and aid in the
+laboratory diagnosis of hbv infection.
+viral hepatitis is a major public health problem with an estimated 257 million persistent carriers of hepatitis b virus (hbv) worldwide. infection with hbv
+results in a wide spectrum of acute and chronic liver diseases that may lead to cirrhosis and hepatocellular carcinoma.
+transmission of hbv occurs by percutaneous exposure to blood products, needle stick injury, sexual contact and perinatally from hbv-infected mothers to
+baby.
+hepatitis b surface antigen (hbsag), derived from the viral envelope, is the first antigen to appear following infection.
+positive results should be correlated with other potential laboratory abnormalities and clinical picture.
+a negative test result does not exclude the possibility of exposure to or infection with hepatitis b virus.
+levels of hbsag may be undetectable both in early infection and late after infection.
+in rare cases hbsag tests do not detect certain hbv mutant strains.
+hbs ag disappears with recovery from clinical disease in most patients, however, it persists for years in carriers.
+kindly correlate with clinical findings
+*** end of report ***
+page 18 of 21
+(cid:55)(cid:72)(cid:86)(cid:87)(cid:3)(cid:51)(cid:72)(cid:85)(cid:73)(cid:82)(cid:85)(cid:80)(cid:72)(cid:71)(cid:3)(cid:68)(cid:87)(cid:3)(cid:29)(cid:20)(cid:19)(cid:25)(cid:19)(cid:3)(cid:16)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:43)(cid:82)(cid:86)(cid:83)(cid:76)(cid:87)(cid:68)(cid:79)(cid:3)(cid:54)(cid:75)(cid:68)(cid:79)(cid:76)(cid:80)(cid:68)(cid:85)(cid:3)(cid:37)(cid:68)(cid:74)(cid:75)(cid:15)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:47)(cid:68)(cid:69)
+(cid:37)(cid:82)(cid:82)(cid:78)(cid:76)(cid:81)(cid:74)(cid:3)(cid:38)(cid:72)(cid:81)(cid:87)(cid:85)(cid:72)(cid:3)(cid:29)(cid:21)(cid:21)(cid:26)(cid:26)(cid:3)(cid:16)(cid:3)(cid:43)(cid:82)(cid:80)(cid:72)(cid:3)(cid:38)(cid:82)(cid:79)(cid:79)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:39)(cid:49)(cid:38)(cid:53)(cid:15)(cid:3)(cid:49)(cid:16)(cid:20)(cid:20)(cid:19)(cid:15)(cid:3)(cid:51)(cid:68)(cid:81)(cid:70)(cid:75)(cid:86)(cid:75)(cid:72)(cid:72)(cid:79)(cid:3)(cid:51)(cid:68)(cid:85)(cid:78)(cid:15)(cid:3)(cid:26)(cid:28)(cid:27)(cid:21)(cid:20)(cid:19)(cid:19)(cid:21)(cid:19)(cid:19)
+(cid:55)(cid:75)(cid:72)(cid:3)(cid:68)(cid:88)(cid:87)(cid:75)(cid:72)(cid:81)(cid:87)(cid:76)(cid:70)(cid:76)(cid:87)(cid:92)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:85)(cid:72)(cid:83)(cid:82)(cid:85)(cid:87)(cid:3)(cid:70)(cid:68)(cid:81)(cid:3)(cid:69)(cid:72)(cid:3)(cid:89)(cid:72)(cid:85)(cid:76)(cid:73)(cid:76)(cid:72)(cid:71)(cid:3)(cid:69)(cid:92)(cid:3)(cid:86)(cid:70)(cid:68)(cid:81)(cid:81)(cid:76)(cid:81)(cid:74)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:52)(cid:3)(cid:53)(cid:3)(cid:38)(cid:82)(cid:71)(cid:72)(cid:3)(cid:82)(cid:81)(cid:3)(cid:87)(cid:82)(cid:83)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:83)(cid:68)(cid:74)(cid:72)
+laboratory investigation report
+patient name : mrs. meena sharma centre : 2277 - home collection dncr
+age/gender : 53 y 0 m 0 d /f op/ip no/uhid : //
+maxid/lab id : ml04584243/2032042400426 collection date/time: 04/apr/2024 08:10am
+ref doctor : self reporting date/time : 05/apr/2024 01:06am
+serology special
+sin no:b2b5138603
+wellwise platinum profile
+test name result unit bio ref interval
+allergy screen-phadiatop/inf, serum
+feia
+allergy screen, phadia top 0.10 pau/l < 0.34
+fluoroenzyme immunoassay
+comment
+immunocapphadiatop is an in vitro qualitative and semiquantitative assay for gradeddetermination of ige antibodies specific to inhalant allergens in human serum or
+plasma. itis intended for in vitro diagnostic use as an aid in the clinical diagnosis of ige mediated allergicdisorders in conjunction with other clinical findings, and is to
+be used in clinical laboratories. in patients suffering from extrinsic asthma, hay fever or atopic eczema, symptoms developimmediately after exposure to specific
+allergens. this immediate type of allergy is a functionof a special type of serum antibodies belonging to the ige class of immunoglobulins.
+kindly correlate with clinical findings
+*** end of report ***
+page 19 of 21
+(cid:55)(cid:72)(cid:86)(cid:87)(cid:3)(cid:51)(cid:72)(cid:85)(cid:73)(cid:82)(cid:85)(cid:80)(cid:72)(cid:71)(cid:3)(cid:68)(cid:87)(cid:3)(cid:29)(cid:28)(cid:20)(cid:19)(cid:3)(cid:16)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:43)(cid:82)(cid:86)(cid:83)(cid:76)(cid:87)(cid:68)(cid:79)(cid:3)(cid:16)(cid:3)(cid:54)(cid:68)(cid:78)(cid:72)(cid:87)(cid:3)(cid:48)(cid:3)(cid:54)(cid:3)(cid:54)(cid:3)(cid:43)(cid:15)(cid:3)(cid:51)(cid:85)(cid:72)(cid:86)(cid:86)(cid:3)(cid:40)(cid:81)(cid:70)(cid:79)(cid:68)(cid:89)(cid:72)(cid:3)(cid:53)(cid:82)(cid:68)(cid:71)(cid:15)(cid:3)(cid:48)(cid:68)(cid:81)(cid:71)(cid:76)(cid:85)(cid:3)(cid:48)(cid:68)(cid:85)(cid:74)(cid:15)(cid:3)(cid:54)(cid:68)(cid:78)(cid:72)(cid:87)(cid:15)(cid:3)(cid:49)(cid:72)(cid:90)(cid:3)(cid:39)(cid:72)(cid:79)(cid:75)(cid:76)(cid:15)(cid:3)(cid:39)(cid:72)(cid:79)(cid:75)(cid:76)(cid:3)(cid:20)(cid:20)(cid:19)(cid:19)(cid:20)(cid:26)
+(cid:37)(cid:82)(cid:82)(cid:78)(cid:76)(cid:81)(cid:74)(cid:3)(cid:38)(cid:72)(cid:81)(cid:87)(cid:85)(cid:72)(cid:3)(cid:29)(cid:21)(cid:21)(cid:26)(cid:26)(cid:3)(cid:16)(cid:3)(cid:43)(cid:82)(cid:80)(cid:72)(cid:3)(cid:38)(cid:82)(cid:79)(cid:79)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:39)(cid:49)(cid:38)(cid:53)(cid:15)(cid:3)(cid:49)(cid:16)(cid:20)(cid:20)(cid:19)(cid:15)(cid:3)(cid:51)(cid:68)(cid:81)(cid:70)(cid:75)(cid:86)(cid:75)(cid:72)(cid:72)(cid:79)(cid:3)(cid:51)(cid:68)(cid:85)(cid:78)(cid:15)(cid:3)(cid:26)(cid:28)(cid:27)(cid:21)(cid:20)(cid:19)(cid:19)(cid:21)(cid:19)(cid:19)
+(cid:55)(cid:75)(cid:72)(cid:3)(cid:68)(cid:88)(cid:87)(cid:75)(cid:72)(cid:81)(cid:87)(cid:76)(cid:70)(cid:76)(cid:87)(cid:92)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:85)(cid:72)(cid:83)(cid:82)(cid:85)(cid:87)(cid:3)(cid:70)(cid:68)(cid:81)(cid:3)(cid:69)(cid:72)(cid:3)(cid:89)(cid:72)(cid:85)(cid:76)(cid:73)(cid:76)(cid:72)(cid:71)(cid:3)(cid:69)(cid:92)(cid:3)(cid:86)(cid:70)(cid:68)(cid:81)(cid:81)(cid:76)(cid:81)(cid:74)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:52)(cid:3)(cid:53)(cid:3)(cid:38)(cid:82)(cid:71)(cid:72)(cid:3)(cid:82)(cid:81)(cid:3)(cid:87)(cid:82)(cid:83)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:83)(cid:68)(cid:74)(cid:72)
+laboratory investigation report
+patient name : mrs. meena sharma centre : 2277 - home collection dncr
+age/gender : 53 y 0 m 0 d /f op/ip no/uhid : //
+maxid/lab id : ml04584243/2032042400426 collection date/time: 04/apr/2024 08:10am
+ref doctor : self reporting date/time : 04/apr/2024 12:59pm
+clinical pathology
+sin no:b2b5138603
+wellwise platinum profile
+urine routine and microscopy
+date 04/apr/2024 unit bio ref interval
+08:10am
+macroscopy
+colour pale yellow pale yellow
+visual observation/ automated
+ph 6.0 5-6
+double indicator
+specific gravity 1.020 1.015 - 1.025
+pka change
+protein neg nil
+protein-error of indicators
+glucose. neg nil
+enzyme reaction
+ketones neg nil
+acetoacetic reaction
+blood neg nil
+benzidine reaction
+bilirubin neg nil
+diazo reaction
+urobilinogen normal normal
+ehrlichs reaction
+microscopy
+red blood cells (rbc) 0 /hpf nil
+light microscopy/image capture
+microscopy
+white blood cells 1 /hpf 0.0-5.0
+light microscopy/image capture
+microscopy
+squamous epithelial cells 1 /hpf
+light microscopy/image capture
+microscopy
+cast nil /lpf nil
+light microscopy/image capture
+microscopy
+crystals nil nil
+light microscopy/image capture
+microscopy
+bacteria nil /hpf nil
+light microscopy/image capture
+microscopy
+page 20 of 21
+(cid:55)(cid:72)(cid:86)(cid:87)(cid:3)(cid:51)(cid:72)(cid:85)(cid:73)(cid:82)(cid:85)(cid:80)(cid:72)(cid:71)(cid:3)(cid:68)(cid:87)(cid:3)(cid:29)(cid:20)(cid:19)(cid:25)(cid:19)(cid:3)(cid:16)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:43)(cid:82)(cid:86)(cid:83)(cid:76)(cid:87)(cid:68)(cid:79)(cid:3)(cid:54)(cid:75)(cid:68)(cid:79)(cid:76)(cid:80)(cid:68)(cid:85)(cid:3)(cid:37)(cid:68)(cid:74)(cid:75)(cid:15)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:47)(cid:68)(cid:69)
+(cid:37)(cid:82)(cid:82)(cid:78)(cid:76)(cid:81)(cid:74)(cid:3)(cid:38)(cid:72)(cid:81)(cid:87)(cid:85)(cid:72)(cid:3)(cid:29)(cid:21)(cid:21)(cid:26)(cid:26)(cid:3)(cid:16)(cid:3)(cid:43)(cid:82)(cid:80)(cid:72)(cid:3)(cid:38)(cid:82)(cid:79)(cid:79)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:39)(cid:49)(cid:38)(cid:53)(cid:15)(cid:3)(cid:49)(cid:16)(cid:20)(cid:20)(cid:19)(cid:15)(cid:3)(cid:51)(cid:68)(cid:81)(cid:70)(cid:75)(cid:86)(cid:75)(cid:72)(cid:72)(cid:79)(cid:3)(cid:51)(cid:68)(cid:85)(cid:78)(cid:15)(cid:3)(cid:26)(cid:28)(cid:27)(cid:21)(cid:20)(cid:19)(cid:19)(cid:21)(cid:19)(cid:19)
+(cid:55)(cid:75)(cid:72)(cid:3)(cid:68)(cid:88)(cid:87)(cid:75)(cid:72)(cid:81)(cid:87)(cid:76)(cid:70)(cid:76)(cid:87)(cid:92)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:85)(cid:72)(cid:83)(cid:82)(cid:85)(cid:87)(cid:3)(cid:70)(cid:68)(cid:81)(cid:3)(cid:69)(cid:72)(cid:3)(cid:89)(cid:72)(cid:85)(cid:76)(cid:73)(cid:76)(cid:72)(cid:71)(cid:3)(cid:69)(cid:92)(cid:3)(cid:86)(cid:70)(cid:68)(cid:81)(cid:81)(cid:76)(cid:81)(cid:74)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:52)(cid:3)(cid:53)(cid:3)(cid:38)(cid:82)(cid:71)(cid:72)(cid:3)(cid:82)(cid:81)(cid:3)(cid:87)(cid:82)(cid:83)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:83)(cid:68)(cid:74)(cid:72)
+laboratory investigation report
+patient name : mrs. meena sharma centre : 2277 - home collection dncr
+age/gender : 53 y 0 m 0 d /f op/ip no/uhid : //
+maxid/lab id : ml04584243/2032042400426 collection date/time: 04/apr/2024 08:10am
+ref doctor : self reporting date/time : 04/apr/2024 12:59pm
+clinical pathology
+sin no:b2b5138603
+wellwise platinum profile
+kindly correlate with clinical findings
+*** end of report ***
+page 21 of 21
+(cid:55)(cid:72)(cid:86)(cid:87)(cid:3)(cid:51)(cid:72)(cid:85)(cid:73)(cid:82)(cid:85)(cid:80)(cid:72)(cid:71)(cid:3)(cid:68)(cid:87)(cid:3)(cid:29)(cid:20)(cid:19)(cid:25)(cid:19)(cid:3)(cid:16)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:43)(cid:82)(cid:86)(cid:83)(cid:76)(cid:87)(cid:68)(cid:79)(cid:3)(cid:54)(cid:75)(cid:68)(cid:79)(cid:76)(cid:80)(cid:68)(cid:85)(cid:3)(cid:37)(cid:68)(cid:74)(cid:75)(cid:15)(cid:3)(cid:48)(cid:68)(cid:91)(cid:3)(cid:47)(cid:68)(cid:69)
+(cid:37)(cid:82)(cid:82)(cid:78)(cid:76)(cid:81)(cid:74)(cid:3)(cid:38)(cid:72)(cid:81)(cid:87)(cid:85)(cid:72)(cid:3)(cid:29)(cid:21)(cid:21)(cid:26)(cid:26)(cid:3)(cid:16)(cid:3)(cid:43)(cid:82)(cid:80)(cid:72)(cid:3)(cid:38)(cid:82)(cid:79)(cid:79)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:39)(cid:49)(cid:38)(cid:53)(cid:15)(cid:3)(cid:49)(cid:16)(cid:20)(cid:20)(cid:19)(cid:15)(cid:3)(cid:51)(cid:68)(cid:81)(cid:70)(cid:75)(cid:86)(cid:75)(cid:72)(cid:72)(cid:79)(cid:3)(cid:51)(cid:68)(cid:85)(cid:78)(cid:15)(cid:3)(cid:26)(cid:28)(cid:27)(cid:21)(cid:20)(cid:19)(cid:19)(cid:21)(cid:19)(cid:19)
+(cid:55)(cid:75)(cid:72)(cid:3)(cid:68)(cid:88)(cid:87)(cid:75)(cid:72)(cid:81)(cid:87)(cid:76)(cid:70)(cid:76)(cid:87)(cid:92)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:85)(cid:72)(cid:83)(cid:82)(cid:85)(cid:87)(cid:3)(cid:70)(cid:68)(cid:81)(cid:3)(cid:69)(cid:72)(cid:3)(cid:89)(cid:72)(cid:85)(cid:76)(cid:73)(cid:76)(cid:72)(cid:71)(cid:3)(cid:69)(cid:92)(cid:3)(cid:86)(cid:70)(cid:68)(cid:81)(cid:81)(cid:76)(cid:81)(cid:74)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:52)(cid:3)(cid:53)(cid:3)(cid:38)(cid:82)(cid:71)(cid:72)(cid:3)(cid:82)(cid:81)(cid:3)(cid:87)(cid:82)(cid:83)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:83)(cid:68)(cid:74)(cid:72)

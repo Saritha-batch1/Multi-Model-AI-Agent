@@ -1,0 +1,5 @@
+age,gender,total_cholesterol,hdl,systolic_bp,model1_cholesterol_flag,model1_bp_flag,lipid_ratio,model2_risk_score,model3_context_score,final_risk_score,final_risk_level
+45,male,190,50,120,0,0,3.8,0,1,1,Low
+60,female,240,40,145,1,1,6.0,2,1,4,High
+35,female,180,55,118,0,0,3.272727272727273,0,0,0,Low
+55,male,260,35,150,1,1,7.428571428571429,2,1,4,High

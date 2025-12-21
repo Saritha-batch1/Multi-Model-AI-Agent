@@ -1,0 +1,5 @@
+age,gender,final_assessment,diet_recommendation,lifestyle_recommendation,follow_up
+45,male,Low Risk,Maintain balanced diet,Regular exercise,Annual check-up
+60,female,High Risk,Strict heart-healthy diet,"Daily exercise, weight control, avoid smoking",Immediate medical consultation and regular monitoring
+35,female,Low Risk,Maintain balanced diet,Regular exercise,Annual check-up
+55,male,Moderate Risk,"Low-fat, low-salt diet",Increase physical activity and manage stress,Doctor review every 6 months

@@ -1,0 +1,10 @@
+## AI Health Diagnostics Project
+
+This repository contains my progress for the Infosys Springboard AI/ML internship.
+
+Completed:
+- PDF data extraction using OCR and text-based parsing
+- Key blood parameter extraction
+- Data validation and standardization (Task-3)
+
+Outputs include cleaned CSV datasets for further analysis.

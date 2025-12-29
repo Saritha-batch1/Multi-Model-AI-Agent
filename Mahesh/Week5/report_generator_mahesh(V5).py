@@ -12,7 +12,7 @@ CONFIG_PATH = ROOT_DIR / "config.json"
 if not CONFIG_PATH.exists():
     raise FileNotFoundError(f"config.json not found at {CONFIG_PATH}")
 
-with open(CONFIG_PATH, "r") as f:
+with open(CONFIG_PATH, "r", encoding="utf-8") as f:
     config = json.load(f)
 
 WEEK4_OUTPUT_PATH = ROOT_DIR / config["week4_output_path"]
@@ -24,9 +24,6 @@ WEEK5_OUTPUT_PATH.mkdir(parents=True, exist_ok=True)
 # ==================================================
 
 def generate_recommendations(findings, overall_status):
-    """
-    Generate actionable recommendations linked to findings
-    """
     recs = []
 
     for item in findings:
@@ -34,50 +31,42 @@ def generate_recommendations(findings, overall_status):
         status = item.get("status")
 
         if param == "Glucose" and status in ["high", "moderate"]:
-            recs.append({
-                "action": "Monitor blood glucose and reduce sugar intake",
-                "reason": "Elevated glucose levels detected"
-            })
+            recs.append(
+                "Reduce sugar intake, exercise regularly, and monitor blood glucose levels."
+            )
 
         if param == "Cholesterol" and status == "high":
-            recs.append({
-                "action": "Adopt a low-fat diet and regular physical activity",
-                "reason": "High cholesterol may increase cardiovascular risk"
-            })
+            recs.append(
+                "Adopt a low-fat diet, avoid fried foods, and include regular physical activity."
+            )
 
         if param == "Hemoglobin" and status == "low":
-            recs.append({
-                "action": "Increase iron-rich foods and consult a doctor if fatigue continues",
-                "reason": "Low hemoglobin may indicate anemia"
-            })
+            recs.append(
+                "Include iron-rich foods such as leafy greens and legumes; consult a doctor if fatigue persists."
+            )
 
     if overall_status in ["moderate-risk", "high-risk"]:
-        recs.append({
-            "action": "Consult a healthcare professional",
-            "reason": "Overall health risk requires further evaluation"
-        })
+        recs.append(
+            "Schedule a consultation with a healthcare professional for further evaluation."
+        )
 
     if not recs:
-        recs.append({
-            "action": "Maintain healthy lifestyle habits",
-            "reason": "All parameters are within normal range"
-        })
+        recs.append(
+            "Maintain a balanced diet, regular exercise, and routine health checkups."
+        )
 
-    return recs
+    return list(set(recs))
 
 
-def generate_human_summary(user, overall_status, findings):
-    """
-    Generate human-readable summary
-    """
+def human_summary(user, overall_status, findings):
     lines = [
-        f"This health report is generated for a {user['age']}-year-old {user['gender']} individual.",
-        f"Overall health risk level is assessed as **{overall_status.upper()}**."
+        f"This health report is generated for a {user.get('age')}-year-old {user.get('gender')} individual.",
+        f"Overall health risk level is assessed as {overall_status.upper()}."
     ]
 
     for f in findings:
         lines.append(
-            f"{f['parameter']} is {f['status']} — {f['meaning']}."
+            f"{f['parameter']} is {f['status']} ({f['meaning']})."
         )
 
     return " ".join(lines)
@@ -92,7 +81,7 @@ if not week4_files:
     raise FileNotFoundError("No Week-4 summary files found. Run Week-4 first.")
 
 for file_path in week4_files:
-    with open(file_path, "r") as f:
+    with open(file_path, "r", encoding="utf-8") as f:
         week4_data = json.load(f)
 
     user = week4_data.get("user_profile", {})
@@ -101,10 +90,10 @@ for file_path in week4_files:
     patterns = week4_data.get("patterns_detected", [])
 
     # ==================================================
-    # SYNTHESIS (MODEL-4 OUTPUT)
+    # SYNTHESIS
     # ==================================================
 
-    summary_text = generate_human_summary(user, overall_status, findings)
+    summary_text = human_summary(user, overall_status, findings)
     recommendations = generate_recommendations(findings, overall_status)
 
     final_report = {
@@ -114,26 +103,22 @@ for file_path in week4_files:
         "key_findings": findings,
         "patterns_identified": patterns,
         "recommendations": recommendations,
-        "severity_level": overall_status,
-        "confidence": "rule-based analysis",
         "medical_disclaimer": (
-            "This report is generated for informational purposes only. "
-            "It does not constitute medical advice or diagnosis. "
-            "Please consult a qualified healthcare professional."
+            "This report is for informational purposes only and does not "
+            "constitute medical advice or diagnosis. Please consult a qualified doctor."
         ),
         "generated_at": datetime.now().isoformat()
     }
 
-    # ==================================================
-    # SAVE WEEK-5 REPORT
-    # ==================================================
-
     user_id = user.get("user_id", "unknown")
     output_file = WEEK5_OUTPUT_PATH / f"user_report_{user_id}.json"
 
-    with open(output_file, "w") as f:
+    with open(output_file, "w", encoding="utf-8") as f:
         json.dump(final_report, f, indent=4)
 
     print(f"[SUCCESS] Week-5 report generated: {output_file}")
 
-print("\n✅ Week-5 synthesis & recommendation generation completed.")
+print("\nWeek-5 synthesis and recommendation generation completed successfully.")
+
+# ==================================================
+# END

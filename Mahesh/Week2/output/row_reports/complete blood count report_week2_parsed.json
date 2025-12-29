@@ -1,0 +1,26 @@
+{
+  "file": "complete blood count report.pdf",
+  "parsed": {
+    "rbc_count": {
+      "value_raw": "1.8",
+      "value_standard": 1.8,
+      "unit_standard": "",
+      "flag": "low",
+      "conversion_note": "as_is"
+    },
+    "hemoglobin": {
+      "value_raw": "6.5",
+      "value_standard": 6.5,
+      "unit_standard": "",
+      "flag": "low",
+      "conversion_note": "as_is"
+    },
+    "platelet_count": {
+      "value_raw": "180",
+      "value_standard": 180.0,
+      "unit_standard": "",
+      "flag": "low",
+      "conversion_note": "as_is"
+    }
+  }
+}

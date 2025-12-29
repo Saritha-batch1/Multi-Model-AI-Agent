@@ -1,0 +1,26 @@
+{
+  "file": "Screenshot 2025-12-06 184832.png",
+  "parsed": {
+    "hemoglobin": {
+      "value_raw": "145",
+      "value_standard": 145.0,
+      "unit_standard": "",
+      "flag": "high",
+      "conversion_note": "as_is"
+    },
+    "rbc_count": {
+      "value_raw": "4.79",
+      "value_standard": 4.79,
+      "unit_standard": "",
+      "flag": "normal",
+      "conversion_note": "as_is"
+    },
+    "platelet_count": {
+      "value_raw": "150000",
+      "value_standard": 150000.0,
+      "unit_standard": "",
+      "flag": "normal",
+      "conversion_note": "as_is"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "file": "Full body Report.pdf",
+  "parsed": {
+    "rbc_count": {
+      "value_raw": "4.75",
+      "value_standard": 4.75,
+      "unit_standard": "",
+      "flag": "normal",
+      "conversion_note": "as_is"
+    },
+    "platelet_count": {
+      "value_raw": "160",
+      "value_standard": 160.0,
+      "unit_standard": "",
+      "flag": "low",
+      "conversion_note": "as_is"
+    },
+    "glucose": {
+      "value_raw": "102",
+      "value_standard": 102.0,
+      "unit_standard": "",
+      "flag": "high",
+      "conversion_note": "as_is"
+    },
+    "hemoglobin": {
+      "value_raw": "1",
+      "value_standard": 1.0,
+      "unit_standard": "",
+      "flag": "low",
+      "conversion_note": "as_is"
+    },
+    "cholesterol": {
+      "value_raw": "154",
+      "value_standard": 154.0,
+      "unit_standard": "",
+      "flag": "normal",
+      "conversion_note": "as_is"
+    }
+  }
+}

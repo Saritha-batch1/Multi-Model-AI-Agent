@@ -1,0 +1,19 @@
+{
+  "file": "Screenshot 2025-12-06 184738.png",
+  "parsed": {
+    "rbc_count": {
+      "value_raw": "46",
+      "value_standard": 46.0,
+      "unit_standard": "",
+      "flag": "high",
+      "conversion_note": "as_is"
+    },
+    "platelet_count": {
+      "value_raw": "155500",
+      "value_standard": 155500.0,
+      "unit_standard": "",
+      "flag": "normal",
+      "conversion_note": "as_is"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "file": "Guidelines-Made-Simple-Tool-2018-Cholesterol.pdf",
+  "parsed": {
+    "cholesterol": {
+      "value_raw": "2018",
+      "value_standard": 2018.0,
+      "unit_standard": "",
+      "flag": "high",
+      "conversion_note": "as_is"
+    },
+    "hemoglobin": {
+      "value_raw": "1",
+      "value_standard": 1.0,
+      "unit_standard": "",
+      "flag": "low",
+      "conversion_note": "as_is"
+    },
+    "glucose": {
+      "value_raw": "100",
+      "value_standard": 100.0,
+      "unit_standard": "",
+      "flag": "high",
+      "conversion_note": "as_is"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "user_profile": {
+        "user_id": "TEST_MALE_65",
+        "age": 65,
+        "gender": "male"
+    },
+    "overall_health_status": "moderate-risk",
+    "summary": "This health report is generated for a 65-year-old male individual. Overall health risk level is assessed as **MODERATE-RISK**.",
+    "key_findings": [],
+    "patterns_identified": [],
+    "recommendations": [
+        {
+            "action": "Consult a healthcare professional",
+            "reason": "Overall health risk requires further evaluation"
+        }
+    ],
+    "severity_level": "moderate-risk",
+    "confidence": "rule-based analysis",
+    "medical_disclaimer": "This report is generated for informational purposes only. It does not constitute medical advice or diagnosis. Please consult a qualified healthcare professional.",
+    "generated_at": "2025-12-29T11:52:20.400863"
+}

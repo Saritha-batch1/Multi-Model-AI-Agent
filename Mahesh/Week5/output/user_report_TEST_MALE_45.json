@@ -1,0 +1,54 @@
+{
+    "user_profile": {
+        "user_id": "TEST_MALE_45",
+        "age": 45,
+        "gender": "male"
+    },
+    "overall_health_status": "high-risk",
+    "summary": "This health report is generated for a 45-year-old male individual. Overall health risk level is assessed as **HIGH-RISK**. Hemoglobin is normal \u2014 Healthy level. Glucose is moderate \u2014 Prediabetes risk. Cholesterol is high \u2014 Increased heart disease risk.",
+    "key_findings": [
+        {
+            "parameter": "Hemoglobin",
+            "value": 13.75,
+            "status": "normal",
+            "meaning": "Healthy level"
+        },
+        {
+            "parameter": "Glucose",
+            "value": 101.0,
+            "status": "moderate",
+            "meaning": "Prediabetes risk"
+        },
+        {
+            "parameter": "Cholesterol",
+            "value": 1086.0,
+            "status": "high",
+            "meaning": "Increased heart disease risk"
+        }
+    ],
+    "patterns_identified": [
+        "Anemia (severe) suggested by hemoglobin 6.5 in complete blood count report_week2_parsed.json",
+        "Anemia (moderate) suggested by hemoglobin 8.3 in Full body Report_week2_parsed.json",
+        "Glucose risk prediabetes in Full body Report_week2_parsed.json (value 102.0)",
+        "Anemia (severe) suggested by hemoglobin 1.0 in Guidelines-Made-Simple-Tool-2018-Cholesterol_week2_parsed.json",
+        "Glucose risk prediabetes in Guidelines-Made-Simple-Tool-2018-Cholesterol_week2_parsed.json (value 100.0)"
+    ],
+    "recommendations": [
+        {
+            "action": "Monitor blood glucose and reduce sugar intake",
+            "reason": "Elevated glucose levels detected"
+        },
+        {
+            "action": "Adopt a low-fat diet and regular physical activity",
+            "reason": "High cholesterol may increase cardiovascular risk"
+        },
+        {
+            "action": "Consult a healthcare professional",
+            "reason": "Overall health risk requires further evaluation"
+        }
+    ],
+    "severity_level": "high-risk",
+    "confidence": "rule-based analysis",
+    "medical_disclaimer": "This report is generated for informational purposes only. It does not constitute medical advice or diagnosis. Please consult a qualified healthcare professional.",
+    "generated_at": "2025-12-29T11:52:20.399657"
+}

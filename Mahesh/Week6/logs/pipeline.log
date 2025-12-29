@@ -1,0 +1,309 @@
+[2025-12-29 12:25:16] ============================================================
+[2025-12-29 12:25:16] 🚀 HEALTH REPORT PIPELINE STARTED
+[2025-12-29 12:25:16] ============================================================
+[2025-12-29 12:25:16] ▶ STARTING: Week-1 Data Extraction
+[2025-12-29 12:25:35] ✅ Week-1 Data Extraction COMPLETED
+[2025-12-29 12:25:35] OUTPUT:
+[2025-12-29 12:25:35] Auto-updated REFERENCE_RANGES from guideline PDFs for: ['cholesterol']
+Input CSV not found at M:\mahesh\Intenships\Infosys Internship\Mahesh\Week1\data\healthcare_dataset.csv
+Please move healthcare_dataset.csv to Mahesh/Week1/data/ or update INPUT_CSV in the script.
+Parsed from CBC-test-report-format-example-sample-template-Drlogy-lab-report.pdf : {'hemoglobin': 12.5, 'platelet_count': 150000.0}
+Interpreted: {'hemoglobin': {'value': 12.5, 'flag': 'low'}, 'platelet_count': {'value': 150000.0, 'flag': 'normal'}}
+Saved parsed JSON to: M:\mahesh\Intenships\Infosys Internship\Mahesh\Week1\output\row_reports\CBC-test-report-format-example-sample-template-Drlogy-lab-report_parsed.json
+Parsed from Guidelines-Made-Simple-Tool-2018-Cholesterol.pdf : {'hemoglobin': 1.0, 'glucose': 100.0}
+Interpreted: {'hemoglobin': {'value': 1.0, 'flag': 'low'}, 'glucose': {'value': 100.0, 'flag': 'high'}}
+Saved parsed JSON to: M:\mahesh\Intenships\Infosys Internship\Mahesh\Week1\output\row_reports\Guidelines-Made-Simple-Tool-2018-Cholesterol_parsed.json
+Parsed from Hospital_Sample_Blood_Report.pdf : {}
+Interpreted: {}
+Saved parsed JSON to: M:\mahesh\Intenships\Infosys Internship\Mahesh\Week1\output\row_reports\Hospital_Sample_Blood_Report_parsed.json
+Parsed from Sample_Consolidated_Blood_Report.pdf : {}
+Interpreted: {}
+Saved parsed JSON to: M:\mahesh\Intenships\Infosys Internship\Mahesh\Week1\output\row_reports\Sample_Consolidated_Blood_Report_parsed.json
+[2025-12-29 12:25:35] ▶ STARTING: Week-2 OCR & Parsing
+[2025-12-29 12:25:36] ❌ Week-2 OCR & Parsing ERROR
+[2025-12-29 12:25:36] M:\mahesh\Intenships\Infosys Internship\Mahesh\Week2\data_extraction_mahesh_v2.py:26: SyntaxWarning: invalid escape sequence '\.'
+  . .\.venv\Scripts\Activate.ps1
+Cannot set gray stroke color because /'P29' is an invalid float value
+Cannot set gray non-stroke color because /'P29' is an invalid float value
+Traceback (most recent call last):
+  File "M:\mahesh\Intenships\Infosys Internship\Mahesh\Week2\data_extraction_mahesh_v2.py", line 511, in <module>
+    main()
+    ~~~~^^
+  File "M:\mahesh\Intenships\Infosys Internship\Mahesh\Week2\data_extraction_mahesh_v2.py", line 493, in main
+    summary = classify_and_process_file(f)
+  File "M:\mahesh\Intenships\Infosys Internship\Mahesh\Week2\data_extraction_mahesh_v2.py", line 431, in classify_and_process_file
+    parsed, interpreted = process_pdf_report(file_path)
+                          ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "M:\mahesh\Intenships\Infosys Internship\Mahesh\Week2\data_extraction_mahesh_v2.py", line 356, in process_pdf_report
+    text = extract_text_from_pdf(pdf_path)
+  File "M:\mahesh\Intenships\Infosys Internship\Mahesh\Week2\data_extraction_mahesh_v2.py", line 200, in extract_text_from_pdf
+    print(f"    \u2192 Extracted {len(text)} characters from PDF")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2192' in position 4: character maps to <undefined>
+
+[2025-12-29 12:25:36] 🔥 PIPELINE STOPPED at Week-2 OCR & Parsing
+[2025-12-29 12:31:03] ============================================================
+[2025-12-29 12:31:03] 🚀 HEALTH REPORT PIPELINE STARTED
+[2025-12-29 12:31:03] ============================================================
+[2025-12-29 12:31:03] ▶ STARTING: Week-1 Data Extraction
+[2025-12-29 12:31:18] ✅ Week-1 Data Extraction COMPLETED
+[2025-12-29 12:31:18] OUTPUT:
+[2025-12-29 12:31:18] Auto-updated REFERENCE_RANGES from guideline PDFs for: ['cholesterol']
+Input CSV not found at M:\mahesh\Intenships\Infosys Internship\Mahesh\Week1\data\healthcare_dataset.csv
+Please move healthcare_dataset.csv to Mahesh/Week1/data/ or update INPUT_CSV in the script.
+Parsed from CBC-test-report-format-example-sample-template-Drlogy-lab-report.pdf : {'hemoglobin': 12.5, 'platelet_count': 150000.0}
+Interpreted: {'hemoglobin': {'value': 12.5, 'flag': 'low'}, 'platelet_count': {'value': 150000.0, 'flag': 'normal'}}
+Saved parsed JSON to: M:\mahesh\Intenships\Infosys Internship\Mahesh\Week1\output\row_reports\CBC-test-report-format-example-sample-template-Drlogy-lab-report_parsed.json
+Parsed from Guidelines-Made-Simple-Tool-2018-Cholesterol.pdf : {'hemoglobin': 1.0, 'glucose': 100.0}
+Interpreted: {'hemoglobin': {'value': 1.0, 'flag': 'low'}, 'glucose': {'value': 100.0, 'flag': 'high'}}
+Saved parsed JSON to: M:\mahesh\Intenships\Infosys Internship\Mahesh\Week1\output\row_reports\Guidelines-Made-Simple-Tool-2018-Cholesterol_parsed.json
+Parsed from Hospital_Sample_Blood_Report.pdf : {}
+Interpreted: {}
+Saved parsed JSON to: M:\mahesh\Intenships\Infosys Internship\Mahesh\Week1\output\row_reports\Hospital_Sample_Blood_Report_parsed.json
+Parsed from Sample_Consolidated_Blood_Report.pdf : {}
+Interpreted: {}
+Saved parsed JSON to: M:\mahesh\Intenships\Infosys Internship\Mahesh\Week1\output\row_reports\Sample_Consolidated_Blood_Report_parsed.json
+[2025-12-29 12:31:18] ▶ STARTING: Week-2 OCR & Parsing
+[2025-12-29 12:31:27] ❌ Week-2 OCR & Parsing ERROR
+[2025-12-29 12:31:27] M:\mahesh\Intenships\Infosys Internship\Mahesh\Week2\data_extraction_mahesh_v2.py:26: SyntaxWarning: invalid escape sequence '\.'
+  . .\.venv\Scripts\Activate.ps1
+Cannot set gray stroke color because /'P29' is an invalid float value
+Cannot set gray non-stroke color because /'P29' is an invalid float value
+Traceback (most recent call last):
+  File "M:\mahesh\Intenships\Infosys Internship\Mahesh\Week2\data_extraction_mahesh_v2.py", line 511, in <module>
+    main()
+    ~~~~^^
+  File "M:\mahesh\Intenships\Infosys Internship\Mahesh\Week2\data_extraction_mahesh_v2.py", line 493, in main
+    summary = classify_and_process_file(f)
+  File "M:\mahesh\Intenships\Infosys Internship\Mahesh\Week2\data_extraction_mahesh_v2.py", line 431, in classify_and_process_file
+    parsed, interpreted = process_pdf_report(file_path)
+                          ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "M:\mahesh\Intenships\Infosys Internship\Mahesh\Week2\data_extraction_mahesh_v2.py", line 372, in process_pdf_report
+    print(f"    Parsed from {pdf_path.name} :", parsed_full)
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2265' in position 646: character maps to <undefined>
+
+[2025-12-29 12:31:27] 🔥 PIPELINE STOPPED at Week-2 OCR & Parsing
+[2025-12-29 12:41:34] ============================================================
+[2025-12-29 12:41:34] 🚀 HEALTH REPORT PIPELINE STARTED
+[2025-12-29 12:41:34] ============================================================
+[2025-12-29 12:41:34] ▶ STARTING: Week-1 Data Extraction
+[2025-12-29 12:41:48] ✅ Week-1 Data Extraction COMPLETED
+[2025-12-29 12:41:48] OUTPUT:
+[2025-12-29 12:41:48] Auto-updated REFERENCE_RANGES from guideline PDFs for: ['cholesterol']
+Input CSV not found at M:\mahesh\Intenships\Infosys Internship\Mahesh\Week1\data\healthcare_dataset.csv
+Please move healthcare_dataset.csv to Mahesh/Week1/data/ or update INPUT_CSV in the script.
+Parsed from CBC-test-report-format-example-sample-template-Drlogy-lab-report.pdf : {'hemoglobin': 12.5, 'platelet_count': 150000.0}
+Interpreted: {'hemoglobin': {'value': 12.5, 'flag': 'low'}, 'platelet_count': {'value': 150000.0, 'flag': 'normal'}}
+Saved parsed JSON to: M:\mahesh\Intenships\Infosys Internship\Mahesh\Week1\output\row_reports\CBC-test-report-format-example-sample-template-Drlogy-lab-report_parsed.json
+Parsed from Guidelines-Made-Simple-Tool-2018-Cholesterol.pdf : {'hemoglobin': 1.0, 'glucose': 100.0}
+Interpreted: {'hemoglobin': {'value': 1.0, 'flag': 'low'}, 'glucose': {'value': 100.0, 'flag': 'high'}}
+Saved parsed JSON to: M:\mahesh\Intenships\Infosys Internship\Mahesh\Week1\output\row_reports\Guidelines-Made-Simple-Tool-2018-Cholesterol_parsed.json
+Parsed from Hospital_Sample_Blood_Report.pdf : {}
+Interpreted: {}
+Saved parsed JSON to: M:\mahesh\Intenships\Infosys Internship\Mahesh\Week1\output\row_reports\Hospital_Sample_Blood_Report_parsed.json
+Parsed from Sample_Consolidated_Blood_Report.pdf : {}
+Interpreted: {}
+Saved parsed JSON to: M:\mahesh\Intenships\Infosys Internship\Mahesh\Week1\output\row_reports\Sample_Consolidated_Blood_Report_parsed.json
+[2025-12-29 12:41:48] ▶ STARTING: Week-2 OCR & Parsing
+[2025-12-29 12:42:06] ✅ Week-2 OCR & Parsing COMPLETED
+[2025-12-29 12:42:06] OUTPUT:
+[2025-12-29 12:42:06] Week-2 Report Folder: M:\mahesh\Intenships\Infosys Internship\Mahesh\Week2\data\testdata
+[2025-12-29 12:41:49] PDF: CBC-test-report-format-example-sample-template-Drlogy-lab-report.pdf
+    Parameters found: ['hemoglobin', 'rbc_count', 'platelet_count']
+[2025-12-29 12:41:49] PDF: complete blood count report.pdf
+    Parameters found: ['rbc_count', 'hemoglobin', 'platelet_count']
+[2025-12-29 12:41:49] PDF: Full body Report.pdf
+    Parameters found: ['rbc_count', 'platelet_count', 'glucose', 'hemoglobin', 'cholesterol']
+[2025-12-29 12:41:50] PDF: Guidelines-Made-Simple-Tool-2018-Cholesterol.pdf
+    Parameters found: ['cholesterol', 'hemoglobin', 'glucose']
+CSV detected (handled in Week-1): healthcare_dataset.csv
+[2025-12-29 12:41:55] PDF: Hospital_Sample_Blood_Report.pdf
+    Parameters found: []
+[2025-12-29 12:41:55] PDF: Sample_Consolidated_Blood_Report.pdf
+    Parameters found: []
+[2025-12-29 12:41:55] IMAGE: Screenshot 2025-12-06 184647.png
+    Parameters found: []
+[2025-12-29 12:42:03] IMAGE: Screenshot 2025-12-06 184708.png
+    Parameters found: ['rbc_count']
+[2025-12-29 12:42:04] IMAGE: Screenshot 2025-12-06 184738.png
+    Parameters found: ['rbc_count', 'platelet_count']
+[2025-12-29 12:42:04] IMAGE: Screenshot 2025-12-06 184809.png
+    Parameters found: ['hemoglobin', 'platelet_count', 'rbc_count']
+[2025-12-29 12:42:05] IMAGE: Screenshot 2025-12-06 184832.png
+    Parameters found: ['hemoglobin', 'rbc_count', 'platelet_count']
+
+âœ… Week-2 OCR & Parsing COMPLETED
+[2025-12-29 12:42:06] ▶ STARTING: Week-3 Pattern Recognition
+[2025-12-29 12:42:06] ✅ Week-3 Pattern Recognition COMPLETED
+[2025-12-29 12:42:06] OUTPUT:
+[2025-12-29 12:42:06] Repo root: M:\mahesh\Intenships\Infosys Internship
+Using Week-2 JSON folder: M:\mahesh\Intenships\Infosys Internship\Mahesh\Week2\output\row_reports
+Loaded 11 parsed JSON reports from Week-2.
+Saved week3 summary to: M:\mahesh\Intenships\Infosys Internship\Mahesh\Week3\output\week3_analysis\week3_summary.json
+Done. Summary overall flag: low-risk
+[2025-12-29 12:42:06] ▶ STARTING: Week-4 Contextual Analysis
+[2025-12-29 12:42:06] ❌ Week-4 Contextual Analysis ERROR
+[2025-12-29 12:42:06] Traceback (most recent call last):
+  File "M:\mahesh\Intenships\Infosys Internship\Mahesh\Week4\contextual_analysis_mahesh(V4).py", line 33, in <module>
+    raise FileNotFoundError(f"Week-4 report not found: {WEEK4_REPORT_PATH}")
+FileNotFoundError: Week-4 report not found: M:\mahesh\Intenships\Infosys Internship\Mahesh\Week4\output\week4_final_summary_user_male_45.json
+
+[2025-12-29 12:42:06] 🔥 PIPELINE STOPPED at Week-4 Contextual Analysis
+[2025-12-29 13:04:32] ============================================================
+[2025-12-29 13:04:32] 🚀 HEALTH REPORT PIPELINE STARTED
+[2025-12-29 13:04:32] ============================================================
+[2025-12-29 13:04:32] ▶ STARTING: Week-1 Data Extraction
+[2025-12-29 13:04:45] ✅ Week-1 Data Extraction COMPLETED
+[2025-12-29 13:04:45] OUTPUT:
+[2025-12-29 13:04:45] Auto-updated REFERENCE_RANGES from guideline PDFs for: ['cholesterol']
+Input CSV not found at M:\mahesh\Intenships\Infosys Internship\Mahesh\Week1\data\healthcare_dataset.csv
+Please move healthcare_dataset.csv to Mahesh/Week1/data/ or update INPUT_CSV in the script.
+Parsed from CBC-test-report-format-example-sample-template-Drlogy-lab-report.pdf : {'hemoglobin': 12.5, 'platelet_count': 150000.0}
+Interpreted: {'hemoglobin': {'value': 12.5, 'flag': 'low'}, 'platelet_count': {'value': 150000.0, 'flag': 'normal'}}
+Saved parsed JSON to: M:\mahesh\Intenships\Infosys Internship\Mahesh\Week1\output\row_reports\CBC-test-report-format-example-sample-template-Drlogy-lab-report_parsed.json
+Parsed from Guidelines-Made-Simple-Tool-2018-Cholesterol.pdf : {'hemoglobin': 1.0, 'glucose': 100.0}
+Interpreted: {'hemoglobin': {'value': 1.0, 'flag': 'low'}, 'glucose': {'value': 100.0, 'flag': 'high'}}
+Saved parsed JSON to: M:\mahesh\Intenships\Infosys Internship\Mahesh\Week1\output\row_reports\Guidelines-Made-Simple-Tool-2018-Cholesterol_parsed.json
+Parsed from Hospital_Sample_Blood_Report.pdf : {}
+Interpreted: {}
+Saved parsed JSON to: M:\mahesh\Intenships\Infosys Internship\Mahesh\Week1\output\row_reports\Hospital_Sample_Blood_Report_parsed.json
+Parsed from Sample_Consolidated_Blood_Report.pdf : {}
+Interpreted: {}
+Saved parsed JSON to: M:\mahesh\Intenships\Infosys Internship\Mahesh\Week1\output\row_reports\Sample_Consolidated_Blood_Report_parsed.json
+[2025-12-29 13:04:45] ▶ STARTING: Week-2 OCR & Parsing
+[2025-12-29 13:05:04] ✅ Week-2 OCR & Parsing COMPLETED
+[2025-12-29 13:05:04] OUTPUT:
+[2025-12-29 13:05:04] Week-2 Report Folder: M:\mahesh\Intenships\Infosys Internship\Mahesh\Week2\data\testdata
+[2025-12-29 13:04:46] PDF: CBC-test-report-format-example-sample-template-Drlogy-lab-report.pdf
+    Parameters found: ['hemoglobin', 'rbc_count', 'platelet_count']
+[2025-12-29 13:04:47] PDF: complete blood count report.pdf
+    Parameters found: ['rbc_count', 'hemoglobin', 'platelet_count']
+[2025-12-29 13:04:47] PDF: Full body Report.pdf
+    Parameters found: ['rbc_count', 'platelet_count', 'glucose', 'hemoglobin', 'cholesterol']
+[2025-12-29 13:04:48] PDF: Guidelines-Made-Simple-Tool-2018-Cholesterol.pdf
+    Parameters found: ['cholesterol', 'hemoglobin', 'glucose']
+CSV detected (handled in Week-1): healthcare_dataset.csv
+[2025-12-29 13:04:54] PDF: Hospital_Sample_Blood_Report.pdf
+    Parameters found: []
+[2025-12-29 13:04:54] PDF: Sample_Consolidated_Blood_Report.pdf
+    Parameters found: []
+[2025-12-29 13:04:54] IMAGE: Screenshot 2025-12-06 184647.png
+    Parameters found: []
+[2025-12-29 13:05:02] IMAGE: Screenshot 2025-12-06 184708.png
+    Parameters found: ['rbc_count']
+[2025-12-29 13:05:02] IMAGE: Screenshot 2025-12-06 184738.png
+    Parameters found: ['rbc_count', 'platelet_count']
+[2025-12-29 13:05:03] IMAGE: Screenshot 2025-12-06 184809.png
+    Parameters found: ['hemoglobin', 'platelet_count', 'rbc_count']
+[2025-12-29 13:05:03] IMAGE: Screenshot 2025-12-06 184832.png
+    Parameters found: ['hemoglobin', 'rbc_count', 'platelet_count']
+
+âœ… Week-2 OCR & Parsing COMPLETED
+[2025-12-29 13:05:04] ▶ STARTING: Week-3 Pattern Recognition
+[2025-12-29 13:05:04] ✅ Week-3 Pattern Recognition COMPLETED
+[2025-12-29 13:05:04] OUTPUT:
+[2025-12-29 13:05:04] Repo root: M:\mahesh\Intenships\Infosys Internship
+Using Week-2 JSON folder: M:\mahesh\Intenships\Infosys Internship\Mahesh\Week2\output\row_reports
+Loaded 11 parsed JSON reports from Week-2.
+Saved week3 summary to: M:\mahesh\Intenships\Infosys Internship\Mahesh\Week3\output\week3_analysis\week3_summary.json
+Done. Summary overall flag: low-risk
+[2025-12-29 13:05:04] ▶ STARTING: Week-4 Contextual Analysis
+[2025-12-29 13:05:04] ✅ Week-4 Contextual Analysis COMPLETED
+[2025-12-29 13:05:04] OUTPUT:
+[2025-12-29 13:05:04] [SUCCESS] Week-4 report generated for TEST_MALE_45
+[SUCCESS] Week-4 report generated for TEST_MALE_65
+[SUCCESS] Week-4 report generated for TEST_FEMALE_28
+[2025-12-29 13:05:04] ▶ STARTING: Week-5 Report Generation
+[2025-12-29 13:05:04] ❌ Week-5 Report Generation ERROR
+[2025-12-29 13:05:04] Traceback (most recent call last):
+  File "M:\mahesh\Intenships\Infosys Internship\Mahesh\Week5\report_generator_mahesh(V5).py", line 139, in <module>
+    print("\n\u2705 Week-5 synthesis & recommendation generation completed.")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 2: character maps to <undefined>
+
+[2025-12-29 13:05:04] 🔥 PIPELINE STOPPED at Week-5 Report Generation
+[2025-12-29 13:08:02] ============================================================
+[2025-12-29 13:08:02] 🚀 HEALTH REPORT PIPELINE STARTED
+[2025-12-29 13:08:02] ============================================================
+[2025-12-29 13:08:02] ▶ STARTING: Week-1 Data Extraction
+[2025-12-29 13:08:14] ✅ Week-1 Data Extraction COMPLETED
+[2025-12-29 13:08:14] OUTPUT:
+[2025-12-29 13:08:14] Auto-updated REFERENCE_RANGES from guideline PDFs for: ['cholesterol']
+Input CSV not found at M:\mahesh\Intenships\Infosys Internship\Mahesh\Week1\data\healthcare_dataset.csv
+Please move healthcare_dataset.csv to Mahesh/Week1/data/ or update INPUT_CSV in the script.
+Parsed from CBC-test-report-format-example-sample-template-Drlogy-lab-report.pdf : {'hemoglobin': 12.5, 'platelet_count': 150000.0}
+Interpreted: {'hemoglobin': {'value': 12.5, 'flag': 'low'}, 'platelet_count': {'value': 150000.0, 'flag': 'normal'}}
+Saved parsed JSON to: M:\mahesh\Intenships\Infosys Internship\Mahesh\Week1\output\row_reports\CBC-test-report-format-example-sample-template-Drlogy-lab-report_parsed.json
+Parsed from Guidelines-Made-Simple-Tool-2018-Cholesterol.pdf : {'hemoglobin': 1.0, 'glucose': 100.0}
+Interpreted: {'hemoglobin': {'value': 1.0, 'flag': 'low'}, 'glucose': {'value': 100.0, 'flag': 'high'}}
+Saved parsed JSON to: M:\mahesh\Intenships\Infosys Internship\Mahesh\Week1\output\row_reports\Guidelines-Made-Simple-Tool-2018-Cholesterol_parsed.json
+Parsed from Hospital_Sample_Blood_Report.pdf : {}
+Interpreted: {}
+Saved parsed JSON to: M:\mahesh\Intenships\Infosys Internship\Mahesh\Week1\output\row_reports\Hospital_Sample_Blood_Report_parsed.json
+Parsed from Sample_Consolidated_Blood_Report.pdf : {}
+Interpreted: {}
+Saved parsed JSON to: M:\mahesh\Intenships\Infosys Internship\Mahesh\Week1\output\row_reports\Sample_Consolidated_Blood_Report_parsed.json
+[2025-12-29 13:08:14] ▶ STARTING: Week-2 OCR & Parsing
+[2025-12-29 13:08:25] ✅ Week-2 OCR & Parsing COMPLETED
+[2025-12-29 13:08:25] OUTPUT:
+[2025-12-29 13:08:25] Week-2 Report Folder: M:\mahesh\Intenships\Infosys Internship\Mahesh\Week2\data\testdata
+[2025-12-29 13:08:15] PDF: CBC-test-report-format-example-sample-template-Drlogy-lab-report.pdf
+    Parameters found: ['hemoglobin', 'rbc_count', 'platelet_count']
+[2025-12-29 13:08:15] PDF: complete blood count report.pdf
+    Parameters found: ['rbc_count', 'hemoglobin', 'platelet_count']
+[2025-12-29 13:08:15] PDF: Full body Report.pdf
+    Parameters found: ['rbc_count', 'platelet_count', 'glucose', 'hemoglobin', 'cholesterol']
+[2025-12-29 13:08:17] PDF: Guidelines-Made-Simple-Tool-2018-Cholesterol.pdf
+    Parameters found: ['cholesterol', 'hemoglobin', 'glucose']
+CSV detected (handled in Week-1): healthcare_dataset.csv
+[2025-12-29 13:08:21] PDF: Hospital_Sample_Blood_Report.pdf
+    Parameters found: []
+[2025-12-29 13:08:21] PDF: Sample_Consolidated_Blood_Report.pdf
+    Parameters found: []
+[2025-12-29 13:08:22] IMAGE: Screenshot 2025-12-06 184647.png
+    Parameters found: []
+[2025-12-29 13:08:23] IMAGE: Screenshot 2025-12-06 184708.png
+    Parameters found: ['rbc_count']
+[2025-12-29 13:08:23] IMAGE: Screenshot 2025-12-06 184738.png
+    Parameters found: ['rbc_count', 'platelet_count']
+[2025-12-29 13:08:23] IMAGE: Screenshot 2025-12-06 184809.png
+    Parameters found: ['hemoglobin', 'platelet_count', 'rbc_count']
+[2025-12-29 13:08:24] IMAGE: Screenshot 2025-12-06 184832.png
+    Parameters found: ['hemoglobin', 'rbc_count', 'platelet_count']
+
+âœ… Week-2 OCR & Parsing COMPLETED
+[2025-12-29 13:08:25] ▶ STARTING: Week-3 Pattern Recognition
+[2025-12-29 13:08:25] ✅ Week-3 Pattern Recognition COMPLETED
+[2025-12-29 13:08:25] OUTPUT:
+[2025-12-29 13:08:25] Repo root: M:\mahesh\Intenships\Infosys Internship
+Using Week-2 JSON folder: M:\mahesh\Intenships\Infosys Internship\Mahesh\Week2\output\row_reports
+Loaded 11 parsed JSON reports from Week-2.
+Saved week3 summary to: M:\mahesh\Intenships\Infosys Internship\Mahesh\Week3\output\week3_analysis\week3_summary.json
+Done. Summary overall flag: low-risk
+[2025-12-29 13:08:25] ▶ STARTING: Week-4 Contextual Analysis
+[2025-12-29 13:08:25] ✅ Week-4 Contextual Analysis COMPLETED
+[2025-12-29 13:08:25] OUTPUT:
+[2025-12-29 13:08:25] [SUCCESS] Week-4 report generated for TEST_MALE_45
+[SUCCESS] Week-4 report generated for TEST_MALE_65
+[SUCCESS] Week-4 report generated for TEST_FEMALE_28
+[2025-12-29 13:08:25] ▶ STARTING: Week-5 Report Generation
+[2025-12-29 13:08:25] ✅ Week-5 Report Generation COMPLETED
+[2025-12-29 13:08:25] OUTPUT:
+[2025-12-29 13:08:25] [SUCCESS] Week-5 report generated: M:\mahesh\Intenships\Infosys Internship\Mahesh\Week5\output\user_report_TEST_FEMALE_28.json
+[SUCCESS] Week-5 report generated: M:\mahesh\Intenships\Infosys Internship\Mahesh\Week5\output\user_report_TEST_MALE_45.json
+[SUCCESS] Week-5 report generated: M:\mahesh\Intenships\Infosys Internship\Mahesh\Week5\output\user_report_TEST_MALE_65.json
+
+Week-5 synthesis and recommendation generation completed successfully.
+[2025-12-29 13:08:25] ============================================================
+[2025-12-29 13:08:25] 🎉 PIPELINE COMPLETED SUCCESSFULLY
+[2025-12-29 13:08:25] ============================================================

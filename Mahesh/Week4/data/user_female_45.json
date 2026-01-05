@@ -1,0 +1,6 @@
+{
+  "user_id": "TEST_USER_001",
+  "age": 45,
+  "gender": "female",
+  "note": "Synthetic test profile used for logic validation only"
+}

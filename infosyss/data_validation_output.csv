@@ -1,0 +1,5 @@
+Parameter,Value,Valid
+Patient Age,45,True
+Blood Pressure,120/80,True
+Heart Rate,72,True
+Cholesterol,190,True

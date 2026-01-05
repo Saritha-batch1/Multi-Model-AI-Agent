@@ -1,0 +1,23 @@
+column,value,count
+Gender,male,27774
+Gender,female,27726
+Blood Type,a,13925
+Blood Type,ab,13892
+Blood Type,b,13889
+Blood Type,o,13794
+Medical Condition,arthritis,9308
+Medical Condition,diabetes,9304
+Medical Condition,hypertension,9245
+Medical Condition,obesity,9231
+Medical Condition,cancer,9227
+Admission Type,elective,18655
+Admission Type,urgent,18576
+Admission Type,emergency,18269
+Medication,lipitor,11140
+Medication,ibuprofen,11127
+Medication,aspirin,11094
+Medication,paracetamol,11071
+Medication,penicillin,11068
+Test Results,abnormal,18627
+Test Results,normal,18517
+Test Results,inconclusive,18356

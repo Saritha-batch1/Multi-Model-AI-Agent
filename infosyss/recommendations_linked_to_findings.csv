@@ -1,0 +1,5 @@
+finding,risk_level,diet,lifestyle,follow_up,linked_summary
+Normal BP & Cholesterol,Low,Balanced diet,Maintain activity,Annual check-up,"Finding: Normal BP & Cholesterol → Diet: Balanced diet, Lifestyle: Maintain activity, Follow-up: Annual check-up"
+High BP,Moderate,Low-salt diet,Increase physical activity,Clinical review in 6 months,"Finding: High BP → Diet: Low-salt diet, Lifestyle: Increase physical activity, Follow-up: Clinical review in 6 months"
+High Lipid Ratio,Moderate,Low-fat diet,Exercise and weight control,Clinical review in 6 months,"Finding: High Lipid Ratio → Diet: Low-fat diet, Lifestyle: Exercise and weight control, Follow-up: Clinical review in 6 months"
+High BP & High Lipid Ratio,High,Strict heart-healthy diet,"Daily exercise, stress management",Immediate medical consultation,"Finding: High BP & High Lipid Ratio → Diet: Strict heart-healthy diet, Lifestyle: Daily exercise, stress management, Follow-up: Immediate medical consultation"

@@ -1,93 +1,40 @@
 {
   "file": "Full body Report.pdf",
-  "type": "pdf",
   "parsed": {
-    "hemoglobin": {
-      "value_raw": "8.3",
-      "unit_raw": "g/dl",
-      "source_line": "Haemoglobin 8.3 g/dl 12.0 - 15.0",
-      "value_standard": 8.3,
-      "unit_standard": "g/dL",
-      "conversion_note": "used_as_is",
-      "flag": "low"
-    },
     "rbc_count": {
       "value_raw": "4.75",
-      "unit_raw": "",
-      "source_line": "RBC Count 4.75 10~12/L 3.8-4.8",
-      "value_standard": 4.75,
-      "unit_standard": "",
-      "conversion_note": "used_as_is",
-      "flag": "normal"
-    },
-    "platelet_count": {
-      "value_raw": "160",
-      "unit_raw": "",
-      "source_line": "Platelet Count 160 10~9/L 150-410",
-      "value_standard": 160.0,
-      "unit_standard": "cells",
-      "conversion_note": "used_as_is",
-      "flag": "low"
-    },
-    "glucose": {
-      "value_raw": "102",
-      "unit_raw": "mg/dL",
-      "source_line": "Glucose (Fasting) 102 mg/dL 74 - 99",
-      "value_standard": 102.0,
-      "unit_standard": "mg/dL",
-      "conversion_note": "used_as_is",
-      "flag": "high"
-    },
-    "cholesterol": {
-      "value_raw": "154",
-      "unit_raw": "mg/dL",
-      "source_line": "Cholesterol 154 mg/dL < 200",
-      "value_standard": 154.0,
-      "unit_standard": "mg/dL",
-      "conversion_note": "used_as_is",
-      "flag": "normal"
-    }
-  },
-  "interpreted": {
-    "hemoglobin": {
-      "value_raw": "8.3",
-      "unit_raw": "g/dl",
-      "value_standard": 8.3,
-      "unit_standard": "g/dL",
-      "flag": "low",
-      "conversion_note": "used_as_is"
-    },
-    "rbc_count": {
-      "value_raw": "4.75",
-      "unit_raw": "",
       "value_standard": 4.75,
       "unit_standard": "",
       "flag": "normal",
-      "conversion_note": "used_as_is"
+      "conversion_note": "as_is"
     },
     "platelet_count": {
       "value_raw": "160",
-      "unit_raw": "",
       "value_standard": 160.0,
-      "unit_standard": "cells",
+      "unit_standard": "",
       "flag": "low",
-      "conversion_note": "used_as_is"
+      "conversion_note": "as_is"
     },
     "glucose": {
       "value_raw": "102",
-      "unit_raw": "mg/dL",
       "value_standard": 102.0,
-      "unit_standard": "mg/dL",
+      "unit_standard": "",
       "flag": "high",
-      "conversion_note": "used_as_is"
+      "conversion_note": "as_is"
+    },
+    "hemoglobin": {
+      "value_raw": "1",
+      "value_standard": 1.0,
+      "unit_standard": "",
+      "flag": "low",
+      "conversion_note": "as_is"
     },
     "cholesterol": {
       "value_raw": "154",
-      "unit_raw": "mg/dL",
       "value_standard": 154.0,
-      "unit_standard": "mg/dL",
+      "unit_standard": "",
       "flag": "normal",
-      "conversion_note": "used_as_is"
+      "conversion_note": "as_is"
     }
   }
 }

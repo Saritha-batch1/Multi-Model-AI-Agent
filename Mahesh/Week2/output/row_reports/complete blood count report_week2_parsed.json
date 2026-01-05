@@ -1,42 +1,26 @@
 {
   "file": "complete blood count report.pdf",
-  "type": "pdf",
   "parsed": {
+    "rbc_count": {
+      "value_raw": "1.8",
+      "value_standard": 1.8,
+      "unit_standard": "",
+      "flag": "low",
+      "conversion_note": "as_is"
+    },
     "hemoglobin": {
       "value_raw": "6.5",
-      "unit_raw": "L",
-      "source_line": "Hemoglobin (HB/Hgb)) M 6.5 L** g/dL 14.0-18.0 for these test names or abbreviations in the pull-down menu",
       "value_standard": 6.5,
-      "unit_standard": "g/dL",
-      "conversion_note": "used_as_is",
-      "flag": "low"
+      "unit_standard": "",
+      "flag": "low",
+      "conversion_note": "as_is"
     },
     "platelet_count": {
       "value_raw": "180",
-      "unit_raw": "K/mcL",
-      "source_line": "Platelet count 180 K/mcL 150-450",
       "value_standard": 180.0,
-      "unit_standard": "cells",
-      "conversion_note": "used_as_is",
-      "flag": "low"
-    }
-  },
-  "interpreted": {
-    "hemoglobin": {
-      "value_raw": "6.5",
-      "unit_raw": "L",
-      "value_standard": 6.5,
-      "unit_standard": "g/dL",
+      "unit_standard": "",
       "flag": "low",
-      "conversion_note": "used_as_is"
-    },
-    "platelet_count": {
-      "value_raw": "180",
-      "unit_raw": "K/mcL",
-      "value_standard": 180.0,
-      "unit_standard": "cells",
-      "flag": "low",
-      "conversion_note": "used_as_is"
+      "conversion_note": "as_is"
     }
   }
 }

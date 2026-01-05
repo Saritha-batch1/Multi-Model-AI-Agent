@@ -1,59 +1,26 @@
 {
   "file": "Screenshot 2025-12-06 184809.png",
-  "type": "image",
   "parsed": {
     "hemoglobin": {
       "value_raw": "15",
-      "unit_raw": "g/dl",
-      "source_line": "HEMOGLOBIN 15 g/dl 13-17",
       "value_standard": 15.0,
-      "unit_standard": "g/dL",
-      "conversion_note": "used_as_is",
-      "flag": "normal"
+      "unit_standard": "",
+      "flag": "normal",
+      "conversion_note": "as_is"
     },
     "platelet_count": {
       "value_raw": "3.5",
-      "unit_raw": "lakhs/cumm",
-      "source_line": "PLATELET COUNT 3.5 lakhs/cumm 15-41",
-      "value_standard": 350000.0,
-      "unit_standard": "cells",
-      "conversion_note": "converted_from_lakh",
-      "flag": "normal"
+      "value_standard": 3.5,
+      "unit_standard": "",
+      "flag": "low",
+      "conversion_note": "as_is"
     },
     "rbc_count": {
       "value_raw": "5",
-      "unit_raw": "",
-      "source_line": "TOTAL RBC COUNT 5 million/cumm 45-55",
-      "value_standard": 5.0,
-      "unit_standard": "",
-      "conversion_note": "used_as_is",
-      "flag": "normal"
-    }
-  },
-  "interpreted": {
-    "hemoglobin": {
-      "value_raw": "15",
-      "unit_raw": "g/dl",
-      "value_standard": 15.0,
-      "unit_standard": "g/dL",
-      "flag": "normal",
-      "conversion_note": "used_as_is"
-    },
-    "platelet_count": {
-      "value_raw": "3.5",
-      "unit_raw": "lakhs/cumm",
-      "value_standard": 350000.0,
-      "unit_standard": "cells",
-      "flag": "normal",
-      "conversion_note": "converted_from_lakh"
-    },
-    "rbc_count": {
-      "value_raw": "5",
-      "unit_raw": "",
       "value_standard": 5.0,
       "unit_standard": "",
       "flag": "normal",
-      "conversion_note": "used_as_is"
+      "conversion_note": "as_is"
     }
   }
 }

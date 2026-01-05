@@ -2,10 +2,23 @@ import os
 
 from Week1.text_extraction import extract_text
 from Week1.parameters_extraction import extract_parameters, save_to_csv
-from Week2.validation_standardization import validate_and_standardize,save_validation_to_csv
+from Week2.validation_standardization import (
+    validate_and_standardize,
+    save_validation_to_csv
+)
 from Week2.Parameter_Interpretation import interpret_parameters
-from Week3.Pattern_Recognition import pattern_risk_assessment,save_pattern_risk_to_csv
-from Week4.Risk_Assessment import assess_overall_risk,save_risk_assessment_to_csv
+from Week3.Pattern_Recognition import (
+    pattern_risk_assessment,
+    save_pattern_risk_to_csv
+)
+from Week4.Contextual_Analysis import (
+    contextual_analysis,
+    save_contextual_analysis_to_csv
+)
+from Week4.Risk_Assessment import (
+    assess_overall_risk,
+    save_risk_assessment_to_csv
+)
 
 
 def save_text(text: str, path: str):
@@ -20,7 +33,6 @@ def main():
         print("Invalid folder path")
         return
 
-    # Output folders
     os.makedirs("outputs/text", exist_ok=True)
 
     files = sorted(os.listdir(folder_path))
@@ -46,15 +58,32 @@ def main():
             validated = validate_and_standardize(parameters)
             save_validation_to_csv(patient_id, validated)
 
-            # -------- Model 1: Interpretation --------
+            # -------- Model 1: Parameter Interpretation --------
             interpreted = interpret_parameters(validated)
 
             # -------- Model 2: Pattern Recognition --------
             model2_result = pattern_risk_assessment(validated)
             save_pattern_risk_to_csv(patient_id, model2_result)
 
+            # -------- Model 3: Contextual Analysis --------
+            age = int(input(f"Enter age for Patient {patient_id}: "))
+            gender = input("Enter gender (male/female): ").strip()
+
+            contextual_result = contextual_analysis(
+                patient_id,
+                age,
+                gender,
+                validated,
+                model2_result
+            )
+            save_contextual_analysis_to_csv(patient_id, contextual_result)
+
             # -------- Model 4: Final Risk Assessment --------
-            risk_result = assess_overall_risk(interpreted, model2_result)
+            risk_result = assess_overall_risk(
+                interpreted,
+                model2_result,
+                contextual_result
+            )
             save_risk_assessment_to_csv(patient_id, risk_result)
 
         except Exception as e:

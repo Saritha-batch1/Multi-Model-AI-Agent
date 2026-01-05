@@ -27,3 +27,8 @@ patient_id,triglycerides_value,triglycerides_unit,triglycerides_status,tsh_value
 26,,mg/dl,invalid,,µiu/ml,invalid,,g/dl,invalid,,ng/dl,invalid,,mg/dl,invalid,,mg/dl,invalid,,mg/dl,invalid,,mg/dl,invalid,,/µl,invalid,,mg/dl,invalid,,mg/dl,invalid,,µg/dl,invalid,,/µl,invalid
 27,,mg/dl,invalid,,µiu/ml,invalid,,g/dl,invalid,,ng/dl,invalid,,mg/dl,invalid,,mg/dl,invalid,,mg/dl,invalid,,mg/dl,invalid,,/µl,invalid,,mg/dl,invalid,,mg/dl,invalid,,µg/dl,invalid,,/µl,invalid
 28,,mg/dl,invalid,,µiu/ml,invalid,,g/dl,invalid,,ng/dl,invalid,,mg/dl,invalid,,mg/dl,invalid,,mg/dl,invalid,,mg/dl,invalid,,/µl,invalid,0.0,mg/dl,valid,,mg/dl,invalid,,µg/dl,invalid,,/µl,invalid
+1,,mg/dl,invalid,,/µl,invalid,,mg/dl,invalid,,g/dl,invalid,,mg/dl,invalid,,ng/dl,invalid,,mg/dl,invalid,,mg/dl,invalid,,mg/dl,invalid,,mg/dl,invalid,,µg/dl,invalid,,µiu/ml,invalid,,/µl,invalid
+2,,mg/dl,invalid,9.9,/µl,valid,,mg/dl,invalid,15.3,g/dl,valid,,mg/dl,invalid,,ng/dl,invalid,,mg/dl,invalid,,mg/dl,invalid,,mg/dl,invalid,,mg/dl,invalid,,µg/dl,invalid,,µiu/ml,invalid,8.7,/µl,valid
+3,,mg/dl,invalid,,/µl,invalid,,mg/dl,invalid,33.8,g/dl,valid,,mg/dl,invalid,,ng/dl,invalid,,mg/dl,invalid,,mg/dl,invalid,,mg/dl,invalid,,mg/dl,invalid,,µg/dl,invalid,,µiu/ml,invalid,2.78,/µl,valid
+4,,mg/dl,invalid,,/µl,invalid,,mg/dl,invalid,,g/dl,invalid,,mg/dl,invalid,,ng/dl,invalid,,mg/dl,invalid,,mg/dl,invalid,,mg/dl,invalid,,mg/dl,invalid,,µg/dl,invalid,,µiu/ml,invalid,,/µl,invalid
+5,,mg/dl,invalid,,/µl,invalid,,mg/dl,invalid,,g/dl,invalid,,mg/dl,invalid,,ng/dl,invalid,,mg/dl,invalid,,mg/dl,invalid,0.9,mg/dl,valid,22.0,mg/dl,valid,,µg/dl,invalid,,µiu/ml,invalid,,/µl,invalid

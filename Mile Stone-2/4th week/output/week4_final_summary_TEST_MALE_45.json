@@ -1,0 +1,28 @@
+{
+    "generated_at": "2026-01-07T17:46:33.332365Z",
+    "user_profile": {
+        "user_id": "TEST_MALE_45",
+        "age": 45,
+        "gender": "male"
+    },
+    "overall_health_status": "moderate-risk",
+    "health_findings": [
+        {
+            "parameter": "Hemoglobin",
+            "value": 14.5,
+            "status": "normal",
+            "meaning": "Healthy hemoglobin level"
+        }
+    ],
+    "patterns_from_week3": [
+        "Healthy profile detected",
+        "Possible bleeding tendency"
+    ],
+    "care_guidance": [
+        "Maintain a balanced diet",
+        "Engage in regular physical activity",
+        "Monitor health parameters periodically",
+        "Consult a healthcare professional if abnormalities persist"
+    ],
+    "medical_disclaimer": "This report is generated for informational purposes only and does not constitute a medical diagnosis. Please consult a qualified healthcare professional."
+}

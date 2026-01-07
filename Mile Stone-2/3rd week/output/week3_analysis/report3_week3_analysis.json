@@ -1,0 +1,33 @@
+{
+  "health_findings": [
+    {
+      "parameter": "Hemoglobin",
+      "value": 13.0,
+      "status": "normal"
+    },
+    {
+      "parameter": "RBC",
+      "value": null,
+      "status": null
+    },
+    {
+      "parameter": "Glucose",
+      "value": null,
+      "status": null
+    },
+    {
+      "parameter": "Cholesterol",
+      "value": null,
+      "status": null
+    },
+    {
+      "parameter": "Platelets",
+      "value": 150.0,
+      "status": "low"
+    }
+  ],
+  "patterns": [
+    "Possible bleeding tendency"
+  ],
+  "notes": "This is not a medical diagnosis."
+}

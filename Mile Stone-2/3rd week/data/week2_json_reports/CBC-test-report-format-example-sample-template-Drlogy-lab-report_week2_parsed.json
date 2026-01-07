@@ -1,0 +1,50 @@
+{
+  "file": "CBC-test-report-format-example-sample-template-Drlogy-lab-report.pdf",
+  "parsed": {
+    "gender": "male",
+    "parameters": {
+      "hemoglobin": {
+        "value_raw": 12.5,
+        "unit_raw": "g/dL",
+        "value_standard": 12.5,
+        "unit_standard": "g/dl",
+        "flag": "low"
+      },
+      "wbc_count": {
+        "value_raw": 9000.0,
+        "unit_raw": "",
+        "value_standard": 9000.0,
+        "unit_standard": "",
+        "flag": "normal"
+      },
+      "platelet_count": {
+        "value_raw": 150000.0,
+        "unit_raw": "",
+        "value_standard": 150000.0,
+        "unit_standard": "",
+        "flag": "normal"
+      },
+      "mcv": {
+        "value_raw": 87.75,
+        "unit_raw": "",
+        "value_standard": 87.75,
+        "unit_standard": "",
+        "flag": "normal"
+      },
+      "mch": {
+        "value_raw": 27.2,
+        "unit_raw": "",
+        "value_standard": 27.2,
+        "unit_standard": "",
+        "flag": "normal"
+      },
+      "mchc": {
+        "value_raw": 32.8,
+        "unit_raw": "",
+        "value_standard": 32.8,
+        "unit_standard": "",
+        "flag": "normal"
+      }
+    }
+  }
+}

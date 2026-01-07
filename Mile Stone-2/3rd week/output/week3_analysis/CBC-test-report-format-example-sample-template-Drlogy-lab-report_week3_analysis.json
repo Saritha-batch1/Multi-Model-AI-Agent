@@ -1,0 +1,33 @@
+{
+  "health_findings": [
+    {
+      "parameter": "Hemoglobin",
+      "value": 12.5,
+      "status": "mild"
+    },
+    {
+      "parameter": "RBC",
+      "value": null,
+      "status": null
+    },
+    {
+      "parameter": "Glucose",
+      "value": null,
+      "status": null
+    },
+    {
+      "parameter": "Cholesterol",
+      "value": null,
+      "status": null
+    },
+    {
+      "parameter": "Platelets",
+      "value": 150000.0,
+      "status": "normal"
+    }
+  ],
+  "patterns": [
+    "Healthy profile detected"
+  ],
+  "notes": "This is not a medical diagnosis."
+}

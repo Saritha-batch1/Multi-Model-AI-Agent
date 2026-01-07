@@ -1,0 +1,43 @@
+{
+  "file": "rep.jpeg",
+  "parsed": {
+    "gender": "male",
+    "parameters": {
+      "wbc_count": {
+        "value_raw": 15.0,
+        "unit_raw": "",
+        "value_standard": 15.0,
+        "unit_standard": "",
+        "flag": "low"
+      },
+      "platelet_count": {
+        "value_raw": 116.0,
+        "unit_raw": "",
+        "value_standard": 116.0,
+        "unit_standard": "",
+        "flag": "low"
+      },
+      "mcv": {
+        "value_raw": 823.0,
+        "unit_raw": "",
+        "value_standard": 823.0,
+        "unit_standard": "",
+        "flag": "high"
+      },
+      "mch": {
+        "value_raw": 273.0,
+        "unit_raw": "",
+        "value_standard": 273.0,
+        "unit_standard": "",
+        "flag": "high"
+      },
+      "mchc": {
+        "value_raw": 33.2,
+        "unit_raw": "",
+        "value_standard": 33.2,
+        "unit_standard": "",
+        "flag": "normal"
+      }
+    }
+  }
+}

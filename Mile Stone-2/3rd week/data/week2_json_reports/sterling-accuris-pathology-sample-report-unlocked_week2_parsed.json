@@ -1,0 +1,50 @@
+{
+  "file": "sterling-accuris-pathology-sample-report-unlocked.pdf",
+  "parsed": {
+    "gender": "female",
+    "parameters": {
+      "hemoglobin": {
+        "value_raw": 14.5,
+        "unit_raw": "g/dL",
+        "value_standard": 14.5,
+        "unit_standard": "g/dl",
+        "flag": "normal"
+      },
+      "wbc_count": {
+        "value_raw": 10570.0,
+        "unit_raw": "",
+        "value_standard": 10570.0,
+        "unit_standard": "",
+        "flag": "normal"
+      },
+      "platelet_count": {
+        "value_raw": 150000.0,
+        "unit_raw": "",
+        "value_standard": 150000.0,
+        "unit_standard": "",
+        "flag": "normal"
+      },
+      "mcv": {
+        "value_raw": 90.3,
+        "unit_raw": "",
+        "value_standard": 90.3,
+        "unit_standard": "",
+        "flag": "normal"
+      },
+      "mch": {
+        "value_raw": 30.2,
+        "unit_raw": "",
+        "value_standard": 30.2,
+        "unit_standard": "",
+        "flag": "normal"
+      },
+      "mchc": {
+        "value_raw": 33.4,
+        "unit_raw": "",
+        "value_standard": 33.4,
+        "unit_standard": "",
+        "flag": "normal"
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "file": "med_report.png",
+  "parsed": {
+    "gender": "female",
+    "parameters": {
+      "wbc_count": {
+        "value_raw": 40.0,
+        "unit_raw": "",
+        "value_standard": 40.0,
+        "unit_standard": "",
+        "flag": "low"
+      },
+      "platelet_count": {
+        "value_raw": 1500.0,
+        "unit_raw": "",
+        "value_standard": 1500.0,
+        "unit_standard": "",
+        "flag": "low"
+      },
+      "mcv": {
+        "value_raw": 103.9,
+        "unit_raw": "",
+        "value_standard": 103.9,
+        "unit_standard": "",
+        "flag": "high"
+      },
+      "mch": {
+        "value_raw": 270.32,
+        "unit_raw": "",
+        "value_standard": 270.32,
+        "unit_standard": "",
+        "flag": "high"
+      },
+      "mchc": {
+        "value_raw": 3.0,
+        "unit_raw": "",
+        "value_standard": 3.0,
+        "unit_standard": "",
+        "flag": "low"
+      }
+    }
+  }
+}

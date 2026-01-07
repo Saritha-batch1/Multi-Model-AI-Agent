@@ -1,0 +1,15 @@
+{
+  "file": "report1.jpg",
+  "parsed": {
+    "gender": "female",
+    "parameters": {
+      "platelet_count": {
+        "value_raw": 160000.0,
+        "unit_raw": "",
+        "value_standard": 160000.0,
+        "unit_standard": "",
+        "flag": "normal"
+      }
+    }
+  }
+}

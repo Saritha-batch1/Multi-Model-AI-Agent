@@ -1,0 +1,50 @@
+{
+  "file": "med.jpg",
+  "parsed": {
+    "gender": "female",
+    "parameters": {
+      "hemoglobin": {
+        "value_raw": 120.0,
+        "unit_raw": "gm%",
+        "value_standard": 120.0,
+        "unit_standard": "gm%",
+        "flag": "high"
+      },
+      "wbc_count": {
+        "value_raw": 6100.0,
+        "unit_raw": "",
+        "value_standard": 6100.0,
+        "unit_standard": "",
+        "flag": "normal"
+      },
+      "platelet_count": {
+        "value_raw": 173000.0,
+        "unit_raw": "",
+        "value_standard": 173000.0,
+        "unit_standard": "",
+        "flag": "normal"
+      },
+      "mcv": {
+        "value_raw": 93.1,
+        "unit_raw": "",
+        "value_standard": 93.1,
+        "unit_standard": "",
+        "flag": "normal"
+      },
+      "mch": {
+        "value_raw": 308.0,
+        "unit_raw": "",
+        "value_standard": 308.0,
+        "unit_standard": "",
+        "flag": "high"
+      },
+      "mchc": {
+        "value_raw": null,
+        "unit_raw": "",
+        "value_standard": null,
+        "unit_standard": "",
+        "flag": null
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "file": "quiz14174677_medical.pdf",
+  "parsed": {
+    "gender": "female",
+    "parameters": {
+      "hemoglobin": {
+        "value_raw": 15.7,
+        "unit_raw": "gm%",
+        "value_standard": 15.7,
+        "unit_standard": "gm%",
+        "flag": "high"
+      },
+      "rbc_count": {
+        "value_raw": 4.92,
+        "unit_raw": "Millions/cumm",
+        "value_standard": 4.92,
+        "unit_standard": "million/cumm",
+        "flag": "normal"
+      },
+      "wbc_count": {
+        "value_raw": 6940.0,
+        "unit_raw": "",
+        "value_standard": 6940.0,
+        "unit_standard": "",
+        "flag": "normal"
+      },
+      "platelet_count": {
+        "value_raw": 247.0,
+        "unit_raw": "",
+        "value_standard": 247.0,
+        "unit_standard": "",
+        "flag": "low"
+      },
+      "mcv": {
+        "value_raw": 91.3,
+        "unit_raw": "",
+        "value_standard": 91.3,
+        "unit_standard": "",
+        "flag": "normal"
+      },
+      "mch": {
+        "value_raw": 32.0,
+        "unit_raw": "",
+        "value_standard": 32.0,
+        "unit_standard": "",
+        "flag": "normal"
+      },
+      "mchc": {
+        "value_raw": 11.5,
+        "unit_raw": "",
+        "value_standard": 11.5,
+        "unit_standard": "",
+        "flag": "low"
+      }
+    }
+  }
+}

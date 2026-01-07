@@ -1,0 +1,36 @@
+{
+  "file": "cbc_medical.png",
+  "parsed": {
+    "gender": null,
+    "parameters": {
+      "platelet_count": {
+        "value_raw": null,
+        "unit_raw": "",
+        "value_standard": null,
+        "unit_standard": "",
+        "flag": null
+      },
+      "mcv": {
+        "value_raw": 83.0,
+        "unit_raw": "",
+        "value_standard": 83.0,
+        "unit_standard": "",
+        "flag": "normal"
+      },
+      "mch": {
+        "value_raw": 27.0,
+        "unit_raw": "",
+        "value_standard": 27.0,
+        "unit_standard": "",
+        "flag": "normal"
+      },
+      "mchc": {
+        "value_raw": 31.5,
+        "unit_raw": "",
+        "value_standard": 31.5,
+        "unit_standard": "",
+        "flag": "low"
+      }
+    }
+  }
+}

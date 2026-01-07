@@ -1,0 +1,22 @@
+{
+  "file": "report2.jpeg",
+  "parsed": {
+    "gender": "male",
+    "parameters": {
+      "hemoglobin": {
+        "value_raw": 3.8,
+        "unit_raw": "g/dl",
+        "value_standard": 3.8,
+        "unit_standard": "g/dl",
+        "flag": "low"
+      },
+      "wbc_count": {
+        "value_raw": null,
+        "unit_raw": "",
+        "value_standard": null,
+        "unit_standard": "",
+        "flag": null
+      }
+    }
+  }
+}

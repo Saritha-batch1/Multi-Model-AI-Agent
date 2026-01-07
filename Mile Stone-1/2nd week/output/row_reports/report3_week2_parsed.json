@@ -1,0 +1,43 @@
+{
+  "file": "report3.jpg",
+  "parsed": {
+    "gender": "male",
+    "parameters": {
+      "hemoglobin": {
+        "value_raw": 13.0,
+        "unit_raw": "g/dl",
+        "value_standard": 13.0,
+        "unit_standard": "g/dl",
+        "flag": "normal"
+      },
+      "wbc_count": {
+        "value_raw": 4.0,
+        "unit_raw": "",
+        "value_standard": 4.0,
+        "unit_standard": "",
+        "flag": "low"
+      },
+      "platelet_count": {
+        "value_raw": 150.0,
+        "unit_raw": "",
+        "value_standard": 150.0,
+        "unit_standard": "",
+        "flag": "low"
+      },
+      "mch": {
+        "value_raw": 26.0,
+        "unit_raw": "",
+        "value_standard": 26.0,
+        "unit_standard": "",
+        "flag": "low"
+      },
+      "mchc": {
+        "value_raw": 30.0,
+        "unit_raw": "",
+        "value_standard": 30.0,
+        "unit_standard": "",
+        "flag": "low"
+      }
+    }
+  }
+}

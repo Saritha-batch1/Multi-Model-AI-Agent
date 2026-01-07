@@ -1,0 +1,9 @@
+{
+  "file": "report.png",
+  "parsed": {
+    "gender": null,
+    "parameters": {},
+    "report_status": "template_or_blank_report",
+    "note": "No patient-specific result values detected."
+  }
+}

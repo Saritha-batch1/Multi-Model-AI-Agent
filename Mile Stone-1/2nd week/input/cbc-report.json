@@ -1,0 +1,48 @@
+{
+  "file": "sample_medical_report.pdf",
+  "parsed": {
+    "gender": "male",
+    "parameters": {
+      "hemoglobin": {
+        "value_raw": 14.2,
+        "unit_raw": "g/dl",
+        "value_standard": 14.2,
+        "unit_standard": "g/dL",
+        "flag": "normal",
+        "source_line": "Hemoglobin 14.2 g/dL (13.0 – 17.0)"
+      },
+      "glucose": {
+        "value_raw": 108,
+        "unit_raw": "mg/dl",
+        "value_standard": 108,
+        "unit_standard": "mg/dL",
+        "flag": "high",
+        "source_line": "Fasting Glucose 108 mg/dL (70 – 99)"
+      },
+      "cholesterol": {
+        "value_raw": 186,
+        "unit_raw": "mg/dl",
+        "value_standard": 186,
+        "unit_standard": "mg/dL",
+        "flag": "normal",
+        "source_line": "Total Cholesterol 186 mg/dL (<200)"
+      },
+      "rbc_count": {
+        "value_raw": 4.9,
+        "unit_raw": "million/cumm",
+        "value_standard": 4.9,
+        "unit_standard": "million/cumm",
+        "flag": "normal",
+        "source_line": "RBC Count 4.9 million/cumm (4.5 – 5.5)"
+      },
+      "platelet_count": {
+        "value_raw": 2.6,
+        "unit_raw": "lakhs/cumm",
+        "value_standard": 260000,
+        "unit_standard": "cells",
+        "flag": "normal",
+        "source_line": "Platelet Count 2.6 lakhs/cumm (150 – 410)"
+      }
+    }
+  }
+}

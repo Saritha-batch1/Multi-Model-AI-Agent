@@ -1,0 +1,23 @@
+{
+  "user_profile": {
+    "user_id": "TEST_MALE_45",
+    "age": 45,
+    "gender": "male"
+  },
+  "overall_health_status": "moderate-risk",
+  "summary": "This report is generated for a 45-year-old male individual. Overall health risk level is assessed as MODERATE-RISK. Hemoglobin is normal (Healthy hemoglobin level).",
+  "key_findings": [
+    {
+      "parameter": "Hemoglobin",
+      "value": 14.5,
+      "status": "normal",
+      "meaning": "Healthy hemoglobin level"
+    }
+  ],
+  "patterns_identified": [],
+  "recommendations": [
+    "Consider consulting a healthcare professional for further evaluation."
+  ],
+  "medical_disclaimer": "This report is for informational purposes only and does not constitute medical advice or diagnosis. Please consult a qualified healthcare professional.",
+  "generated_at": "2026-01-07T23:16:33.465188"
+}

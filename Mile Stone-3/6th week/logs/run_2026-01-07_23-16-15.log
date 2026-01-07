@@ -1,0 +1,112 @@
+[23:16:15] ============================================================
+[23:16:15] HEALTH REPORT ANALYSIS PIPELINE STARTED
+[23:16:15] Log file: run_2026-01-07_23-16-15.log
+[23:16:15] ============================================================
+[23:16:15] ============================================================
+[23:16:15] STARTING Week-1 Data Extraction
+[23:16:16] [STDOUT]
+[23:16:16] Original columns:
+[23:16:16] ['Age', 'Gender', 'Hemoglobin', 'Red_Blood_Cells', 'White_Blood_Cells', 'Platelet_Count', 'Glucose', 'Cholesterol_Total', 'MCV', 'MCH', 'MCHC']
+[23:16:16] 
+[23:16:16] Normalized columns:
+[23:16:16] ['age', 'gender', 'hemoglobin', 'red_blood_cells', 'white_blood_cells', 'platelet_count', 'glucose', 'cholesterol_total', 'mcv', 'mch', 'mchc']
+[23:16:16] 
+[23:16:16] Rows after dropping fully empty medical records: 542
+[23:16:16] 
+[23:16:16] Cleaned & classified dataset saved to: C:\Infosys_intern\1st week\data\processed\step1_cleaned_and_classified_dataset.csv
+[23:16:16] Week-1 Data Extraction COMPLETED SUCCESSFULLY
+[23:16:16] ============================================================
+[23:16:16] STARTING Week-2 OCR & Parsing
+[23:16:33] [STDOUT]
+[23:16:33] [23:16:18] Week-2 processing started
+[23:16:33] [23:16:18] Processing: CBC-test-report-format-example-sample-template-Drlogy-lab-report.pdf
+[23:16:33] [23:16:19] Saved JSON → CBC-test-report-format-example-sample-template-Drlogy-lab-report_week2_parsed.json
+[23:16:33] [23:16:19] Processing: cbc_medical.png
+[23:16:33] [23:16:20] Saved JSON → cbc_medical_week2_parsed.json
+[23:16:33] [23:16:20] Processing: med.jpg
+[23:16:33] [23:16:21] Saved JSON → med_week2_parsed.json
+[23:16:33] [23:16:21] Processing: medical-cbc-report.pdf
+[23:16:33] [23:16:21] Saved JSON → medical-cbc-report_week2_parsed.json
+[23:16:33] [23:16:21] Processing: med_report.png
+[23:16:33] [23:16:22] Saved JSON → med_report_week2_parsed.json
+[23:16:33] [23:16:22] Processing: quiz14174677_medical.pdf
+[23:16:33] [23:16:23] Saved JSON → quiz14174677_medical_week2_parsed.json
+[23:16:33] [23:16:23] Processing: rep.jpeg
+[23:16:33] [23:16:24] Saved JSON → rep_week2_parsed.json
+[23:16:33] [23:16:24] Processing: report.png
+[23:16:33] [23:16:24] Saved JSON → report_week2_parsed.json
+[23:16:33] [23:16:24] Processing: report1.jpg
+[23:16:33] [23:16:25] Saved JSON → report1_week2_parsed.json
+[23:16:33] [23:16:25] Processing: report2.jpeg
+[23:16:33] [23:16:26] Saved JSON → report2_week2_parsed.json
+[23:16:33] [23:16:26] Processing: report3.jpg
+[23:16:33] [23:16:26] Saved JSON → report3_week2_parsed.json
+[23:16:33] [23:16:26] Processing: sterling-accuris-pathology-sample-report-unlocked.pdf
+[23:16:33] [23:16:32] Saved JSON → sterling-accuris-pathology-sample-report-unlocked_week2_parsed.json
+[23:16:33] [23:16:32] Week-2 processing completed
+[23:16:33] [STDERR]
+[23:16:33] Cannot set gray stroke color because /'P29' is an invalid float value
+[23:16:33] Cannot set gray non-stroke color because /'P29' is an invalid float value
+[23:16:33] Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+[23:16:33] Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+[23:16:33] Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+[23:16:33] Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+[23:16:33] Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+[23:16:33] Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+[23:16:33] Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+[23:16:33] Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+[23:16:33] Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+[23:16:33] Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+[23:16:33] Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+[23:16:33] Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+[23:16:33] Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+[23:16:33] Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+[23:16:33] Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+[23:16:33] Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+[23:16:33] Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+[23:16:33] Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+[23:16:33] Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+[23:16:33] Week-2 OCR & Parsing COMPLETED SUCCESSFULLY
+[23:16:33] ============================================================
+[23:16:33] STARTING Week-3 Pattern Recognition
+[23:16:33] [STDOUT]
+[23:16:33] Week-3 Pattern Recognition started
+[23:16:33] [PROCESSED] CBC-test-report-format-example-sample-template-Drlogy-lab-report_week2_parsed.json → CBC-test-report-format-example-sample-template-Drlogy-lab-report_week3_analysis.json
+[23:16:33] [PROCESSED] cbc_medical_week2_parsed.json → cbc_medical_week3_analysis.json
+[23:16:33] [PROCESSED] medical-cbc-report_week2_parsed.json → medical-cbc-report_week3_analysis.json
+[23:16:33] [PROCESSED] med_report_week2_parsed.json → med_report_week3_analysis.json
+[23:16:33] [PROCESSED] med_week2_parsed.json → med_week3_analysis.json
+[23:16:33] [PROCESSED] quiz14174677_medical_week2_parsed.json → quiz14174677_medical_week3_analysis.json
+[23:16:33] [PROCESSED] report1_week2_parsed.json → report1_week3_analysis.json
+[23:16:33] [PROCESSED] report2_week2_parsed.json → report2_week3_analysis.json
+[23:16:33] [PROCESSED] report3_week2_parsed.json → report3_week3_analysis.json
+[23:16:33] [PROCESSED] report_week2_parsed.json → report_week3_analysis.json
+[23:16:33] [PROCESSED] rep_week2_parsed.json → rep_week3_analysis.json
+[23:16:33] [PROCESSED] sterling-accuris-pathology-sample-report-unlocked_week2_parsed.json → sterling-accuris-pathology-sample-report-unlocked_week3_analysis.json
+[23:16:33] [SUCCESS] Week-3 summary generated → week3_summary.json
+[23:16:33] ✅ Week-3 processing completed
+[23:16:33] Week-3 Pattern Recognition COMPLETED SUCCESSFULLY
+[23:16:33] ============================================================
+[23:16:33] STARTING Week-4 Contextual Analysis
+[23:16:33] [STDOUT]
+[23:16:33] [SUCCESS] Week-4 report generated for TEST_MALE_45
+[23:16:33] [SUCCESS] Week-4 report generated for TEST_MALE_65
+[23:16:33] [SUCCESS] Week-4 report generated for TEST_FEMALE_28
+[23:16:33] ✅ Week-4 Contextual Analysis completed successfully
+[23:16:33] [STDERR]
+[23:16:33] C:\Infosys_intern\4th week\contextual_analysis.py:153: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+[23:16:33]   "generated_at": datetime.utcnow().isoformat() + "Z",
+[23:16:33] Week-4 Contextual Analysis COMPLETED SUCCESSFULLY
+[23:16:33] ============================================================
+[23:16:33] STARTING Week-5 Report Generation
+[23:16:33] [STDOUT]
+[23:16:33] Week-5 Synthesis & Recommendation started
+[23:16:33] [SUCCESS] Generated → user_report_TEST_FEMALE_28.json
+[23:16:33] [SUCCESS] Generated → user_report_TEST_MALE_45.json
+[23:16:33] [SUCCESS] Generated → user_report_TEST_MALE_65.json
+[23:16:33] ✅ Week-5 synthesis completed successfully
+[23:16:33] Week-5 Report Generation COMPLETED SUCCESSFULLY
+[23:16:33] ============================================================
+[23:16:33] PIPELINE COMPLETED SUCCESSFULLY
+[23:16:33] Final user reports available in Week-5/output
+[23:16:33] ============================================================

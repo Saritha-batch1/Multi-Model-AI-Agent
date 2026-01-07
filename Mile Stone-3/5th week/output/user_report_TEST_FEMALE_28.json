@@ -1,0 +1,23 @@
+{
+  "user_profile": {
+    "user_id": "TEST_FEMALE_28",
+    "age": 28,
+    "gender": "female"
+  },
+  "overall_health_status": "low-risk",
+  "summary": "This report is generated for a 28-year-old female individual. Overall health risk level is assessed as LOW-RISK. Hemoglobin is normal (Healthy hemoglobin level).",
+  "key_findings": [
+    {
+      "parameter": "Hemoglobin",
+      "value": 14.5,
+      "status": "normal",
+      "meaning": "Healthy hemoglobin level"
+    }
+  ],
+  "patterns_identified": [],
+  "recommendations": [
+    "Maintain a balanced diet, regular exercise, and routine health checkups."
+  ],
+  "medical_disclaimer": "This report is for informational purposes only and does not constitute medical advice or diagnosis. Please consult a qualified healthcare professional.",
+  "generated_at": "2026-01-07T23:16:33.455964"
+}

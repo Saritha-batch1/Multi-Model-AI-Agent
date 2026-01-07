@@ -1,0 +1,33 @@
+[22:55:30] ============================================================
+[22:55:30] HEALTH REPORT ANALYSIS PIPELINE STARTED
+[22:55:30] Log file: run_2026-01-07_22-55-30.log
+[22:55:30] ============================================================
+[22:55:30] ============================================================
+[22:55:30] STARTING Week-1 Data Extraction
+[22:55:38] [STDERR]
+[22:55:38] Traceback (most recent call last):
+[22:55:38]   File "C:\Infosys_intern\1st week\data_extraction.py", line 15, in <module>
+[22:55:38]     df = pd.read_csv(input_path)
+[22:55:38]          ^^^^^^^^^^^^^^^^^^^^^^^
+[22:55:38]   File "C:\Users\prave\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 1026, in read_csv
+[22:55:38]     return _read(filepath_or_buffer, kwds)
+[22:55:38]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[22:55:38]   File "C:\Users\prave\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 620, in _read
+[22:55:38]     parser = TextFileReader(filepath_or_buffer, **kwds)
+[22:55:38]              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[22:55:38]   File "C:\Users\prave\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 1620, in __init__
+[22:55:38]     self._engine = self._make_engine(f, self.engine)
+[22:55:38]                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[22:55:38]   File "C:\Users\prave\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 1880, in _make_engine
+[22:55:38]     self.handles = get_handle(
+[22:55:38]                    ^^^^^^^^^^^
+[22:55:38]   File "C:\Users\prave\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\common.py", line 873, in get_handle
+[22:55:38]     handle = open(
+[22:55:38]              ^^^^^
+[22:55:38] FileNotFoundError: [Errno 2] No such file or directory: 'complete_blood_count.csv'
+[22:55:38] ❌ ERROR IN Week-1 Data Extraction: Week-1 Data Extraction failed with exit code 1
+[22:55:38] Traceback (most recent call last):
+  File "c:\Infosys_intern\6th week\run_pipeline.py", line 82, in run_step
+    raise RuntimeError(f"{name} failed with exit code {result.returncode}")
+RuntimeError: Week-1 Data Extraction failed with exit code 1
+

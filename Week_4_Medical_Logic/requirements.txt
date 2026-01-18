@@ -1,0 +1,10 @@
+# Week 4: Medical Logic Engine - Blood Analysis
+# Focus: Data processing and medical calculations
+
+streamlit==1.28.1
+Pillow==10.1.0
+pdfplumber==0.10.3
+pytesseract==0.3.10
+groq==0.4.2
+python-dotenv==1.0.0
+pandas==2.1.3

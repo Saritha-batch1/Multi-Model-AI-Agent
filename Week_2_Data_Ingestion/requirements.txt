@@ -1,0 +1,7 @@
+# Week 2: Data Ingestion - File Extraction
+# Focus: PDF and Image text extraction
+
+streamlit==1.28.1
+Pillow==10.1.0
+pdfplumber==0.10.3
+pytesseract==0.3.10

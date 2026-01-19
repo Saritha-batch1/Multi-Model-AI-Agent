@@ -1,4 +1,4 @@
-# Multi-Model AI Agent for Automated Health Diagnostics (Internship Submission)
+# Multi-Model AI Agent for Automated Health Diagnostics
 
 ## Executive Summary
 

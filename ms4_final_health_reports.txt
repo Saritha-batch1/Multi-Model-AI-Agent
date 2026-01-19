@@ -1,0 +1,438 @@
+
+===============================
+AI HEALTH DIAGNOSTIC REPORT
+===============================
+
+Patient ID: 0
+
+Risk Category: Low Risk
+Risk Score: 0
+
+Findings:
+No major abnormalities detected
+
+Recommendation:
+Maintain healthy lifestyle
+
+Disclaimer:
+This report is AI-assisted and intended for preliminary assessment only.
+Please consult a medical professional for diagnosis.
+===============================
+
+
+
+===============================
+AI HEALTH DIAGNOSTIC REPORT
+===============================
+
+Patient ID: 1
+
+Risk Category: Low Risk
+Risk Score: 0
+
+Findings:
+No major abnormalities detected
+
+Recommendation:
+Maintain healthy lifestyle
+
+Disclaimer:
+This report is AI-assisted and intended for preliminary assessment only.
+Please consult a medical professional for diagnosis.
+===============================
+
+
+
+===============================
+AI HEALTH DIAGNOSTIC REPORT
+===============================
+
+Patient ID: 2
+
+Risk Category: Moderate Risk
+Risk Score: 4
+
+Findings:
+Possible anemia indicators found; High cholesterol risk detected
+
+Recommendation:
+Increase iron intake and consult physician | Adopt low-fat diet and exercise
+
+Disclaimer:
+This report is AI-assisted and intended for preliminary assessment only.
+Please consult a medical professional for diagnosis.
+===============================
+
+
+
+===============================
+AI HEALTH DIAGNOSTIC REPORT
+===============================
+
+Patient ID: 3
+
+Risk Category: Low Risk
+Risk Score: 0
+
+Findings:
+No major abnormalities detected
+
+Recommendation:
+Maintain healthy lifestyle
+
+Disclaimer:
+This report is AI-assisted and intended for preliminary assessment only.
+Please consult a medical professional for diagnosis.
+===============================
+
+
+
+===============================
+AI HEALTH DIAGNOSTIC REPORT
+===============================
+
+Patient ID: 4
+
+Risk Category: Moderate Risk
+Risk Score: 2
+
+Findings:
+High cholesterol risk detected
+
+Recommendation:
+Adopt low-fat diet and exercise
+
+Disclaimer:
+This report is AI-assisted and intended for preliminary assessment only.
+Please consult a medical professional for diagnosis.
+===============================
+
+
+
+===============================
+AI HEALTH DIAGNOSTIC REPORT
+===============================
+
+Patient ID: 5
+
+Risk Category: Low Risk
+Risk Score: 0
+
+Findings:
+No major abnormalities detected
+
+Recommendation:
+Maintain healthy lifestyle
+
+Disclaimer:
+This report is AI-assisted and intended for preliminary assessment only.
+Please consult a medical professional for diagnosis.
+===============================
+
+
+
+===============================
+AI HEALTH DIAGNOSTIC REPORT
+===============================
+
+Patient ID: 6
+
+Risk Category: Low Risk
+Risk Score: 0
+
+Findings:
+No major abnormalities detected
+
+Recommendation:
+Maintain healthy lifestyle
+
+Disclaimer:
+This report is AI-assisted and intended for preliminary assessment only.
+Please consult a medical professional for diagnosis.
+===============================
+
+
+
+===============================
+AI HEALTH DIAGNOSTIC REPORT
+===============================
+
+Patient ID: 7
+
+Risk Category: Low Risk
+Risk Score: 0
+
+Findings:
+No major abnormalities detected
+
+Recommendation:
+Maintain healthy lifestyle
+
+Disclaimer:
+This report is AI-assisted and intended for preliminary assessment only.
+Please consult a medical professional for diagnosis.
+===============================
+
+
+
+===============================
+AI HEALTH DIAGNOSTIC REPORT
+===============================
+
+Patient ID: 8
+
+Risk Category: Low Risk
+Risk Score: 0
+
+Findings:
+No major abnormalities detected
+
+Recommendation:
+Maintain healthy lifestyle
+
+Disclaimer:
+This report is AI-assisted and intended for preliminary assessment only.
+Please consult a medical professional for diagnosis.
+===============================
+
+
+
+===============================
+AI HEALTH DIAGNOSTIC REPORT
+===============================
+
+Patient ID: 9
+
+Risk Category: Low Risk
+Risk Score: 0
+
+Findings:
+No major abnormalities detected
+
+Recommendation:
+Maintain healthy lifestyle
+
+Disclaimer:
+This report is AI-assisted and intended for preliminary assessment only.
+Please consult a medical professional for diagnosis.
+===============================
+
+
+
+===============================
+AI HEALTH DIAGNOSTIC REPORT
+===============================
+
+Patient ID: 10
+
+Risk Category: Low Risk
+Risk Score: 0
+
+Findings:
+No major abnormalities detected
+
+Recommendation:
+Maintain healthy lifestyle
+
+Disclaimer:
+This report is AI-assisted and intended for preliminary assessment only.
+Please consult a medical professional for diagnosis.
+===============================
+
+
+
+===============================
+AI HEALTH DIAGNOSTIC REPORT
+===============================
+
+Patient ID: 11
+
+Risk Category: Low Risk
+Risk Score: 0
+
+Findings:
+No major abnormalities detected
+
+Recommendation:
+Maintain healthy lifestyle
+
+Disclaimer:
+This report is AI-assisted and intended for preliminary assessment only.
+Please consult a medical professional for diagnosis.
+===============================
+
+
+
+===============================
+AI HEALTH DIAGNOSTIC REPORT
+===============================
+
+Patient ID: 12
+
+Risk Category: Low Risk
+Risk Score: 0
+
+Findings:
+No major abnormalities detected
+
+Recommendation:
+Maintain healthy lifestyle
+
+Disclaimer:
+This report is AI-assisted and intended for preliminary assessment only.
+Please consult a medical professional for diagnosis.
+===============================
+
+
+
+===============================
+AI HEALTH DIAGNOSTIC REPORT
+===============================
+
+Patient ID: 13
+
+Risk Category: Low Risk
+Risk Score: 0
+
+Findings:
+No major abnormalities detected
+
+Recommendation:
+Maintain healthy lifestyle
+
+Disclaimer:
+This report is AI-assisted and intended for preliminary assessment only.
+Please consult a medical professional for diagnosis.
+===============================
+
+
+
+===============================
+AI HEALTH DIAGNOSTIC REPORT
+===============================
+
+Patient ID: 14
+
+Risk Category: Low Risk
+Risk Score: 0
+
+Findings:
+No major abnormalities detected
+
+Recommendation:
+Maintain healthy lifestyle
+
+Disclaimer:
+This report is AI-assisted and intended for preliminary assessment only.
+Please consult a medical professional for diagnosis.
+===============================
+
+
+
+===============================
+AI HEALTH DIAGNOSTIC REPORT
+===============================
+
+Patient ID: 15
+
+Risk Category: Low Risk
+Risk Score: 0
+
+Findings:
+No major abnormalities detected
+
+Recommendation:
+Maintain healthy lifestyle
+
+Disclaimer:
+This report is AI-assisted and intended for preliminary assessment only.
+Please consult a medical professional for diagnosis.
+===============================
+
+
+
+===============================
+AI HEALTH DIAGNOSTIC REPORT
+===============================
+
+Patient ID: 16
+
+Risk Category: Low Risk
+Risk Score: 0
+
+Findings:
+No major abnormalities detected
+
+Recommendation:
+Maintain healthy lifestyle
+
+Disclaimer:
+This report is AI-assisted and intended for preliminary assessment only.
+Please consult a medical professional for diagnosis.
+===============================
+
+
+
+===============================
+AI HEALTH DIAGNOSTIC REPORT
+===============================
+
+Patient ID: 17
+
+Risk Category: Low Risk
+Risk Score: 0
+
+Findings:
+No major abnormalities detected
+
+Recommendation:
+Maintain healthy lifestyle
+
+Disclaimer:
+This report is AI-assisted and intended for preliminary assessment only.
+Please consult a medical professional for diagnosis.
+===============================
+
+
+
+===============================
+AI HEALTH DIAGNOSTIC REPORT
+===============================
+
+Patient ID: 18
+
+Risk Category: Low Risk
+Risk Score: 0
+
+Findings:
+No major abnormalities detected
+
+Recommendation:
+Maintain healthy lifestyle
+
+Disclaimer:
+This report is AI-assisted and intended for preliminary assessment only.
+Please consult a medical professional for diagnosis.
+===============================
+
+
+
+===============================
+AI HEALTH DIAGNOSTIC REPORT
+===============================
+
+Patient ID: 19
+
+Risk Category: Low Risk
+Risk Score: 0
+
+Findings:
+No major abnormalities detected
+
+Recommendation:
+Maintain healthy lifestyle
+
+Disclaimer:
+This report is AI-assisted and intended for preliminary assessment only.
+Please consult a medical professional for diagnosis.
+===============================

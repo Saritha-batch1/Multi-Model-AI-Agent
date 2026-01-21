@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Health Diagnostics Agent</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>AI Health Diagnostics Agent</h1>
+            <p>Automated interpretation of blood reports & personalized recommendations [cite: 3]</p>
+        </header>
+
+        <section class="upload-section">
+            <h2>Upload Blood Report</h2>
+            <form id="uploadForm">
+                
+                <div class="form-group">
+                    <label for="age">Age:</label>
+                    <input type="number" id="age" name="age" required min="1" max="120" placeholder="e.g. 35">
+                </div>
+
+                <div class="form-group">
+                    <label for="gender">Gender:</label>
+                    <select id="gender" name="gender">
+                        <option value="Male">Male</option>
+                        <option value="Female">Female</option>
+                        <option value="Other">Other</option>
+                    </select>
+                </div>
+
+                <div class="form-group file-area">
+                    <label for="report">Upload Report (PDF/Image):</label>
+                    <input type="file" id="report" name="report" required accept=".pdf, .jpg, .png, .jpeg">
+                </div>
+
+                <button type="submit" id="analyzeBtn">Analyze Report</button>
+            </form>
+            <div id="loader" class="hidden">Processing... (Running Multi-Model Engine)</div>
+        </section>
+
+        <section id="resultsSection" class="hidden">
+            <h2>Analysis Results</h2>
+            
+            <div class="card">
+                <h3>Parameter Analysis</h3>
+                <table id="analysisTable">
+                    <thead>
+                        <tr>
+                            <th>Parameter</th>
+                            <th>Value</th>
+                            <th>Range</th>
+                            <th>Status</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+
+            <div class="card">
+                <h3>Risk Assessment & Patterns</h3>
+                <ul id="riskList"></ul>
+            </div>
+
+            <div class="card recommendation-card">
+                <h3>Personalized Recommendations</h3>
+                <ul id="recommendationList"></ul>
+            </div>
+
+            <div class="disclaimer">
+                <strong>Disclaimer:</strong> <span id="disclaimerText"></span>
+            </div>
+        </section>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,4 @@
+# Week 1: UI & Structure - Minimal Dependencies
+# Focus: Streamlit layout only
+
+streamlit==1.28.1

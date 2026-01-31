@@ -1,13 +1,3 @@
-
-# Python cache
-__pycache__/
-*.pyc
-
-# Uploaded files
-uploads/
-
-# OS files
-=======
 # Environment variables
 .env
 .env.local
@@ -35,7 +25,7 @@ wheels/
 .installed.cfg
 *.egg
 
-# Virtual environments
+# Virtual Environment
 venv/
 ENV/
 env/
@@ -47,10 +37,18 @@ env/
 *.swo
 *~
 
-# Streamlit
-.streamlit/
-
 # OS
-
 .DS_Store
 Thumbs.db
+
+# Streamlit
+.streamlit/
+*.streamlit.app
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log

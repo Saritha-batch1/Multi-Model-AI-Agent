@@ -1,14 +1,21 @@
-from flask import Flask, render_template, request, jsonify
+from flask import Flask, render_template, request, redirect, url_for
 import os
 from werkzeug.utils import secure_filename
 from datetime import datetime
 import time
 import re
 import PyPDF2
-import json
+
+# Import our custom engines
+from synthesis_engine import FindingsSynthesizer
+from recommendation_engine import RecommendationGenerator
 
 app = Flask(__name__)
 app.secret_key = 'health-ai-secret-2024'
+
+# Initialize engines
+synthesizer = FindingsSynthesizer()
+recommendation_generator = RecommendationGenerator()
 
 # Configuration
 UPLOAD_FOLDER = 'uploads'
@@ -94,13 +101,13 @@ def extract_values_from_pdf(pdf_path):
         }
 
 def analyze_blood_report(data, age=None, gender=None):
-    """Multi-model AI analysis"""
+    """Model 1: Parameter Interpretation"""
     results = []
     
     age = int(age) if age and age.isdigit() else 30
     gender = gender or 'male'
     
-    # Model 1: Parameter Interpretation
+    # Hemoglobin analysis
     hb = data.get('Hemoglobin', 0)
     if gender == 'female':
         if hb < 12.0:
@@ -108,60 +115,110 @@ def analyze_blood_report(data, age=None, gender=None):
         elif hb > 15.5:
             results.append("High Hemoglobin level")
         else:
-            results.append("Hemoglobin: Normal")
+            results.append("Hemoglobin: Normal range")
     else:
         if hb < 13.5:
             results.append("Low Hemoglobin - Possible Anemia")
         elif hb > 17.5:
             results.append("High Hemoglobin level")
         else:
-            results.append("Hemoglobin: Normal")
+            results.append("Hemoglobin: Normal range")
     
     # WBC analysis
     wbc = data.get('WBC Count', 0)
     if wbc < 4000:
-        results.append("Low WBC (Leukopenia risk)")
+        results.append("Low WBC count (Leukopenia risk)")
     elif wbc > 11000:
-        results.append("High WBC (Possible Infection)")
+        results.append("High WBC count (Possible Infection)")
     else:
-        results.append("WBC Count: Normal")
+        results.append("WBC Count: Normal range")
     
     # Platelet analysis
     platelets = data.get('Platelet Count', 0)
     if platelets < 150000:
-        results.append("Low Platelet count")
+        results.append("Low Platelet count (Thrombocytopenia)")
     elif platelets > 450000:
-        results.append("High Platelet count")
+        results.append("High Platelet count (Thrombocytosis)")
     else:
-        results.append("Platelets: Normal")
+        results.append("Platelet count: Normal range")
     
     # Glucose analysis
     glucose = data.get('Glucose', 0)
     if glucose < 70:
-        results.append("Low Blood Glucose")
+        results.append("Low Blood Glucose (Hypoglycemia risk)")
     elif glucose > 100:
-        results.append("Elevated Blood Glucose")
+        if glucose > 126:
+            results.append("High Blood Glucose (Possible Diabetes)")
+        else:
+            results.append("Elevated Blood Glucose (Pre-diabetes range)")
     else:
-        results.append("Blood Glucose: Normal")
+        results.append("Blood Glucose: Normal range")
     
-    # Model 2: Pattern Recognition
+    # Cholesterol analysis
     cholesterol = data.get('Cholesterol', 0)
-    hdl = data.get('HDL', 0)
-    ldl = data.get('LDL', 0)
-    
-    if cholesterol > 200 or ldl > 100 or hdl < 40:
-        results.append("Lipid profile needs attention")
-    
-    # Model 3: Contextual Analysis
-    if age > 50 and (cholesterol > 200 or glucose > 100):
-        results.append("Age-related health monitoring recommended")
-    
-    # Summary
-    normal_count = len([r for r in results if 'Normal' in r])
-    if normal_count >= 3:
-        results.append("Overall: Most parameters are normal")
+    if cholesterol > 200:
+        results.append("High Total Cholesterol")
+    else:
+        results.append("Cholesterol: Normal range")
     
     return results
+
+def analyze_patterns(data, age=None, gender=None):
+    """Model 2: Pattern Recognition"""
+    patterns = []
+    
+    # Check metabolic syndrome pattern
+    glucose = data.get('Glucose', 0)
+    cholesterol = data.get('Cholesterol', 0)
+    triglycerides = data.get('Triglycerides', 0)
+    
+    if glucose > 100 and cholesterol > 200:
+        patterns.append("Metabolic syndrome pattern detected")
+        if triglycerides > 150:
+            patterns.append("High triglycerides increase cardiovascular risk")
+    
+    # Check anemia pattern
+    hb = data.get('Hemoglobin', 0)
+    rbc = data.get('RBC', 0)
+    if hb < 13 and rbc < 4.5:
+        patterns.append("Consistent anemia pattern (low Hb + low RBC)")
+    
+    # Check infection pattern
+    wbc = data.get('WBC Count', 0)
+    if wbc > 11000:
+        patterns.append("Infection/inflammation pattern detected")
+    
+    return patterns
+
+def analyze_context(data, age=None, gender=None):
+    """Model 3: Contextual Analysis"""
+    context_results = []
+    
+    age_int = int(age) if age and age.isdigit() else 30
+    gender_str = gender or 'unspecified'
+    
+    # Age-based context
+    if age_int > 50:
+        context_results.append("Age > 50: Increased health monitoring recommended")
+        glucose = data.get('Glucose', 0)
+        if glucose > 100:
+            context_results.append("Age increases diabetes risk - regular screening advised")
+    
+    if age_int < 18:
+        context_results.append("Pediatric values: Use age-specific reference ranges")
+    
+    # Gender-based context
+    if gender_str == 'female':
+        hb = data.get('Hemoglobin', 0)
+        if hb < 12:
+            context_results.append("For women: Consider menstrual cycle in anemia assessment")
+    
+    if gender_str == 'male':
+        cholesterol = data.get('Cholesterol', 0)
+        if cholesterol > 200 and age_int > 35:
+            context_results.append("For men >35: Regular cholesterol screening advised")
+    
+    return context_results
 
 @app.route('/')
 def index():
@@ -187,29 +244,64 @@ def analyze():
         file_path = os.path.join(app.config['UPLOAD_FOLDER'], filename)
         file.save(file_path)
         
+        # Get user context
         age = request.form.get('age', '')
         gender = request.form.get('gender', '')
         
+        # Extract data from PDF
         extracted = extract_values_from_pdf(file_path)
-        result = analyze_blood_report(extracted, age, gender)
+        
+        # Run all three AI models
+        parameter_results = analyze_blood_report(extracted, age, gender)
+        pattern_results = analyze_patterns(extracted, age, gender)
+        context_results = analyze_context(extracted, age, gender)
+        
+        # Synthesize findings
+        synthesized = synthesizer.synthesize_findings(
+            parameter_results,
+            pattern_results,
+            context_results
+        )
+        
+        # Generate recommendations
+        user_context = {
+            'age': int(age) if age and age.isdigit() else 30,
+            'gender': gender or 'unspecified',
+            'medical_history': []
+        }
+        
+        recommendations = recommendation_generator.generate_recommendations(
+            synthesized['all_findings'],
+            user_context,
+            synthesized
+        )
         
         processing_time = time.time() - start_time
         timestamp = datetime.now().strftime("%B %d, %Y at %I:%M %p")
         
-        return render_template('result.html',
+        # Store for template access
+        app.config['PARAMETER_RESULTS'] = parameter_results
+        app.config['PATTERN_RESULTS'] = pattern_results
+        
+        return render_template('enhanced_result.html',
                              extracted=extracted,
-                             result=result,
+                             synthesized=synthesized,
+                             recommendations=recommendations,
                              filename=filename,
                              timestamp=timestamp,
                              age=age if age else 'Not specified',
                              gender=gender if gender else 'Not specified',
-                             processing_time=f"{processing_time:.2f} seconds")
+                             processing_time=f"{processing_time:.2f} seconds",
+                             parameter_results=parameter_results,
+                             pattern_results=pattern_results)
     
     except Exception as e:
         return f"Error: {str(e)}", 500
 
 @app.route('/demo')
 def demo():
+    """Demo page with sample analysis"""
+    # Sample extracted data
     sample_data = {
         'Hemoglobin': 13.5,
         'WBC Count': 8500,
@@ -222,26 +314,60 @@ def demo():
         'Triglycerides': 120
     }
     
-    sample_results = [
-        "Hemoglobin: Normal",
-        "WBC Count: Normal",
-        "Platelets: Normal",
-        "Blood Glucose: Normal",
-        "Lipid profile is good",
-        "Overall: Most parameters are normal"
+    # Sample AI model results
+    parameter_results = [
+        "Hemoglobin: Normal range",
+        "WBC Count: Normal range",
+        "Platelet count: Normal range",
+        "Blood Glucose: Normal range",
+        "Cholesterol: Normal range"
     ]
     
-    return render_template('result.html',
+    pattern_results = [
+        "Metabolic indicators within normal limits",
+        "No significant pattern abnormalities detected"
+    ]
+    
+    context_results = [
+        "General health assessment completed"
+    ]
+    
+    # Synthesize findings
+    synthesized = synthesizer.synthesize_findings(
+        parameter_results,
+        pattern_results,
+        context_results
+    )
+    
+    # Generate recommendations
+    user_context = {
+        'age': 35,
+        'gender': 'male',
+        'medical_history': []
+    }
+    
+    recommendations = recommendation_generator.generate_recommendations(
+        synthesized['all_findings'],
+        user_context,
+        synthesized
+    )
+    
+    return render_template('enhanced_result.html',
                          extracted=sample_data,
-                         result=sample_results,
+                         synthesized=synthesized,
+                         recommendations=recommendations,
                          filename="Sample_Report.pdf",
                          timestamp=datetime.now().strftime("%B %d, %Y at %I:%M %p"),
-                         age="30",
+                         age="35",
                          gender="Male",
-                         processing_time="1.5 seconds")
+                         processing_time="1.5 seconds",
+                         parameter_results=parameter_results,
+                         pattern_results=pattern_results)
 
 if __name__ == '__main__':
-    print("Starting AI Health Diagnostics...")
-    print("Open: http://localhost:5000")
-    print("Demo: http://localhost:5000/demo")
+    print("🚀 AI Health Diagnostics System")
+    print("=" * 40)
+    print("Starting server on http://localhost:5000")
+    print("Demo page: http://localhost:5000/demo")
+    print("=" * 40)
     app.run(debug=True, host='0.0.0.0', port=5000)

@@ -1,0 +1,823 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Advanced Analysis | AI Health Diagnostics</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        /* Tab Styles */
+        .tab-container {
+            margin: 30px;
+            overflow: visible;
+        }
+        
+        .tabs {
+            display: flex;
+            gap: 5px;
+            margin-bottom: 20px;
+            border-bottom: 2px solid #e0e0e0;
+            flex-wrap: wrap;
+        }
+        
+        .tab {
+            padding: 12px 25px;
+            background: #f8f9fa;
+            border: none;
+            border-radius: 8px 8px 0 0;
+            cursor: pointer;
+            font-weight: 600;
+            color: #6c757d;
+            transition: all 0.3s;
+            white-space: nowrap;
+        }
+        
+        .tab:hover {
+            background: #e9ecef;
+        }
+        
+        .tab.active {
+            background: #4361ee;
+            color: white;
+            transform: translateY(-2px);
+        }
+        
+        .tab-content {
+            display: none;
+            animation: fadeIn 0.5s;
+            overflow: visible;
+        }
+        
+        .tab-content.active {
+            display: block;
+        }
+        
+        /* Evidence Chain */
+        .evidence-chain {
+            background: #f8f9ff;
+            padding: 20px;
+            border-radius: 10px;
+            margin: 15px 0;
+            border-left: 4px solid #4361ee;
+        }
+        
+        .chain-item {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            margin: 8px 0;
+            padding: 8px;
+            background: white;
+            border-radius: 8px;
+        }
+        
+        .chain-arrow {
+            color: #6c757d;
+            font-size: 14px;
+            margin-left: 20px;
+        }
+        
+        /* Priority Badges */
+        .priority-badge {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            margin-left: 10px;
+        }
+        
+        .high-priority {
+            background: #f8d7da;
+            color: #721c24;
+        }
+        
+        .medium-priority {
+            background: #fff3cd;
+            color: #856404;
+        }
+        
+        .low-priority {
+            background: #d4edda;
+            color: #155724;
+        }
+        
+        /* Action Timeline */
+        .action-timeline {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            margin-top: 20px;
+        }
+        
+        .timeline-item {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            border-left: 5px solid;
+            box-shadow: 0 3px 10px rgba(0,0,0,0.05);
+            margin-bottom: 15px;
+        }
+        
+        .immediate {
+            border-left-color: #dc3545;
+        }
+        
+        .week {
+            border-left-color: #ffc107;
+        }
+        
+        .month {
+            border-left-color: #17a2b8;
+        }
+        
+        .long-term {
+            border-left-color: #28a745;
+        }
+        
+        /* Condition Chips */
+        .condition-chip {
+            display: inline-block;
+            padding: 8px 15px;
+            background: #e8f4f8;
+            border-radius: 20px;
+            margin: 5px;
+            font-size: 0.9rem;
+            color: #2b2d42;
+        }
+        
+        /* Stats Cards */
+        .stats-container {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+            margin: 20px 0;
+        }
+        
+        .stat-card {
+            flex: 1;
+            min-width: 150px;
+            background: linear-gradient(135deg, rgba(67, 97, 238, 0.1), rgba(58, 12, 163, 0.1));
+            padding: 20px;
+            border-radius: 15px;
+            text-align: center;
+        }
+        
+        .stat-value {
+            font-size: 2.5rem;
+            font-weight: bold;
+            color: #4361ee;
+            margin: 10px 0;
+        }
+        
+        /* Responsive Fixes */
+        @media (max-width: 768px) {
+            .tabs {
+                flex-direction: column;
+            }
+            
+            .tab {
+                border-radius: 8px;
+                margin-bottom: 5px;
+            }
+            
+            .stat-card {
+                min-width: 100%;
+            }
+            
+            .chain-item {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 5px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container fade-in">
+        <!-- Results Header -->
+        <div class="results-header">
+            <div>
+                <h1 style="color: #2b2d42; margin-bottom: 5px;">
+                    <i class="fas fa-brain"></i> AI Analysis Results
+                </h1>
+                <p style="color: #6c757d;">
+                    <i class="fas fa-clock"></i> {{ timestamp }}
+                    {% if age != 'Not specified' or gender != 'Not specified' %}
+                    | <i class="fas fa-user"></i> 
+                    {% if age != 'Not specified' %}Age: {{ age }}{% endif %}
+                    {% if gender != 'Not specified' %} | Gender: {{ gender }}{% endif %}
+                    {% endif %}
+                </p>
+            </div>
+            <a href="/" class="back-btn">
+                <i class="fas fa-arrow-left"></i> New Analysis
+            </a>
+        </div>
+
+        <!-- Tab Navigation -->
+        <div class="tab-container">
+            <div class="tabs">
+                <button class="tab active" onclick="switchTab('summary')">
+                    <i class="fas fa-chart-pie"></i> Summary
+                </button>
+                <button class="tab" onclick="switchTab('findings')">
+                    <i class="fas fa-search"></i> Findings
+                </button>
+                <button class="tab" onclick="switchTab('recommendations')">
+                    <i class="fas fa-lightbulb"></i> Recommendations
+                </button>
+                <button class="tab" onclick="switchTab('action-plan')">
+                    <i class="fas fa-tasks"></i> Action Plan
+                </button>
+                <button class="tab" onclick="switchTab('evidence')">
+                    <i class="fas fa-link"></i> Evidence Chain
+                </button>
+            </div>
+
+            <!-- Tab 1: Summary -->
+            <div id="summary" class="tab-content active">
+                <!-- Report Summary -->
+                <div style="background: linear-gradient(135deg, #4361ee, #3a0ca3); color: white; padding: 30px; border-radius: 15px; margin-bottom: 30px;">
+                    <div style="display: flex; align-items: center; gap: 20px;">
+                        <div style="font-size: 50px;">
+                            <i class="fas fa-file-medical"></i>
+                        </div>
+                        <div>
+                            <h2 style="margin-bottom: 10px;">Blood Report Analysis Complete</h2>
+                            <p>Processed in {{ processing_time }} using 3 AI models</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Stats Summary -->
+                <div class="stats-container">
+                    <div class="stat-card">
+                        <div style="color: #6c757d; font-size: 0.9rem;">Total Insights</div>
+                        <div class="stat-value">{{ synthesized.total_insights }}</div>
+                        <div style="color: #28a745; font-size: 0.8rem;">
+                            <i class="fas fa-arrow-up"></i> AI Analysis
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div style="color: #6c757d; font-size: 0.9rem;">Recommendations</div>
+                        <div class="stat-value">{{ recommendations.prioritized_recommendations|length }}</div>
+                        <div style="color: #4361ee; font-size: 0.8rem;">
+                            <i class="fas fa-user-check"></i> Personalized
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div style="color: #6c757d; font-size: 0.9rem;">Priority Level</div>
+                        <div class="stat-value">
+                            {% if 'High' in synthesized.priority_level %}
+                            <span style="color: #dc3545;">High</span>
+                            {% elif 'Medium' in synthesized.priority_level %}
+                            <span style="color: #ffc107;">Medium</span>
+                            {% else %}
+                            <span style="color: #28a745;">Normal</span>
+                            {% endif %}
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div style="color: #6c757d; font-size: 0.9rem;">AI Models Used</div>
+                        <div class="stat-value">3</div>
+                        <div style="color: #f72585; font-size: 0.8rem;">
+                            <i class="fas fa-robot"></i> Multi-Model
+                        </div>
+                    </div>
+                </div>
+
+                <!-- AI Summary -->
+                <div style="background: #fff9e6; padding: 25px; border-radius: 15px; margin: 30px 0; border-left: 5px solid #ffc107;">
+                    <h3 style="display: flex; align-items: center; gap: 10px; margin-bottom: 20px; color: #2b2d42;">
+                        <i class="fas fa-brain"></i> AI Summary
+                    </h3>
+                    <p style="color: #856404; line-height: 1.6; font-size: 1.1rem;">
+                        {{ synthesized.summary }}
+                    </p>
+                </div>
+
+                <!-- Key Patterns -->
+                <div style="background: #e8f4f8; padding: 25px; border-radius: 15px; margin-bottom: 30px; border-left: 5px solid #17a2b8;">
+                    <h3 style="display: flex; align-items: center; gap: 10px; margin-bottom: 20px; color: #2b2d42;">
+                        <i class="fas fa-project-diagram"></i> Key Patterns Identified
+                    </h3>
+                    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+                        {% for pattern in synthesized.key_patterns %}
+                        <div class="condition-chip" style="background: white; border: 2px solid #17a2b8;">
+                            <i class="fas fa-chart-line" style="color: #17a2b8; margin-right: 5px;"></i>
+                            {{ pattern }}
+                        </div>
+                        {% else %}
+                        <div style="color: #6c757d; padding: 15px; text-align: center; width: 100%;">
+                            <i class="fas fa-check-circle" style="color: #28a745; margin-right: 10px;"></i>
+                            No significant patterns detected
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+
+            <!-- Tab 2: Findings -->
+            <div id="findings" class="tab-content">
+                <div class="findings-section">
+                    <h2 class="findings-title">
+                        <i class="fas fa-robot"></i> Multi-Model AI Analysis
+                        <span style="font-size: 0.9rem; color: #6c757d; margin-left: auto;">
+                            {{ synthesized.all_findings|length }} findings
+                        </span>
+                    </h2>
+                    
+                    <!-- All Findings -->
+                    {% for finding in synthesized.all_findings %}
+                    <div class="finding-item">
+                        <div class="finding-icon">
+                            {% if 'normal' in finding|lower %}
+                            <i class="fas fa-check-circle" style="color: #28a745;"></i>
+                            {% elif 'low' in finding|lower or 'high' in finding|lower or 'possible' in finding|lower %}
+                            <i class="fas fa-exclamation-triangle" style="color: #ffc107;"></i>
+                            {% elif 'critical' in finding|lower or 'severe' in finding|lower or 'urgent' in finding|lower %}
+                            <i class="fas fa-exclamation-circle" style="color: #dc3545;"></i>
+                            {% else %}
+                            <i class="fas fa-info-circle" style="color: #17a2b8;"></i>
+                            {% endif %}
+                        </div>
+                        <div class="finding-text">
+                            {{ finding }}
+                        </div>
+                        <div>
+                            {% if 'normal' in finding|lower %}
+                            <span class="priority-badge low-priority">Normal</span>
+                            {% elif 'critical' in finding|lower or 'severe' in finding|lower %}
+                            <span class="priority-badge high-priority">High Priority</span>
+                            {% elif 'low' in finding|lower or 'high' in finding|lower %}
+                            <span class="priority-badge medium-priority">Attention Needed</span>
+                            {% endif %}
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+
+            <!-- Tab 3: Recommendations -->
+            <div id="recommendations" class="tab-content">
+                <div class="recommendations">
+                    <h2 style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px; color: #2b2d42;">
+                        <i class="fas fa-lightbulb"></i> Personalized Recommendations
+                        <span style="font-size: 0.9rem; color: #6c757d; margin-left: auto;">
+                            {{ recommendations.prioritized_recommendations|length }} recommendations
+                        </span>
+                    </h2>
+                    
+                    <!-- Personalization Context -->
+                    <div style="background: #f8f9ff; padding: 20px; border-radius: 10px; margin-bottom: 25px;">
+                        <h4 style="margin-bottom: 10px; color: #4361ee; display: flex; align-items: center; gap: 10px;">
+                            <i class="fas fa-user-cog"></i> Personalization Context
+                        </h4>
+                        <div style="display: flex; gap: 20px; flex-wrap: wrap;">
+                            <div>
+                                <strong>Age:</strong> {{ recommendations.personalization_factors.age }}
+                                ({{ recommendations.personalization_factors.age_group|replace('_', ' ')|title }})
+                            </div>
+                            <div><strong>Gender:</strong> {{ recommendations.personalization_factors.gender|title }}</div>
+                            <div><strong>Conditions Detected:</strong> {{ recommendations.detected_conditions|length }}</div>
+                        </div>
+                    </div>
+                    
+                    <!-- Top Recommendations -->
+                    {% for rec in recommendations.prioritized_recommendations[:10] %}
+                    <div class="recommendation-card">
+                        <div class="recommendation-icon">
+                            {% if rec.priority_label == 'High Priority' %}
+                            <i class="fas fa-exclamation-circle" style="color: #dc3545;"></i>
+                            {% elif rec.priority_label == 'Medium Priority' %}
+                            <i class="fas fa-star" style="color: #ffc107;"></i>
+                            {% else %}
+                            <i class="fas fa-check-circle" style="color: #28a745;"></i>
+                            {% endif %}
+                        </div>
+                        <div style="flex: 1;">
+                            <div style="display: flex; align-items: center; margin-bottom: 5px;">
+                                <h3 style="margin: 0; color: #2b2d42; font-size: 1.1rem;">{{ rec.recommendation }}</h3>
+                                <span class="priority-badge {% if rec.priority_label == 'High Priority' %}high-priority{% elif rec.priority_label == 'Medium Priority' %}medium-priority{% else %}low-priority{% endif %}" style="margin-left: 15px;">
+                                    {{ rec.priority_label }}
+                                </span>
+                            </div>
+                            <p style="color: #6c757d; margin-bottom: 10px; font-size: 0.9rem;">
+                                <i class="fas fa-tag" style="margin-right: 5px;"></i> {{ rec.category|title }} | 
+                                <i class="fas fa-stethoscope" style="margin-left: 10px; margin-right: 5px;"></i> {{ rec.condition.replace('_', ' ')|title }}
+                            </p>
+                            {% if rec.supporting_findings %}
+                            <div style="background: #f8f9fa; padding: 10px; border-radius: 8px; font-size: 0.85rem;">
+                                <strong style="color: #4361ee;">
+                                    <i class="fas fa-link"></i> Evidence:
+                                </strong>
+                                {% for evidence in rec.supporting_findings %}
+                                <span style="display: inline-block; background: #e9ecef; padding: 3px 8px; border-radius: 4px; margin: 2px;">
+                                    {{ evidence[:30] }}{% if evidence|length > 30 %}...{% endif %}
+                                </span>
+                                {% endfor %}
+                            </div>
+                            {% endif %}
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+
+            <!-- Tab 4: Action Plan -->
+            <div id="action-plan" class="tab-content">
+                <div style="padding: 20px;">
+                    <h2 style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px; color: #2b2d42;">
+                        <i class="fas fa-tasks"></i> Personalized Action Plan
+                    </h2>
+                    
+                    <!-- Action Overview -->
+                    <div style="background: linear-gradient(135deg, #f8f9ff, #e9ecef); padding: 25px; border-radius: 15px; margin-bottom: 30px;">
+                        <h3 style="color: #2b2d42; margin-bottom: 20px; display: flex; align-items: center; gap: 10px;">
+                            <i class="fas fa-roadmap"></i> Health Improvement Timeline
+                        </h3>
+                        <div style="display: flex; gap: 15px; flex-wrap: wrap;">
+                            <div style="flex: 1; min-width: 150px; text-align: center; padding: 15px; background: white; border-radius: 10px;">
+                                <div style="font-size: 2rem; color: #dc3545; margin-bottom: 5px;">
+                                    {{ recommendations.action_plan.immediate_actions|length }}
+                                </div>
+                                <div style="font-weight: bold; color: #dc3545;">Immediate</div>
+                                <div style="font-size: 0.8rem; color: #6c757d;">1-2 days</div>
+                            </div>
+                            <div style="flex: 1; min-width: 150px; text-align: center; padding: 15px; background: white; border-radius: 10px;">
+                                <div style="font-size: 2rem; color: #ffc107; margin-bottom: 5px;">
+                                    {{ recommendations.action_plan.this_week_actions|length }}
+                                </div>
+                                <div style="font-weight: bold; color: #ffc107;">This Week</div>
+                                <div style="font-size: 0.8rem; color: #6c757d;">7 days</div>
+                            </div>
+                            <div style="flex: 1; min-width: 150px; text-align: center; padding: 15px; background: white; border-radius: 10px;">
+                                <div style="font-size: 2rem; color: #17a2b8; margin-bottom: 5px;">
+                                    {{ recommendations.action_plan.this_month_actions|length }}
+                                </div>
+                                <div style="font-weight: bold; color: #17a2b8;">This Month</div>
+                                <div style="font-size: 0.8rem; color: #6c757d;">30 days</div>
+                            </div>
+                            <div style="flex: 1; min-width: 150px; text-align: center; padding: 15px; background: white; border-radius: 10px;">
+                                <div style="font-size: 2rem; color: #28a745; margin-bottom: 5px;">
+                                    {{ recommendations.action_plan.long_term_actions|length }}
+                                </div>
+                                <div style="font-weight: bold; color: #28a745;">Long Term</div>
+                                <div style="font-size: 0.8rem; color: #6c757d;">Ongoing</div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Action Timeline -->
+                    <div class="action-timeline">
+                        <!-- Immediate Actions -->
+                        {% if recommendations.action_plan.immediate_actions %}
+                        <div>
+                            <h3 style="color: #dc3545; margin-bottom: 15px; display: flex; align-items: center; gap: 10px;">
+                                <i class="fas fa-bolt"></i> Immediate Actions (1-2 days)
+                            </h3>
+                            {% for action in recommendations.action_plan.immediate_actions %}
+                            <div class="timeline-item immediate">
+                                <strong>{{ action.action }}</strong>
+                                <p style="color: #6c757d; margin: 8px 0 0 0; font-size: 0.95rem;">
+                                    {{ action.reason }}
+                                </p>
+                                <div style="margin-top: 10px; font-size: 0.85rem; color: #dc3545;">
+                                    <i class="fas fa-clock"></i> Timeframe: {{ action.estimated_time }}
+                                </div>
+                            </div>
+                            {% endfor %}
+                        </div>
+                        {% endif %}
+                        
+                        <!-- This Week Actions -->
+                        {% if recommendations.action_plan.this_week_actions %}
+                        <div>
+                            <h3 style="color: #ffc107; margin-bottom: 15px; display: flex; align-items: center; gap: 10px;">
+                                <i class="fas fa-calendar-week"></i> This Week Actions
+                            </h3>
+                            {% for action in recommendations.action_plan.this_week_actions[:5] %}
+                            <div class="timeline-item week">
+                                <strong>{{ action.action }}</strong>
+                                <p style="color: #6c757d; margin: 8px 0 0 0; font-size: 0.95rem;">
+                                    {{ action.reason }}
+                                </p>
+                                <div style="margin-top: 10px; font-size: 0.85rem; color: #ffc107;">
+                                    <i class="fas fa-clock"></i> Timeframe: {{ action.estimated_time }}
+                                </div>
+                            </div>
+                            {% endfor %}
+                        </div>
+                        {% endif %}
+                        
+                        <!-- This Month Actions -->
+                        {% if recommendations.action_plan.this_month_actions %}
+                        <div>
+                            <h3 style="color: #17a2b8; margin-bottom: 15px; display: flex; align-items: center; gap: 10px;">
+                                <i class="fas fa-calendar-alt"></i> This Month Actions
+                            </h3>
+                            {% for action in recommendations.action_plan.this_month_actions[:5] %}
+                            <div class="timeline-item month">
+                                <strong>{{ action.action }}</strong>
+                                <p style="color: #6c757d; margin: 8px 0 0 0; font-size: 0.95rem;">
+                                    {{ action.reason }}
+                                </p>
+                                <div style="margin-top: 10px; font-size: 0.85rem; color: #17a2b8;">
+                                    <i class="fas fa-clock"></i> Timeframe: {{ action.estimated_time }}
+                                </div>
+                            </div>
+                            {% endfor %}
+                        </div>
+                        {% endif %}
+                        
+                        <!-- Long Term Actions -->
+                        {% if recommendations.action_plan.long_term_actions %}
+                        <div>
+                            <h3 style="color: #28a745; margin-bottom: 15px; display: flex; align-items: center; gap: 10px;">
+                                <i class="fas fa-calendar-check"></i> Long Term Health Maintenance
+                            </h3>
+                            {% for action in recommendations.action_plan.long_term_actions[:5] %}
+                            <div class="timeline-item long-term">
+                                <strong>{{ action.action }}</strong>
+                                <p style="color: #6c757d; margin: 8px 0 0 0; font-size: 0.95rem;">
+                                    {{ action.reason }}
+                                </p>
+                                <div style="margin-top: 10px; font-size: 0.85rem; color: #28a745;">
+                                    <i class="fas fa-infinity"></i> Timeframe: {{ action.estimated_time }}
+                                </div>
+                            </div>
+                            {% endfor %}
+                        </div>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+
+            <!-- Tab 5: Evidence Chain -->
+            <div id="evidence" class="tab-content">
+                <div style="padding: 20px;">
+                    <h2 style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px; color: #2b2d42;">
+                        <i class="fas fa-link"></i> AI Evidence Chain
+                    </h2>
+                    
+                    <p style="color: #6c757d; margin-bottom: 30px; padding: 20px; background: #f8f9ff; border-radius: 10px;">
+                        <i class="fas fa-info-circle" style="color: #4361ee; margin-right: 10px;"></i>
+                        This system maintains complete transparency by linking every recommendation to specific findings. 
+                        Below is the complete evidence chain showing how AI connects data to actionable advice.
+                    </p>
+                    
+                    <!-- Complete Evidence Chain -->
+                    <div class="evidence-chain">
+                        <h4 style="margin-bottom: 20px; color: #4361ee; display: flex; align-items: center; gap: 10px;">
+                            <i class="fas fa-sitemap"></i> Complete Evidence Chain: From Data to Recommendations
+                        </h4>
+                        
+                        <!-- Step 1: Data Collection -->
+                        <div class="chain-item">
+                            <div style="width: 40px; height: 40px; background: #4361ee; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold;">
+                                1
+                            </div>
+                            <div>
+                                <strong style="color: #2b2d42;">Data Collection</strong>
+                                <p style="color: #6c757d; margin: 5px 0 0 0;">
+                                    Raw blood parameters extracted from uploaded report
+                                </p>
+                                <div style="display: flex; gap: 10px; margin-top: 10px; flex-wrap: wrap;">
+                                    {% for key, value in extracted.items() %}
+                                    {% if loop.index <= 5 %}
+                                    <span style="background: #e9ecef; padding: 3px 10px; border-radius: 4px; font-size: 0.85rem;">
+                                        {{ key }}: {{ "%.1f"|format(value|float) }}
+                                    </span>
+                                    {% endif %}
+                                    {% endfor %}
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="chain-arrow" style="text-align: center; margin: 10px 0;">
+                            <i class="fas fa-arrow-down fa-lg" style="color: #6c757d;"></i>
+                        </div>
+                        
+                        <!-- Step 2: AI Model Analysis -->
+                        <div class="chain-item">
+                            <div style="width: 40px; height: 40px; background: #f72585; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold;">
+                                2
+                            </div>
+                            <div>
+                                <strong style="color: #2b2d42;">Multi-Model AI Analysis</strong>
+                                <p style="color: #6c757d; margin: 5px 0 0 0;">
+                                    3 specialized AI models analyze the data
+                                </p>
+                                <div style="display: flex; gap: 15px; margin-top: 15px; flex-wrap: wrap;">
+                                    <div style="flex: 1; min-width: 200px; background: white; padding: 15px; border-radius: 8px;">
+                                        <div style="color: #4361ee; font-weight: bold;">Model 1</div>
+                                        <div style="color: #6c757d; font-size: 0.9rem;">Parameter Interpretation</div>
+                                        <div style="margin-top: 10px; font-size: 0.85rem;">
+                                            <i class="fas fa-check" style="color: #28a745;"></i>
+                                            Analyzes individual parameters
+                                        </div>
+                                    </div>
+                                    <div style="flex: 1; min-width: 200px; background: white; padding: 15px; border-radius: 8px;">
+                                        <div style="color: #f72585; font-weight: bold;">Model 2</div>
+                                        <div style="color: #6c757d; font-size: 0.9rem;">Pattern Recognition</div>
+                                        <div style="margin-top: 10px; font-size: 0.85rem;">
+                                            <i class="fas fa-project-diagram" style="color: #f72585;"></i>
+                                            Identifies complex patterns
+                                        </div>
+                                    </div>
+                                    <div style="flex: 1; min-width: 200px; background: white; padding: 15px; border-radius: 8px;">
+                                        <div style="color: #4cc9f0; font-weight: bold;">Model 3</div>
+                                        <div style="color: #6c757d; font-size: 0.9rem;">Contextual Analysis</div>
+                                        <div style="margin-top: 10px; font-size: 0.85rem;">
+                                            <i class="fas fa-user" style="color: #4cc9f0;"></i>
+                                            Personalizes analysis
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="chain-arrow" style="text-align: center; margin: 10px 0;">
+                            <i class="fas fa-arrow-down fa-lg" style="color: #6c757d;"></i>
+                        </div>
+                        
+                        <!-- Step 3: Synthesis -->
+                        <div class="chain-item">
+                            <div style="width: 40px; height: 40px; background: #4cc9f0; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold;">
+                                3
+                            </div>
+                            <div>
+                                <strong style="color: #2b2d42;">Findings Synthesis</strong>
+                                <p style="color: #6c757d; margin: 5px 0 0 0;">
+                                    All model outputs combined into coherent insights
+                                </p>
+                                <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; margin-top: 15px;">
+                                    <div style="font-weight: 600; color: #2b2d42;">
+                                        <i class="fas fa-brain" style="color: #4cc9f0;"></i>
+                                        Synthesis Result:
+                                    </div>
+                                    <div style="color: #6c757d; margin-top: 10px;">
+                                        • {{ synthesized.total_insights }} total insights<br>
+                                        • {{ synthesized.contradictions_resolved }} contradictions resolved<br>
+                                        • {{ synthesized.key_patterns|length }} key patterns identified<br>
+                                        • Priority: {{ synthesized.priority_level }}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="chain-arrow" style="text-align: center; margin: 10px 0;">
+                            <i class="fas fa-arrow-down fa-lg" style="color: #6c757d;"></i>
+                        </div>
+                        
+                        <!-- Step 4: Recommendations -->
+                        <div class="chain-item">
+                            <div style="width: 40px; height: 40px; background: #28a745; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold;">
+                                4
+                            </div>
+                            <div>
+                                <strong style="color: #2b2d42;">Personalized Recommendations</strong>
+                                <p style="color: #6c757d; margin: 5px 0 0 0;">
+                                    Actionable advice generated based on synthesized findings
+                                </p>
+                                <div style="display: flex; gap: 15px; margin-top: 15px; flex-wrap: wrap;">
+                                    <div style="flex: 1; min-width: 200px; background: #d4edda; padding: 15px; border-radius: 8px;">
+                                        <div style="color: #155724; font-weight: bold;">
+                                            <i class="fas fa-utensils"></i> Diet
+                                        </div>
+                                        <div style="color: #155724; font-size: 0.9rem; margin-top: 5px;">
+                                            {{ recommendations.prioritized_recommendations|selectattr('category', 'equalto', 'diet')|list|length }} recommendations
+                                        </div>
+                                    </div>
+                                    <div style="flex: 1; min-width: 200px; background: #fff3cd; padding: 15px; border-radius: 8px;">
+                                        <div style="color: #856404; font-weight: bold;">
+                                            <i class="fas fa-running"></i> Lifestyle
+                                        </div>
+                                        <div style="color: #856404; font-size: 0.9rem; margin-top: 5px;">
+                                            {{ recommendations.prioritized_recommendations|selectattr('category', 'equalto', 'lifestyle')|list|length }} recommendations
+                                        </div>
+                                    </div>
+                                    <div style="flex: 1; min-width: 200px; background: #d1ecf1; padding: 15px; border-radius: 8px;">
+                                        <div style="color: #0c5460; font-weight: bold;">
+                                            <i class="fas fa-user-md"></i> Medical
+                                        </div>
+                                        <div style="color: #0c5460; font-size: 0.9rem; margin-top: 5px;">
+                                            {{ recommendations.prioritized_recommendations|selectattr('category', 'equalto', 'medical')|list|length }} recommendations
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="chain-arrow" style="text-align: center; margin: 10px 0;">
+                            <i class="fas fa-arrow-down fa-lg" style="color: #6c757d;"></i>
+                        </div>
+                        
+                        <!-- Step 5: Action Plan -->
+                        <div class="chain-item">
+                            <div style="width: 40px; height: 40px; background: #6c757d; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold;">
+                                5
+                            </div>
+                            <div>
+                                <strong style="color: #2b2d42;">Timeline-Based Action Plan</strong>
+                                <p style="color: #6c757d; margin: 5px 0 0 0;">
+                                    Structured implementation plan with clear timelines
+                                </p>
+                                <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; margin-top: 15px;">
+                                    <div style="color: #2b2d42; font-weight: 600;">
+                                        Total Actions: {{ recommendations.action_plan.immediate_actions|length + recommendations.action_plan.this_week_actions|length + recommendations.action_plan.this_month_actions|length + recommendations.action_plan.long_term_actions|length }}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Disclaimer -->
+        <section class="disclaimer">
+            <h2 style="display: flex; align-items: center; gap: 15px; margin-bottom: 15px; color: #721c24;">
+                <i class="fas fa-exclamation-circle"></i> Important Medical Disclaimer
+            </h2>
+            <p style="color: #721c24; line-height: 1.6;">
+                <strong>⚠️ WARNING:</strong> This AI analysis is for informational and educational purposes only. 
+                It is NOT a substitute for professional medical advice, diagnosis, or treatment. 
+                Always seek the advice of your physician or other qualified health provider with 
+                any questions you may have regarding a medical condition. Never disregard 
+                professional medical advice or delay in seeking it because of something you 
+                have read in this analysis.
+            </p>
+        </section>
+
+        <!-- Action Buttons -->
+        <div class="action-buttons">
+            <a href="/" class="action-btn" style="background: linear-gradient(135deg, #4361ee, #3a0ca3);">
+                <i class="fas fa-redo"></i> New Analysis
+            </a>
+            <button class="action-btn" onclick="window.print()" style="background: linear-gradient(135deg, #17a2b8, #0dcaf0);">
+                <i class="fas fa-print"></i> Print Full Report
+            </button>
+            <a href="/demo" class="action-btn" style="background: linear-gradient(135deg, #6c757d, #495057);">
+                <i class="fas fa-play-circle"></i> View Demo
+            </a>
+        </div>
+    </div>
+
+    <!-- JavaScript for Tabs -->
+    <script>
+        function switchTab(tabName) {
+            // Hide all tab contents
+            document.querySelectorAll('.tab-content').forEach(tab => {
+                tab.classList.remove('active');
+            });
+            
+            // Remove active class from all tabs
+            document.querySelectorAll('.tab').forEach(tab => {
+                tab.classList.remove('active');
+            });
+            
+            // Show selected tab content
+            document.getElementById(tabName).classList.add('active');
+            
+            // Activate clicked tab
+            event.target.classList.add('active');
+            
+            // Scroll to top of content
+            document.getElementById(tabName).scrollIntoView({ behavior: 'smooth' });
+        }
+        
+        // Initialize
+        document.addEventListener('DOMContentLoaded', function() {
+            console.log('AI Health Diagnostics Results Page Loaded');
+            
+            // Add keyboard navigation for tabs
+            document.addEventListener('keydown', function(e) {
+                const tabs = document.querySelectorAll('.tab');
+                const activeTab = document.querySelector('.tab.active');
+                let currentIndex = Array.from(tabs).indexOf(activeTab);
+                
+                if (e.key === 'ArrowRight' || e.key === 'ArrowDown') {
+                    e.preventDefault();
+                    currentIndex = (currentIndex + 1) % tabs.length;
+                    tabs[currentIndex].click();
+                } else if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') {
+                    e.preventDefault();
+                    currentIndex = (currentIndex - 1 + tabs.length) % tabs.length;
+                    tabs[currentIndex].click();
+                }
+            });
+            
+            // Print functionality
+            const printBtn = document.querySelector('[onclick="window.print()"]');
+            if (printBtn) {
+                printBtn.addEventListener('click', function() {
+                    alert('Printing full report... Use browser print settings to customize.');
+                });
+            }
+        });
+    </script>
+</body>
+</html>
